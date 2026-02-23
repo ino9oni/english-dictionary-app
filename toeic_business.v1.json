@@ -1,0 +1,2910 @@
+{
+  "schema_version": "1.0",
+  "deck": {
+    "deck_id": "toeic_business",
+    "name": "TOEIC Business 900",
+    "version": 1
+  },
+  "entries": [
+    {
+      "entry_id": "toeic-0001",
+      "term": "acquisition",
+      "display_term": "acquisition",
+      "pronunciation_ipa": "ˌækwɪˈzɪʃən",
+      "pos": "noun",
+      "meaning_en": "the act of buying another company or asset",
+      "meaning_ja": "買収、取得",
+      "preposition_usages": [
+        "acquisition of market share"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review acquisition before the next meeting.",
+          "text_ja": "次回会議までに acquisition を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0002",
+      "term": "allocate",
+      "display_term": "allocate",
+      "pronunciation_ipa": "ˈæləkeɪt",
+      "pos": "verb",
+      "meaning_en": "to assign resources for a specific purpose",
+      "meaning_ja": "割り当てる",
+      "preposition_usages": [
+        "allocate budget to R&D"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review allocate before the next meeting.",
+          "text_ja": "次回会議までに allocate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0003",
+      "term": "amend",
+      "display_term": "amend",
+      "pronunciation_ipa": "əˈmend",
+      "pos": "verb",
+      "meaning_en": "to make changes to improve a document or plan",
+      "meaning_ja": "修正する",
+      "preposition_usages": [
+        "amend a contract with"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review amend before the next meeting.",
+          "text_ja": "次回会議までに amend を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0004",
+      "term": "appraisal",
+      "display_term": "appraisal",
+      "pronunciation_ipa": "əˈpreɪzəl",
+      "pos": "noun",
+      "meaning_en": "an assessment of value or performance",
+      "meaning_ja": "評価、査定",
+      "preposition_usages": [
+        "appraisal of assets"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review appraisal before the next meeting.",
+          "text_ja": "次回会議までに appraisal を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0005",
+      "term": "asset",
+      "display_term": "asset",
+      "pronunciation_ipa": "ˈæset",
+      "pos": "noun",
+      "meaning_en": "something valuable owned by a person or company",
+      "meaning_ja": "資産",
+      "preposition_usages": [
+        "asset for long-term growth"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review asset before the next meeting.",
+          "text_ja": "次回会議までに asset を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0006",
+      "term": "audit",
+      "display_term": "audit",
+      "pronunciation_ipa": "ˈɔːdɪt",
+      "pos": "noun",
+      "meaning_en": "an official examination of financial records",
+      "meaning_ja": "監査",
+      "preposition_usages": [
+        "audit of financial statements"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review audit before the next meeting.",
+          "text_ja": "次回会議までに audit を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0007",
+      "term": "benchmark",
+      "display_term": "benchmark",
+      "pronunciation_ipa": "ˈbentʃmɑːrk",
+      "pos": "noun",
+      "meaning_en": "a standard used for comparison",
+      "meaning_ja": "基準、指標",
+      "preposition_usages": [
+        "benchmark against competitors"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review benchmark before the next meeting.",
+          "text_ja": "次回会議までに benchmark を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0008",
+      "term": "bid",
+      "display_term": "bid",
+      "pronunciation_ipa": "bɪd",
+      "pos": "noun",
+      "meaning_en": "an offer to buy or win a contract",
+      "meaning_ja": "入札、提示額",
+      "preposition_usages": [
+        "bid for a public project"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review bid before the next meeting.",
+          "text_ja": "次回会議までに bid を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0009",
+      "term": "bonus",
+      "display_term": "bonus",
+      "pronunciation_ipa": "ˈboʊnəs",
+      "pos": "noun",
+      "meaning_en": "extra payment added to salary",
+      "meaning_ja": "賞与、ボーナス",
+      "preposition_usages": [
+        "bonus based on performance"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review bonus before the next meeting.",
+          "text_ja": "次回会議までに bonus を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0010",
+      "term": "budget",
+      "display_term": "budget",
+      "pronunciation_ipa": "ˈbʌdʒɪt",
+      "pos": "noun",
+      "meaning_en": "a financial plan for expected income and spending",
+      "meaning_ja": "予算",
+      "preposition_usages": [
+        "budget for next quarter"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review budget before the next meeting.",
+          "text_ja": "次回会議までに budget を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0011",
+      "term": "capacity",
+      "display_term": "capacity",
+      "pronunciation_ipa": "kəˈpæsəti",
+      "pos": "noun",
+      "meaning_en": "the maximum amount that can be produced or handled",
+      "meaning_ja": "能力、収容力",
+      "preposition_usages": [
+        "capacity for large orders"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review capacity before the next meeting.",
+          "text_ja": "次回会議までに capacity を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0012",
+      "term": "clause",
+      "display_term": "clause",
+      "pronunciation_ipa": "klɔːz",
+      "pos": "noun",
+      "meaning_en": "a specific section in a legal document",
+      "meaning_ja": "条項",
+      "preposition_usages": [
+        "clause in the agreement"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review clause before the next meeting.",
+          "text_ja": "次回会議までに clause を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0013",
+      "term": "collateral",
+      "display_term": "collateral",
+      "pronunciation_ipa": "kəˈlætərəl",
+      "pos": "noun",
+      "meaning_en": "property pledged as security for a loan",
+      "meaning_ja": "担保",
+      "preposition_usages": [
+        "collateral for a bank loan"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review collateral before the next meeting.",
+          "text_ja": "次回会議までに collateral を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0014",
+      "term": "comply",
+      "display_term": "comply",
+      "pronunciation_ipa": "kəmˈplaɪ",
+      "pos": "verb",
+      "meaning_en": "to act according to a rule or law",
+      "meaning_ja": "遵守する",
+      "preposition_usages": [
+        "comply with regulations"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review comply before the next meeting.",
+          "text_ja": "次回会議までに comply を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0015",
+      "term": "concession",
+      "display_term": "concession",
+      "pronunciation_ipa": "kənˈseʃən",
+      "pos": "noun",
+      "meaning_en": "something given up to reach agreement",
+      "meaning_ja": "譲歩、利権",
+      "preposition_usages": [
+        "concession on pricing"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review concession before the next meeting.",
+          "text_ja": "次回会議までに concession を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0016",
+      "term": "consensus",
+      "display_term": "consensus",
+      "pronunciation_ipa": "kənˈsensəs",
+      "pos": "noun",
+      "meaning_en": "general agreement among a group",
+      "meaning_ja": "合意",
+      "preposition_usages": [
+        "consensus on strategy"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review consensus before the next meeting.",
+          "text_ja": "次回会議までに consensus を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0017",
+      "term": "consolidate",
+      "display_term": "consolidate",
+      "pronunciation_ipa": "kənˈsɑːlɪdeɪt",
+      "pos": "verb",
+      "meaning_en": "to combine things into a stronger whole",
+      "meaning_ja": "統合する",
+      "preposition_usages": [
+        "consolidate two departments"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review consolidate before the next meeting.",
+          "text_ja": "次回会議までに consolidate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0018",
+      "term": "contingency",
+      "display_term": "contingency",
+      "pronunciation_ipa": "kənˈtɪndʒənsi",
+      "pos": "noun",
+      "meaning_en": "a possible future event requiring preparation",
+      "meaning_ja": "不測の事態、緊急時対応",
+      "preposition_usages": [
+        "contingency plan for delays"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review contingency before the next meeting.",
+          "text_ja": "次回会議までに contingency を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0019",
+      "term": "contract",
+      "display_term": "contract",
+      "pronunciation_ipa": "ˈkɑːntrækt",
+      "pos": "noun",
+      "meaning_en": "a legally binding agreement",
+      "meaning_ja": "契約",
+      "preposition_usages": [
+        "contract with a supplier"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review contract before the next meeting.",
+          "text_ja": "次回会議までに contract を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0020",
+      "term": "corporation",
+      "display_term": "corporation",
+      "pronunciation_ipa": "ˌkɔːrpəˈreɪʃən",
+      "pos": "noun",
+      "meaning_en": "a large company legally recognized as one entity",
+      "meaning_ja": "法人、企業",
+      "preposition_usages": [
+        "corporation listed on the exchange"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review corporation before the next meeting.",
+          "text_ja": "次回会議までに corporation を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0021",
+      "term": "creditor",
+      "display_term": "creditor",
+      "pronunciation_ipa": "ˈkredɪtər",
+      "pos": "noun",
+      "meaning_en": "a person or institution to whom money is owed",
+      "meaning_ja": "債権者",
+      "preposition_usages": [
+        "creditor of the company"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review creditor before the next meeting.",
+          "text_ja": "次回会議までに creditor を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0022",
+      "term": "deadline",
+      "display_term": "deadline",
+      "pronunciation_ipa": "ˈdedlaɪn",
+      "pos": "noun",
+      "meaning_en": "the latest time by which something must be done",
+      "meaning_ja": "締切",
+      "preposition_usages": [
+        "deadline for submission"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review deadline before the next meeting.",
+          "text_ja": "次回会議までに deadline を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0023",
+      "term": "deficit",
+      "display_term": "deficit",
+      "pronunciation_ipa": "ˈdefɪsɪt",
+      "pos": "noun",
+      "meaning_en": "the amount by which spending exceeds income",
+      "meaning_ja": "赤字",
+      "preposition_usages": [
+        "deficit in the annual budget"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review deficit before the next meeting.",
+          "text_ja": "次回会議までに deficit を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0024",
+      "term": "delegate",
+      "display_term": "delegate",
+      "pronunciation_ipa": "ˈdelɪɡeɪt",
+      "pos": "verb",
+      "meaning_en": "to assign responsibility to another person",
+      "meaning_ja": "委任する",
+      "preposition_usages": [
+        "delegate tasks to the team"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review delegate before the next meeting.",
+          "text_ja": "次回会議までに delegate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0025",
+      "term": "depreciation",
+      "display_term": "depreciation",
+      "pronunciation_ipa": "dɪˌpriːʃiˈeɪʃən",
+      "pos": "noun",
+      "meaning_en": "reduction in value over time",
+      "meaning_ja": "減価償却、価値減少",
+      "preposition_usages": [
+        "depreciation of equipment"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review depreciation before the next meeting.",
+          "text_ja": "次回会議までに depreciation を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0026",
+      "term": "derivative",
+      "display_term": "derivative",
+      "pronunciation_ipa": "dɪˈrɪvətɪv",
+      "pos": "noun",
+      "meaning_en": "a financial instrument based on another asset",
+      "meaning_ja": "デリバティブ",
+      "preposition_usages": [
+        "derivative linked to interest rates"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review derivative before the next meeting.",
+          "text_ja": "次回会議までに derivative を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0027",
+      "term": "diversify",
+      "display_term": "diversify",
+      "pronunciation_ipa": "daɪˈvɜːrsɪfaɪ",
+      "pos": "verb",
+      "meaning_en": "to spread risk across different products or markets",
+      "meaning_ja": "多角化する",
+      "preposition_usages": [
+        "diversify into overseas markets"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review diversify before the next meeting.",
+          "text_ja": "次回会議までに diversify を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0028",
+      "term": "dividend",
+      "display_term": "dividend",
+      "pronunciation_ipa": "ˈdɪvɪdend",
+      "pos": "noun",
+      "meaning_en": "part of profits paid to shareholders",
+      "meaning_ja": "配当",
+      "preposition_usages": [
+        "dividend paid annually"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review dividend before the next meeting.",
+          "text_ja": "次回会議までに dividend を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0029",
+      "term": "efficiency",
+      "display_term": "efficiency",
+      "pronunciation_ipa": "ɪˈfɪʃənsi",
+      "pos": "noun",
+      "meaning_en": "ability to work productively with minimal waste",
+      "meaning_ja": "効率",
+      "preposition_usages": [
+        "efficiency in operations"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review efficiency before the next meeting.",
+          "text_ja": "次回会議までに efficiency を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0030",
+      "term": "eligible",
+      "display_term": "eligible",
+      "pronunciation_ipa": "ˈelɪdʒəbəl",
+      "pos": "adjective",
+      "meaning_en": "qualified to be chosen or to receive something",
+      "meaning_ja": "適格な",
+      "preposition_usages": [
+        "eligible for reimbursement"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review eligible before the next meeting.",
+          "text_ja": "次回会議までに eligible を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0031",
+      "term": "enforce",
+      "display_term": "enforce",
+      "pronunciation_ipa": "ɪnˈfɔːrs",
+      "pos": "verb",
+      "meaning_en": "to make sure rules are obeyed",
+      "meaning_ja": "施行する、徹底する",
+      "preposition_usages": [
+        "enforce safety standards"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review enforce before the next meeting.",
+          "text_ja": "次回会議までに enforce を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0032",
+      "term": "enhance",
+      "display_term": "enhance",
+      "pronunciation_ipa": "ɪnˈhæns",
+      "pos": "verb",
+      "meaning_en": "to improve quality or value",
+      "meaning_ja": "高める、向上させる",
+      "preposition_usages": [
+        "enhance customer experience"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review enhance before the next meeting.",
+          "text_ja": "次回会議までに enhance を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0033",
+      "term": "equity",
+      "display_term": "equity",
+      "pronunciation_ipa": "ˈekwəti",
+      "pos": "noun",
+      "meaning_en": "ownership interest in a company",
+      "meaning_ja": "株主資本、持分",
+      "preposition_usages": [
+        "equity in a startup"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review equity before the next meeting.",
+          "text_ja": "次回会議までに equity を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0034",
+      "term": "evaluate",
+      "display_term": "evaluate",
+      "pronunciation_ipa": "ɪˈvæljueɪt",
+      "pos": "verb",
+      "meaning_en": "to assess performance or value",
+      "meaning_ja": "評価する",
+      "preposition_usages": [
+        "evaluate investment options"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review evaluate before the next meeting.",
+          "text_ja": "次回会議までに evaluate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0035",
+      "term": "exceed",
+      "display_term": "exceed",
+      "pronunciation_ipa": "ɪkˈsiːd",
+      "pos": "verb",
+      "meaning_en": "to go beyond a limit or expectation",
+      "meaning_ja": "超える",
+      "preposition_usages": [
+        "exceed sales targets"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review exceed before the next meeting.",
+          "text_ja": "次回会議までに exceed を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0036",
+      "term": "expenditure",
+      "display_term": "expenditure",
+      "pronunciation_ipa": "ɪkˈspendɪtʃər",
+      "pos": "noun",
+      "meaning_en": "the act of spending money",
+      "meaning_ja": "支出",
+      "preposition_usages": [
+        "expenditure on training"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review expenditure before the next meeting.",
+          "text_ja": "次回会議までに expenditure を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0037",
+      "term": "forecast",
+      "display_term": "forecast",
+      "pronunciation_ipa": "ˈfɔːrkæst",
+      "pos": "noun",
+      "meaning_en": "a prediction based on data",
+      "meaning_ja": "予測",
+      "preposition_usages": [
+        "forecast for demand"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review forecast before the next meeting.",
+          "text_ja": "次回会議までに forecast を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0038",
+      "term": "franchise",
+      "display_term": "franchise",
+      "pronunciation_ipa": "ˈfræntʃaɪz",
+      "pos": "noun",
+      "meaning_en": "a license to operate a business model",
+      "meaning_ja": "フランチャイズ",
+      "preposition_usages": [
+        "franchise in the retail sector"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review franchise before the next meeting.",
+          "text_ja": "次回会議までに franchise を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0039",
+      "term": "fund",
+      "display_term": "fund",
+      "pronunciation_ipa": "fʌnd",
+      "pos": "noun",
+      "meaning_en": "money reserved for a specific purpose",
+      "meaning_ja": "基金、資金",
+      "preposition_usages": [
+        "fund for expansion"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review fund before the next meeting.",
+          "text_ja": "次回会議までに fund を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0040",
+      "term": "gross",
+      "display_term": "gross",
+      "pronunciation_ipa": "ɡroʊs",
+      "pos": "adjective",
+      "meaning_en": "before deductions such as tax or costs",
+      "meaning_ja": "総計の、粗利益の",
+      "preposition_usages": [
+        "gross profit margin"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review gross before the next meeting.",
+          "text_ja": "次回会議までに gross を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0041",
+      "term": "implement",
+      "display_term": "implement",
+      "pronunciation_ipa": "ˈɪmplɪment",
+      "pos": "verb",
+      "meaning_en": "to put a plan into action",
+      "meaning_ja": "実施する",
+      "preposition_usages": [
+        "implement a new policy"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review implement before the next meeting.",
+          "text_ja": "次回会議までに implement を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0042",
+      "term": "incentive",
+      "display_term": "incentive",
+      "pronunciation_ipa": "ɪnˈsentɪv",
+      "pos": "noun",
+      "meaning_en": "something that motivates action",
+      "meaning_ja": "奨励策、報奨",
+      "preposition_usages": [
+        "incentive for high performers"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review incentive before the next meeting.",
+          "text_ja": "次回会議までに incentive を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0043",
+      "term": "inflation",
+      "display_term": "inflation",
+      "pronunciation_ipa": "ɪnˈfleɪʃən",
+      "pos": "noun",
+      "meaning_en": "a general rise in prices over time",
+      "meaning_ja": "インフレ",
+      "preposition_usages": [
+        "inflation above target"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review inflation before the next meeting.",
+          "text_ja": "次回会議までに inflation を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0044",
+      "term": "infrastructure",
+      "display_term": "infrastructure",
+      "pronunciation_ipa": "ˈɪnfrəˌstrʌktʃər",
+      "pos": "noun",
+      "meaning_en": "basic systems needed for operation",
+      "meaning_ja": "インフラ",
+      "preposition_usages": [
+        "infrastructure for logistics"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review infrastructure before the next meeting.",
+          "text_ja": "次回会議までに infrastructure を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0045",
+      "term": "innovate",
+      "display_term": "innovate",
+      "pronunciation_ipa": "ˈɪnəveɪt",
+      "pos": "verb",
+      "meaning_en": "to introduce new ideas or methods",
+      "meaning_ja": "革新する",
+      "preposition_usages": [
+        "innovate in product design"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review innovate before the next meeting.",
+          "text_ja": "次回会議までに innovate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0046",
+      "term": "installment",
+      "display_term": "installment",
+      "pronunciation_ipa": "ɪnˈstɔːlmənt",
+      "pos": "noun",
+      "meaning_en": "one of several payments made over time",
+      "meaning_ja": "分割払い",
+      "preposition_usages": [
+        "installment plan for equipment"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review installment before the next meeting.",
+          "text_ja": "次回会議までに installment を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0047",
+      "term": "integrate",
+      "display_term": "integrate",
+      "pronunciation_ipa": "ˈɪntɪɡreɪt",
+      "pos": "verb",
+      "meaning_en": "to combine parts into a unified whole",
+      "meaning_ja": "統合する",
+      "preposition_usages": [
+        "integrate systems with"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review integrate before the next meeting.",
+          "text_ja": "次回会議までに integrate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0048",
+      "term": "interest",
+      "display_term": "interest",
+      "pronunciation_ipa": "ˈɪntrəst",
+      "pos": "noun",
+      "meaning_en": "money paid for borrowing funds",
+      "meaning_ja": "利息",
+      "preposition_usages": [
+        "interest on debt"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review interest before the next meeting.",
+          "text_ja": "次回会議までに interest を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0049",
+      "term": "inventory",
+      "display_term": "inventory",
+      "pronunciation_ipa": "ˈɪnvənˌtɔːri",
+      "pos": "noun",
+      "meaning_en": "goods kept in stock",
+      "meaning_ja": "在庫",
+      "preposition_usages": [
+        "inventory at the warehouse"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review inventory before the next meeting.",
+          "text_ja": "次回会議までに inventory を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0050",
+      "term": "invoice",
+      "display_term": "invoice",
+      "pronunciation_ipa": "ˈɪnvɔɪs",
+      "pos": "noun",
+      "meaning_en": "a bill for goods or services",
+      "meaning_ja": "請求書",
+      "preposition_usages": [
+        "invoice for consulting services"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review invoice before the next meeting.",
+          "text_ja": "次回会議までに invoice を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0051",
+      "term": "liability",
+      "display_term": "liability",
+      "pronunciation_ipa": "ˌlaɪəˈbɪləti",
+      "pos": "noun",
+      "meaning_en": "a debt or legal responsibility",
+      "meaning_ja": "負債、責任",
+      "preposition_usages": [
+        "liability on the balance sheet"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review liability before the next meeting.",
+          "text_ja": "次回会議までに liability を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0052",
+      "term": "logistics",
+      "display_term": "logistics",
+      "pronunciation_ipa": "ləˈdʒɪstɪks",
+      "pos": "noun",
+      "meaning_en": "management of transport and distribution",
+      "meaning_ja": "物流",
+      "preposition_usages": [
+        "logistics for international shipping"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review logistics before the next meeting.",
+          "text_ja": "次回会議までに logistics を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0053",
+      "term": "margin",
+      "display_term": "margin",
+      "pronunciation_ipa": "ˈmɑːrdʒɪn",
+      "pos": "noun",
+      "meaning_en": "difference between revenue and cost",
+      "meaning_ja": "利益幅、マージン",
+      "preposition_usages": [
+        "margin on each unit"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review margin before the next meeting.",
+          "text_ja": "次回会議までに margin を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0054",
+      "term": "merger",
+      "display_term": "merger",
+      "pronunciation_ipa": "ˈmɜːrdʒər",
+      "pos": "noun",
+      "meaning_en": "combination of two companies",
+      "meaning_ja": "合併",
+      "preposition_usages": [
+        "merger with a competitor"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review merger before the next meeting.",
+          "text_ja": "次回会議までに merger を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0055",
+      "term": "negotiate",
+      "display_term": "negotiate",
+      "pronunciation_ipa": "nɪˈɡoʊʃieɪt",
+      "pos": "verb",
+      "meaning_en": "to discuss to reach agreement",
+      "meaning_ja": "交渉する",
+      "preposition_usages": [
+        "negotiate with vendors"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review negotiate before the next meeting.",
+          "text_ja": "次回会議までに negotiate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0056",
+      "term": "objective",
+      "display_term": "objective",
+      "pronunciation_ipa": "əbˈdʒektɪv",
+      "pos": "noun",
+      "meaning_en": "a goal to be achieved",
+      "meaning_ja": "目標",
+      "preposition_usages": [
+        "objective for this fiscal year"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review objective before the next meeting.",
+          "text_ja": "次回会議までに objective を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0057",
+      "term": "obsolete",
+      "display_term": "obsolete",
+      "pronunciation_ipa": "ˌɑːbsəˈliːt",
+      "pos": "adjective",
+      "meaning_en": "no longer useful due to newer alternatives",
+      "meaning_ja": "廃れた、旧式の",
+      "preposition_usages": [
+        "obsolete equipment in"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review obsolete before the next meeting.",
+          "text_ja": "次回会議までに obsolete を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0058",
+      "term": "overhead",
+      "display_term": "overhead",
+      "pronunciation_ipa": "ˈoʊvərhed",
+      "pos": "noun",
+      "meaning_en": "ongoing business operating costs",
+      "meaning_ja": "間接費、諸経費",
+      "preposition_usages": [
+        "overhead for office operations"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review overhead before the next meeting.",
+          "text_ja": "次回会議までに overhead を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0059",
+      "term": "outsource",
+      "display_term": "outsource",
+      "pronunciation_ipa": "ˈaʊtsɔːrs",
+      "pos": "verb",
+      "meaning_en": "to contract work to an outside company",
+      "meaning_ja": "外部委託する",
+      "preposition_usages": [
+        "outsource support operations to"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review outsource before the next meeting.",
+          "text_ja": "次回会議までに outsource を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0060",
+      "term": "outstanding",
+      "display_term": "outstanding",
+      "pronunciation_ipa": "aʊtˈstændɪŋ",
+      "pos": "adjective",
+      "meaning_en": "not yet paid, done, or resolved",
+      "meaning_ja": "未払いの、未処理の",
+      "preposition_usages": [
+        "outstanding payment from"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review outstanding before the next meeting.",
+          "text_ja": "次回会議までに outstanding を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0061",
+      "term": "partnership",
+      "display_term": "partnership",
+      "pronunciation_ipa": "ˈpɑːrtnərʃɪp",
+      "pos": "noun",
+      "meaning_en": "a cooperative business relationship",
+      "meaning_ja": "提携、協業",
+      "preposition_usages": [
+        "partnership with a distributor"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review partnership before the next meeting.",
+          "text_ja": "次回会議までに partnership を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0062",
+      "term": "penalty",
+      "display_term": "penalty",
+      "pronunciation_ipa": "ˈpenəlti",
+      "pos": "noun",
+      "meaning_en": "a punishment or fee for violating rules",
+      "meaning_ja": "違約金、罰金",
+      "preposition_usages": [
+        "penalty for late delivery"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review penalty before the next meeting.",
+          "text_ja": "次回会議までに penalty を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0063",
+      "term": "portfolio",
+      "display_term": "portfolio",
+      "pronunciation_ipa": "pɔːrtˈfoʊlioʊ",
+      "pos": "noun",
+      "meaning_en": "a collection of investments or products",
+      "meaning_ja": "ポートフォリオ",
+      "preposition_usages": [
+        "portfolio of products"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review portfolio before the next meeting.",
+          "text_ja": "次回会議までに portfolio を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0064",
+      "term": "premium",
+      "display_term": "premium",
+      "pronunciation_ipa": "ˈpriːmiəm",
+      "pos": "noun",
+      "meaning_en": "an amount paid above standard price",
+      "meaning_ja": "割増金、保険料",
+      "preposition_usages": [
+        "premium on insurance"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review premium before the next meeting.",
+          "text_ja": "次回会議までに premium を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0065",
+      "term": "procure",
+      "display_term": "procure",
+      "pronunciation_ipa": "prəˈkjʊr",
+      "pos": "verb",
+      "meaning_en": "to obtain supplies or services",
+      "meaning_ja": "調達する",
+      "preposition_usages": [
+        "procure raw materials from"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review procure before the next meeting.",
+          "text_ja": "次回会議までに procure を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0066",
+      "term": "productivity",
+      "display_term": "productivity",
+      "pronunciation_ipa": "ˌproʊdʌkˈtɪvəti",
+      "pos": "noun",
+      "meaning_en": "amount of output produced efficiently",
+      "meaning_ja": "生産性",
+      "preposition_usages": [
+        "productivity per employee"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review productivity before the next meeting.",
+          "text_ja": "次回会議までに productivity を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0067",
+      "term": "proposal",
+      "display_term": "proposal",
+      "pronunciation_ipa": "prəˈpoʊzəl",
+      "pos": "noun",
+      "meaning_en": "a formal plan or suggestion",
+      "meaning_ja": "提案書、提案",
+      "preposition_usages": [
+        "proposal for a new project"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review proposal before the next meeting.",
+          "text_ja": "次回会議までに proposal を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0068",
+      "term": "prospect",
+      "display_term": "prospect",
+      "pronunciation_ipa": "ˈprɑːspekt",
+      "pos": "noun",
+      "meaning_en": "a potential customer or future possibility",
+      "meaning_ja": "見込み客、可能性",
+      "preposition_usages": [
+        "prospect for new business"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review prospect before the next meeting.",
+          "text_ja": "次回会議までに prospect を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0069",
+      "term": "quota",
+      "display_term": "quota",
+      "pronunciation_ipa": "ˈkwoʊtə",
+      "pos": "noun",
+      "meaning_en": "a fixed share or target amount",
+      "meaning_ja": "割当量、ノルマ",
+      "preposition_usages": [
+        "quota for monthly sales"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review quota before the next meeting.",
+          "text_ja": "次回会議までに quota を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0070",
+      "term": "recruit",
+      "display_term": "recruit",
+      "pronunciation_ipa": "rɪˈkruːt",
+      "pos": "verb",
+      "meaning_en": "to hire new staff",
+      "meaning_ja": "採用する",
+      "preposition_usages": [
+        "recruit engineers for"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review recruit before the next meeting.",
+          "text_ja": "次回会議までに recruit を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0071",
+      "term": "reimbursement",
+      "display_term": "reimbursement",
+      "pronunciation_ipa": "ˌriːɪmˈbɜːrsmənt",
+      "pos": "noun",
+      "meaning_en": "repayment for money spent",
+      "meaning_ja": "払い戻し、精算",
+      "preposition_usages": [
+        "reimbursement for travel"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review reimbursement before the next meeting.",
+          "text_ja": "次回会議までに reimbursement を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0072",
+      "term": "revenue",
+      "display_term": "revenue",
+      "pronunciation_ipa": "ˈrevənuː",
+      "pos": "noun",
+      "meaning_en": "income from business activities",
+      "meaning_ja": "売上高、収益",
+      "preposition_usages": [
+        "revenue from subscriptions"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review revenue before the next meeting.",
+          "text_ja": "次回会議までに revenue を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0073",
+      "term": "safeguard",
+      "display_term": "safeguard",
+      "pronunciation_ipa": "ˈseɪfɡɑːrd",
+      "pos": "verb",
+      "meaning_en": "to protect from risk or damage",
+      "meaning_ja": "保護する",
+      "preposition_usages": [
+        "safeguard customer data"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review safeguard before the next meeting.",
+          "text_ja": "次回会議までに safeguard を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0074",
+      "term": "securities",
+      "display_term": "securities",
+      "pronunciation_ipa": "sɪˈkjʊrətiz",
+      "pos": "noun",
+      "meaning_en": "tradable financial instruments",
+      "meaning_ja": "有価証券",
+      "preposition_usages": [
+        "securities listed on"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review securities before the next meeting.",
+          "text_ja": "次回会議までに securities を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0075",
+      "term": "shipment",
+      "display_term": "shipment",
+      "pronunciation_ipa": "ˈʃɪpmənt",
+      "pos": "noun",
+      "meaning_en": "goods sent from one place to another",
+      "meaning_ja": "出荷、積荷",
+      "preposition_usages": [
+        "shipment to overseas clients"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review shipment before the next meeting.",
+          "text_ja": "次回会議までに shipment を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0076",
+      "term": "stakeholder",
+      "display_term": "stakeholder",
+      "pronunciation_ipa": "ˈsteɪkˌhoʊldər",
+      "pos": "noun",
+      "meaning_en": "a person affected by business decisions",
+      "meaning_ja": "利害関係者",
+      "preposition_usages": [
+        "stakeholder in the project"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review stakeholder before the next meeting.",
+          "text_ja": "次回会議までに stakeholder を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0077",
+      "term": "strategy",
+      "display_term": "strategy",
+      "pronunciation_ipa": "ˈstrætədʒi",
+      "pos": "noun",
+      "meaning_en": "a plan for achieving long-term goals",
+      "meaning_ja": "戦略",
+      "preposition_usages": [
+        "strategy for market entry"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review strategy before the next meeting.",
+          "text_ja": "次回会議までに strategy を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0078",
+      "term": "subsidy",
+      "display_term": "subsidy",
+      "pronunciation_ipa": "ˈsʌbsədi",
+      "pos": "noun",
+      "meaning_en": "financial support from government or organization",
+      "meaning_ja": "補助金",
+      "preposition_usages": [
+        "subsidy for innovation"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review subsidy before the next meeting.",
+          "text_ja": "次回会議までに subsidy を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0079",
+      "term": "surplus",
+      "display_term": "surplus",
+      "pronunciation_ipa": "ˈsɜːrplʌs",
+      "pos": "noun",
+      "meaning_en": "an amount left over after needs are met",
+      "meaning_ja": "余剰、黒字",
+      "preposition_usages": [
+        "surplus in inventory"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review surplus before the next meeting.",
+          "text_ja": "次回会議までに surplus を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0080",
+      "term": "sustain",
+      "display_term": "sustain",
+      "pronunciation_ipa": "səˈsteɪn",
+      "pos": "verb",
+      "meaning_en": "to maintain over time",
+      "meaning_ja": "維持する",
+      "preposition_usages": [
+        "sustain growth over"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review sustain before the next meeting.",
+          "text_ja": "次回会議までに sustain を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0081",
+      "term": "tariff",
+      "display_term": "tariff",
+      "pronunciation_ipa": "ˈtærɪf",
+      "pos": "noun",
+      "meaning_en": "a tax on imported goods",
+      "meaning_ja": "関税",
+      "preposition_usages": [
+        "tariff on imported goods"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review tariff before the next meeting.",
+          "text_ja": "次回会議までに tariff を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0082",
+      "term": "turnover",
+      "display_term": "turnover",
+      "pronunciation_ipa": "ˈtɜːrnoʊvər",
+      "pos": "noun",
+      "meaning_en": "the rate at which employees leave or stock is sold",
+      "meaning_ja": "離職率、回転率",
+      "preposition_usages": [
+        "turnover in the workforce"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review turnover before the next meeting.",
+          "text_ja": "次回会議までに turnover を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0083",
+      "term": "underwrite",
+      "display_term": "underwrite",
+      "pronunciation_ipa": "ˌʌndərˈraɪt",
+      "pos": "verb",
+      "meaning_en": "to assume financial risk for a fee",
+      "meaning_ja": "引き受ける（保険・証券）",
+      "preposition_usages": [
+        "underwrite a bond issue"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review underwrite before the next meeting.",
+          "text_ja": "次回会議までに underwrite を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0084",
+      "term": "upgrade",
+      "display_term": "upgrade",
+      "pronunciation_ipa": "ʌpˈɡreɪd",
+      "pos": "verb",
+      "meaning_en": "to improve to a higher standard",
+      "meaning_ja": "アップグレードする",
+      "preposition_usages": [
+        "upgrade infrastructure for"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review upgrade before the next meeting.",
+          "text_ja": "次回会議までに upgrade を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0085",
+      "term": "utility",
+      "display_term": "utility",
+      "pronunciation_ipa": "juːˈtɪləti",
+      "pos": "noun",
+      "meaning_en": "the usefulness of something",
+      "meaning_ja": "実用性、公益事業",
+      "preposition_usages": [
+        "utility for business users"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review utility before the next meeting.",
+          "text_ja": "次回会議までに utility を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0086",
+      "term": "validate",
+      "display_term": "validate",
+      "pronunciation_ipa": "ˈvælɪdeɪt",
+      "pos": "verb",
+      "meaning_en": "to confirm accuracy or legitimacy",
+      "meaning_ja": "検証する",
+      "preposition_usages": [
+        "validate assumptions with"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review validate before the next meeting.",
+          "text_ja": "次回会議までに validate を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0087",
+      "term": "vendor",
+      "display_term": "vendor",
+      "pronunciation_ipa": "ˈvendər",
+      "pos": "noun",
+      "meaning_en": "a company that sells goods or services",
+      "meaning_ja": "販売業者、ベンダー",
+      "preposition_usages": [
+        "vendor for cloud services"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review vendor before the next meeting.",
+          "text_ja": "次回会議までに vendor を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0088",
+      "term": "volatile",
+      "display_term": "volatile",
+      "pronunciation_ipa": "ˈvɑːlətl",
+      "pos": "adjective",
+      "meaning_en": "changing quickly and unpredictably",
+      "meaning_ja": "変動の激しい",
+      "preposition_usages": [
+        "volatile market for"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review volatile before the next meeting.",
+          "text_ja": "次回会議までに volatile を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0089",
+      "term": "warranty",
+      "display_term": "warranty",
+      "pronunciation_ipa": "ˈwɔːrənti",
+      "pos": "noun",
+      "meaning_en": "a written guarantee on a product",
+      "meaning_ja": "保証（書）",
+      "preposition_usages": [
+        "warranty on equipment"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review warranty before the next meeting.",
+          "text_ja": "次回会議までに warranty を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0090",
+      "term": "withdraw",
+      "display_term": "withdraw",
+      "pronunciation_ipa": "wɪðˈdrɔː",
+      "pos": "verb",
+      "meaning_en": "to remove money or cancel participation",
+      "meaning_ja": "引き出す、撤回する",
+      "preposition_usages": [
+        "withdraw funds from"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review withdraw before the next meeting.",
+          "text_ja": "次回会議までに withdraw を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0091",
+      "term": "yield",
+      "display_term": "yield",
+      "pronunciation_ipa": "jiːld",
+      "pos": "noun",
+      "meaning_en": "the return produced by an investment",
+      "meaning_ja": "利回り、収益",
+      "preposition_usages": [
+        "yield on government bonds"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review yield before the next meeting.",
+          "text_ja": "次回会議までに yield を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0092",
+      "term": "compliance",
+      "display_term": "compliance",
+      "pronunciation_ipa": "kəmˈplaɪəns",
+      "pos": "noun",
+      "meaning_en": "the act of following rules and laws",
+      "meaning_ja": "コンプライアンス、法令遵守",
+      "preposition_usages": [
+        "compliance with industry standards"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review compliance before the next meeting.",
+          "text_ja": "次回会議までに compliance を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0093",
+      "term": "tenure",
+      "display_term": "tenure",
+      "pronunciation_ipa": "ˈtenjər",
+      "pos": "noun",
+      "meaning_en": "the period of holding a position",
+      "meaning_ja": "在任期間",
+      "preposition_usages": [
+        "tenure in the current role"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review tenure before the next meeting.",
+          "text_ja": "次回会議までに tenure を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0094",
+      "term": "liquidity",
+      "display_term": "liquidity",
+      "pronunciation_ipa": "lɪˈkwɪdəti",
+      "pos": "noun",
+      "meaning_en": "ability to convert assets into cash quickly",
+      "meaning_ja": "流動性",
+      "preposition_usages": [
+        "liquidity in the market"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review liquidity before the next meeting.",
+          "text_ja": "次回会議までに liquidity を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0095",
+      "term": "solvency",
+      "display_term": "solvency",
+      "pronunciation_ipa": "ˈsɑːlvənsi",
+      "pos": "noun",
+      "meaning_en": "ability to meet long-term debts",
+      "meaning_ja": "支払能力、健全性",
+      "preposition_usages": [
+        "solvency of the firm"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review solvency before the next meeting.",
+          "text_ja": "次回会議までに solvency を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0096",
+      "term": "amortize",
+      "display_term": "amortize",
+      "pronunciation_ipa": "ˈæmərtaɪz",
+      "pos": "verb",
+      "meaning_en": "to spread payments over time",
+      "meaning_ja": "償却する、分割返済する",
+      "preposition_usages": [
+        "amortize debt over"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review amortize before the next meeting.",
+          "text_ja": "次回会議までに amortize を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0097",
+      "term": "accrual",
+      "display_term": "accrual",
+      "pronunciation_ipa": "əˈkruːəl",
+      "pos": "noun",
+      "meaning_en": "an accounting entry for earned or incurred amounts",
+      "meaning_ja": "発生主義計上",
+      "preposition_usages": [
+        "accrual for expenses"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review accrual before the next meeting.",
+          "text_ja": "次回会議までに accrual を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0098",
+      "term": "capitalize",
+      "display_term": "capitalize",
+      "pronunciation_ipa": "ˈkæpɪtəlaɪz",
+      "pos": "verb",
+      "meaning_en": "to record as an asset or take advantage of",
+      "meaning_ja": "資産計上する、活用する",
+      "preposition_usages": [
+        "capitalize development costs"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review capitalize before the next meeting.",
+          "text_ja": "次回会議までに capitalize を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0099",
+      "term": "disburse",
+      "display_term": "disburse",
+      "pronunciation_ipa": "dɪsˈbɜːrs",
+      "pos": "verb",
+      "meaning_en": "to pay out money",
+      "meaning_ja": "支払う、支出する",
+      "preposition_usages": [
+        "disburse funds to"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "We need to review disburse before the next meeting.",
+          "text_ja": "次回会議までに disburse を確認する必要があります。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "toeic-0100",
+      "term": "leverage",
+      "display_term": "leverage",
+      "pronunciation_ipa": "ˈlevərɪdʒ",
+      "pos": "verb",
+      "meaning_en": "to use resources effectively for greater results",
+      "meaning_ja": "（資源を）てこ入れして活用する",
+      "preposition_usages": [
+        "leverage data for better decisions"
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "toeic",
+        "business",
+        "advanced"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The team leveraged customer data for better decisions.",
+          "text_ja": "チームは顧客データを活用してより良い意思決定を行った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    }
+  ]
+}

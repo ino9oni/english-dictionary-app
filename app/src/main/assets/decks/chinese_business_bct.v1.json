@@ -1,0 +1,3930 @@
+{
+  "schema_version": "1.0",
+  "deck": {
+    "deck_id": "chinese_business_bct",
+    "name": "Chinese Business BCT",
+    "version": 1
+  },
+  "entries": [
+    {
+      "entry_id": "zhb-0001",
+      "term": "会议",
+      "display_term": "会议",
+      "pronunciation_ipa": "huì yì",
+      "pos": "noun",
+      "meaning_en": "meeting",
+      "meaning_ja": "会議",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '会议' (huì yì) in a short dialogue.",
+          "text_ja": "'会议'（huì yì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0002",
+      "term": "日程",
+      "display_term": "日程",
+      "pronunciation_ipa": "rì chéng",
+      "pos": "noun",
+      "meaning_en": "schedule",
+      "meaning_ja": "日程",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '日程' (rì chéng) in a short dialogue.",
+          "text_ja": "'日程'（rì chéng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0003",
+      "term": "计划",
+      "display_term": "计划",
+      "pronunciation_ipa": "jì huà",
+      "pos": "noun",
+      "meaning_en": "plan",
+      "meaning_ja": "計画",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '计划' (jì huà) in a short dialogue.",
+          "text_ja": "'计划'（jì huà）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0004",
+      "term": "目标",
+      "display_term": "目标",
+      "pronunciation_ipa": "mù biāo",
+      "pos": "noun",
+      "meaning_en": "goal; target",
+      "meaning_ja": "目標",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '目标' (mù biāo) in a short dialogue.",
+          "text_ja": "'目标'（mù biāo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0005",
+      "term": "战略",
+      "display_term": "战略",
+      "pronunciation_ipa": "zhàn lüè",
+      "pos": "noun",
+      "meaning_en": "strategy",
+      "meaning_ja": "戦略",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '战略' (zhàn lüè) in a short dialogue.",
+          "text_ja": "'战略'（zhàn lüè）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0006",
+      "term": "预算",
+      "display_term": "预算",
+      "pronunciation_ipa": "yù suàn",
+      "pos": "noun",
+      "meaning_en": "budget",
+      "meaning_ja": "予算",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '预算' (yù suàn) in a short dialogue.",
+          "text_ja": "'预算'（yù suàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0007",
+      "term": "成本",
+      "display_term": "成本",
+      "pronunciation_ipa": "chéng běn",
+      "pos": "noun",
+      "meaning_en": "cost",
+      "meaning_ja": "コスト",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '成本' (chéng běn) in a short dialogue.",
+          "text_ja": "'成本'（chéng běn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0008",
+      "term": "利润",
+      "display_term": "利润",
+      "pronunciation_ipa": "lì rùn",
+      "pos": "noun",
+      "meaning_en": "profit",
+      "meaning_ja": "利益",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '利润' (lì rùn) in a short dialogue.",
+          "text_ja": "'利润'（lì rùn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0009",
+      "term": "收入",
+      "display_term": "收入",
+      "pronunciation_ipa": "shōu rù",
+      "pos": "noun",
+      "meaning_en": "revenue; income",
+      "meaning_ja": "収入／売上",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '收入' (shōu rù) in a short dialogue.",
+          "text_ja": "'收入'（shōu rù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0010",
+      "term": "支出",
+      "display_term": "支出",
+      "pronunciation_ipa": "zhī chū",
+      "pos": "noun",
+      "meaning_en": "expenditure",
+      "meaning_ja": "支出",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '支出' (zhī chū) in a short dialogue.",
+          "text_ja": "'支出'（zhī chū）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0011",
+      "term": "合同",
+      "display_term": "合同",
+      "pronunciation_ipa": "hé tong",
+      "pos": "noun",
+      "meaning_en": "contract",
+      "meaning_ja": "契約",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '合同' (hé tong) in a short dialogue.",
+          "text_ja": "'合同'（hé tong）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0012",
+      "term": "条款",
+      "display_term": "条款",
+      "pronunciation_ipa": "tiáo kuǎn",
+      "pos": "noun",
+      "meaning_en": "terms; clause",
+      "meaning_ja": "条項",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '条款' (tiáo kuǎn) in a short dialogue.",
+          "text_ja": "'条款'（tiáo kuǎn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0013",
+      "term": "签字",
+      "display_term": "签字",
+      "pronunciation_ipa": "qiān zì",
+      "pos": "verb",
+      "meaning_en": "to sign",
+      "meaning_ja": "署名する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '签字' (qiān zì) in a short dialogue.",
+          "text_ja": "'签字'（qiān zì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0014",
+      "term": "审批",
+      "display_term": "审批",
+      "pronunciation_ipa": "shěn pī",
+      "pos": "verb",
+      "meaning_en": "to approve",
+      "meaning_ja": "承認する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '审批' (shěn pī) in a short dialogue.",
+          "text_ja": "'审批'（shěn pī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0015",
+      "term": "申请",
+      "display_term": "申请",
+      "pronunciation_ipa": "shēn qǐng",
+      "pos": "verb",
+      "meaning_en": "to apply",
+      "meaning_ja": "申請する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '申请' (shēn qǐng) in a short dialogue.",
+          "text_ja": "'申请'（shēn qǐng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0016",
+      "term": "流程",
+      "display_term": "流程",
+      "pronunciation_ipa": "liú chéng",
+      "pos": "noun",
+      "meaning_en": "workflow; process",
+      "meaning_ja": "業務フロー",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '流程' (liú chéng) in a short dialogue.",
+          "text_ja": "'流程'（liú chéng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0017",
+      "term": "项目",
+      "display_term": "项目",
+      "pronunciation_ipa": "xiàng mù",
+      "pos": "noun",
+      "meaning_en": "project",
+      "meaning_ja": "プロジェクト",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '项目' (xiàng mù) in a short dialogue.",
+          "text_ja": "'项目'（xiàng mù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0018",
+      "term": "进度",
+      "display_term": "进度",
+      "pronunciation_ipa": "jìn dù",
+      "pos": "noun",
+      "meaning_en": "progress",
+      "meaning_ja": "進捗",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '进度' (jìn dù) in a short dialogue.",
+          "text_ja": "'进度'（jìn dù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0019",
+      "term": "风险",
+      "display_term": "风险",
+      "pronunciation_ipa": "fēng xiǎn",
+      "pos": "noun",
+      "meaning_en": "risk",
+      "meaning_ja": "リスク",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '风险' (fēng xiǎn) in a short dialogue.",
+          "text_ja": "'风险'（fēng xiǎn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0020",
+      "term": "方案",
+      "display_term": "方案",
+      "pronunciation_ipa": "fāng àn",
+      "pos": "noun",
+      "meaning_en": "proposal; solution",
+      "meaning_ja": "方案",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '方案' (fāng àn) in a short dialogue.",
+          "text_ja": "'方案'（fāng àn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0021",
+      "term": "报价",
+      "display_term": "报价",
+      "pronunciation_ipa": "bào jià",
+      "pos": "noun",
+      "meaning_en": "quotation",
+      "meaning_ja": "見積価格",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '报价' (bào jià) in a short dialogue.",
+          "text_ja": "'报价'（bào jià）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0022",
+      "term": "投标",
+      "display_term": "投标",
+      "pronunciation_ipa": "tóu biāo",
+      "pos": "verb",
+      "meaning_en": "to bid",
+      "meaning_ja": "入札する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '投标' (tóu biāo) in a short dialogue.",
+          "text_ja": "'投标'（tóu biāo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0023",
+      "term": "采购",
+      "display_term": "采购",
+      "pronunciation_ipa": "cǎi gòu",
+      "pos": "noun",
+      "meaning_en": "procurement",
+      "meaning_ja": "調達",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '采购' (cǎi gòu) in a short dialogue.",
+          "text_ja": "'采购'（cǎi gòu）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0024",
+      "term": "供应商",
+      "display_term": "供应商",
+      "pronunciation_ipa": "gōng yìng shāng",
+      "pos": "noun",
+      "meaning_en": "supplier",
+      "meaning_ja": "サプライヤー",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '供应商' (gōng yìng shāng) in a short dialogue.",
+          "text_ja": "'供应商'（gōng yìng shāng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0025",
+      "term": "客户",
+      "display_term": "客户",
+      "pronunciation_ipa": "kè hù",
+      "pos": "noun",
+      "meaning_en": "client; customer",
+      "meaning_ja": "顧客",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '客户' (kè hù) in a short dialogue.",
+          "text_ja": "'客户'（kè hù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0026",
+      "term": "售后",
+      "display_term": "售后",
+      "pronunciation_ipa": "shòu hòu",
+      "pos": "noun",
+      "meaning_en": "after-sales service",
+      "meaning_ja": "アフターサービス",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '售后' (shòu hòu) in a short dialogue.",
+          "text_ja": "'售后'（shòu hòu）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0027",
+      "term": "投诉",
+      "display_term": "投诉",
+      "pronunciation_ipa": "tóu sù",
+      "pos": "noun",
+      "meaning_en": "complaint",
+      "meaning_ja": "クレーム",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '投诉' (tóu sù) in a short dialogue.",
+          "text_ja": "'投诉'（tóu sù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0028",
+      "term": "反馈",
+      "display_term": "反馈",
+      "pronunciation_ipa": "fǎn kuì",
+      "pos": "noun",
+      "meaning_en": "feedback",
+      "meaning_ja": "フィードバック",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '反馈' (fǎn kuì) in a short dialogue.",
+          "text_ja": "'反馈'（fǎn kuì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0029",
+      "term": "交付",
+      "display_term": "交付",
+      "pronunciation_ipa": "jiāo fù",
+      "pos": "verb",
+      "meaning_en": "to deliver",
+      "meaning_ja": "納品する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '交付' (jiāo fù) in a short dialogue.",
+          "text_ja": "'交付'（jiāo fù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0030",
+      "term": "物流",
+      "display_term": "物流",
+      "pronunciation_ipa": "wù liú",
+      "pos": "noun",
+      "meaning_en": "logistics",
+      "meaning_ja": "物流",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '物流' (wù liú) in a short dialogue.",
+          "text_ja": "'物流'（wù liú）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0031",
+      "term": "仓库",
+      "display_term": "仓库",
+      "pronunciation_ipa": "cāng kù",
+      "pos": "noun",
+      "meaning_en": "warehouse",
+      "meaning_ja": "倉庫",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '仓库' (cāng kù) in a short dialogue.",
+          "text_ja": "'仓库'（cāng kù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0032",
+      "term": "库存",
+      "display_term": "库存",
+      "pronunciation_ipa": "kù cún",
+      "pos": "noun",
+      "meaning_en": "inventory",
+      "meaning_ja": "在庫",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '库存' (kù cún) in a short dialogue.",
+          "text_ja": "'库存'（kù cún）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0033",
+      "term": "发票",
+      "display_term": "发票",
+      "pronunciation_ipa": "fā piào",
+      "pos": "noun",
+      "meaning_en": "invoice",
+      "meaning_ja": "請求書",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '发票' (fā piào) in a short dialogue.",
+          "text_ja": "'发票'（fā piào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0034",
+      "term": "付款",
+      "display_term": "付款",
+      "pronunciation_ipa": "fù kuǎn",
+      "pos": "verb",
+      "meaning_en": "to make payment",
+      "meaning_ja": "支払う",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '付款' (fù kuǎn) in a short dialogue.",
+          "text_ja": "'付款'（fù kuǎn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0035",
+      "term": "收款",
+      "display_term": "收款",
+      "pronunciation_ipa": "shōu kuǎn",
+      "pos": "verb",
+      "meaning_en": "to receive payment",
+      "meaning_ja": "入金を受ける",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '收款' (shōu kuǎn) in a short dialogue.",
+          "text_ja": "'收款'（shōu kuǎn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0036",
+      "term": "结算",
+      "display_term": "结算",
+      "pronunciation_ipa": "jié suàn",
+      "pos": "verb",
+      "meaning_en": "to settle accounts",
+      "meaning_ja": "精算する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '结算' (jié suàn) in a short dialogue.",
+          "text_ja": "'结算'（jié suàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0037",
+      "term": "转账",
+      "display_term": "转账",
+      "pronunciation_ipa": "zhuǎn zhàng",
+      "pos": "verb",
+      "meaning_en": "to transfer money",
+      "meaning_ja": "振込する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '转账' (zhuǎn zhàng) in a short dialogue.",
+          "text_ja": "'转账'（zhuǎn zhàng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0038",
+      "term": "税务",
+      "display_term": "税务",
+      "pronunciation_ipa": "shuì wù",
+      "pos": "noun",
+      "meaning_en": "tax affairs",
+      "meaning_ja": "税務",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '税务' (shuì wù) in a short dialogue.",
+          "text_ja": "'税务'（shuì wù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0039",
+      "term": "报销",
+      "display_term": "报销",
+      "pronunciation_ipa": "bào xiāo",
+      "pos": "verb",
+      "meaning_en": "to reimburse",
+      "meaning_ja": "精算申請する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '报销' (bào xiāo) in a short dialogue.",
+          "text_ja": "'报销'（bào xiāo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0040",
+      "term": "人力资源",
+      "display_term": "人力资源",
+      "pronunciation_ipa": "rén lì zī yuán",
+      "pos": "noun",
+      "meaning_en": "human resources",
+      "meaning_ja": "人事",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '人力资源' (rén lì zī yuán) in a short dialogue.",
+          "text_ja": "'人力资源'（rén lì zī yuán）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0041",
+      "term": "招聘",
+      "display_term": "招聘",
+      "pronunciation_ipa": "zhāo pìn",
+      "pos": "verb",
+      "meaning_en": "to recruit",
+      "meaning_ja": "採用する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '招聘' (zhāo pìn) in a short dialogue.",
+          "text_ja": "'招聘'（zhāo pìn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0042",
+      "term": "面试",
+      "display_term": "面试",
+      "pronunciation_ipa": "miàn shì",
+      "pos": "noun",
+      "meaning_en": "interview",
+      "meaning_ja": "面接",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '面试' (miàn shì) in a short dialogue.",
+          "text_ja": "'面试'（miàn shì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0043",
+      "term": "录用",
+      "display_term": "录用",
+      "pronunciation_ipa": "lù yòng",
+      "pos": "verb",
+      "meaning_en": "to hire",
+      "meaning_ja": "採用する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '录用' (lù yòng) in a short dialogue.",
+          "text_ja": "'录用'（lù yòng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0044",
+      "term": "培训",
+      "display_term": "培训",
+      "pronunciation_ipa": "péi xùn",
+      "pos": "noun",
+      "meaning_en": "training",
+      "meaning_ja": "研修",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '培训' (péi xùn) in a short dialogue.",
+          "text_ja": "'培训'（péi xùn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0045",
+      "term": "绩效",
+      "display_term": "绩效",
+      "pronunciation_ipa": "jì xiào",
+      "pos": "noun",
+      "meaning_en": "performance",
+      "meaning_ja": "業績",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '绩效' (jì xiào) in a short dialogue.",
+          "text_ja": "'绩效'（jì xiào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0046",
+      "term": "考核",
+      "display_term": "考核",
+      "pronunciation_ipa": "kǎo hé",
+      "pos": "noun",
+      "meaning_en": "evaluation",
+      "meaning_ja": "評価",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '考核' (kǎo hé) in a short dialogue.",
+          "text_ja": "'考核'（kǎo hé）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0047",
+      "term": "晋升",
+      "display_term": "晋升",
+      "pronunciation_ipa": "jìn shēng",
+      "pos": "noun",
+      "meaning_en": "promotion",
+      "meaning_ja": "昇進",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '晋升' (jìn shēng) in a short dialogue.",
+          "text_ja": "'晋升'（jìn shēng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0048",
+      "term": "薪资",
+      "display_term": "薪资",
+      "pronunciation_ipa": "xīn zī",
+      "pos": "noun",
+      "meaning_en": "salary",
+      "meaning_ja": "給与",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '薪资' (xīn zī) in a short dialogue.",
+          "text_ja": "'薪资'（xīn zī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0049",
+      "term": "福利",
+      "display_term": "福利",
+      "pronunciation_ipa": "fú lì",
+      "pos": "noun",
+      "meaning_en": "benefits",
+      "meaning_ja": "福利厚生",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '福利' (fú lì) in a short dialogue.",
+          "text_ja": "'福利'（fú lì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0050",
+      "term": "请假",
+      "display_term": "请假",
+      "pronunciation_ipa": "qǐng jià",
+      "pos": "verb",
+      "meaning_en": "to request leave",
+      "meaning_ja": "休暇申請する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '请假' (qǐng jià) in a short dialogue.",
+          "text_ja": "'请假'（qǐng jià）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0051",
+      "term": "出差",
+      "display_term": "出差",
+      "pronunciation_ipa": "chū chāi",
+      "pos": "verb",
+      "meaning_en": "to go on business trip",
+      "meaning_ja": "出張する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '出差' (chū chāi) in a short dialogue.",
+          "text_ja": "'出差'（chū chāi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0052",
+      "term": "航班",
+      "display_term": "航班",
+      "pronunciation_ipa": "háng bān",
+      "pos": "noun",
+      "meaning_en": "flight",
+      "meaning_ja": "便（航空）",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '航班' (háng bān) in a short dialogue.",
+          "text_ja": "'航班'（háng bān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0053",
+      "term": "预订",
+      "display_term": "预订",
+      "pronunciation_ipa": "yù dìng",
+      "pos": "verb",
+      "meaning_en": "to book",
+      "meaning_ja": "予約する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '预订' (yù dìng) in a short dialogue.",
+          "text_ja": "'预订'（yù dìng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0054",
+      "term": "取消",
+      "display_term": "取消",
+      "pronunciation_ipa": "qǔ xiāo",
+      "pos": "verb",
+      "meaning_en": "to cancel",
+      "meaning_ja": "キャンセルする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '取消' (qǔ xiāo) in a short dialogue.",
+          "text_ja": "'取消'（qǔ xiāo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0055",
+      "term": "延期",
+      "display_term": "延期",
+      "pronunciation_ipa": "yán qī",
+      "pos": "verb",
+      "meaning_en": "to postpone",
+      "meaning_ja": "延期する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '延期' (yán qī) in a short dialogue.",
+          "text_ja": "'延期'（yán qī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0056",
+      "term": "准时",
+      "display_term": "准时",
+      "pronunciation_ipa": "zhǔn shí",
+      "pos": "adjective",
+      "meaning_en": "on time",
+      "meaning_ja": "時間通り",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '准时' (zhǔn shí) in a short dialogue.",
+          "text_ja": "'准时'（zhǔn shí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0057",
+      "term": "迟到",
+      "display_term": "迟到",
+      "pronunciation_ipa": "chí dào",
+      "pos": "verb",
+      "meaning_en": "to be late",
+      "meaning_ja": "遅刻する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '迟到' (chí dào) in a short dialogue.",
+          "text_ja": "'迟到'（chí dào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0058",
+      "term": "报告",
+      "display_term": "报告",
+      "pronunciation_ipa": "bào gào",
+      "pos": "noun",
+      "meaning_en": "report",
+      "meaning_ja": "報告書",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '报告' (bào gào) in a short dialogue.",
+          "text_ja": "'报告'（bào gào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0059",
+      "term": "数据",
+      "display_term": "数据",
+      "pronunciation_ipa": "shù jù",
+      "pos": "noun",
+      "meaning_en": "data",
+      "meaning_ja": "データ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '数据' (shù jù) in a short dialogue.",
+          "text_ja": "'数据'（shù jù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0060",
+      "term": "分析",
+      "display_term": "分析",
+      "pronunciation_ipa": "fēn xī",
+      "pos": "verb",
+      "meaning_en": "to analyze",
+      "meaning_ja": "分析する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '分析' (fēn xī) in a short dialogue.",
+          "text_ja": "'分析'（fēn xī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0061",
+      "term": "统计",
+      "display_term": "统计",
+      "pronunciation_ipa": "tǒng jì",
+      "pos": "verb",
+      "meaning_en": "to count; statistics",
+      "meaning_ja": "統計する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '统计' (tǒng jì) in a short dialogue.",
+          "text_ja": "'统计'（tǒng jì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0062",
+      "term": "趋势",
+      "display_term": "趋势",
+      "pronunciation_ipa": "qū shì",
+      "pos": "noun",
+      "meaning_en": "trend",
+      "meaning_ja": "傾向",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '趋势' (qū shì) in a short dialogue.",
+          "text_ja": "'趋势'（qū shì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0063",
+      "term": "增长",
+      "display_term": "增长",
+      "pronunciation_ipa": "zēng zhǎng",
+      "pos": "noun",
+      "meaning_en": "growth",
+      "meaning_ja": "成長",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '增长' (zēng zhǎng) in a short dialogue.",
+          "text_ja": "'增长'（zēng zhǎng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0064",
+      "term": "下降",
+      "display_term": "下降",
+      "pronunciation_ipa": "xià jiàng",
+      "pos": "verb",
+      "meaning_en": "to decline",
+      "meaning_ja": "減少する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '下降' (xià jiàng) in a short dialogue.",
+          "text_ja": "'下降'（xià jiàng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0065",
+      "term": "市场",
+      "display_term": "市场",
+      "pronunciation_ipa": "shì chǎng",
+      "pos": "noun",
+      "meaning_en": "market",
+      "meaning_ja": "市場",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '市场' (shì chǎng) in a short dialogue.",
+          "text_ja": "'市场'（shì chǎng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0066",
+      "term": "调研",
+      "display_term": "调研",
+      "pronunciation_ipa": "diào yán",
+      "pos": "noun",
+      "meaning_en": "market research",
+      "meaning_ja": "市場調査",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '调研' (diào yán) in a short dialogue.",
+          "text_ja": "'调研'（diào yán）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0067",
+      "term": "品牌",
+      "display_term": "品牌",
+      "pronunciation_ipa": "pǐn pái",
+      "pos": "noun",
+      "meaning_en": "brand",
+      "meaning_ja": "ブランド",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '品牌' (pǐn pái) in a short dialogue.",
+          "text_ja": "'品牌'（pǐn pái）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0068",
+      "term": "推广",
+      "display_term": "推广",
+      "pronunciation_ipa": "tuī guǎng",
+      "pos": "verb",
+      "meaning_en": "to promote",
+      "meaning_ja": "販促する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '推广' (tuī guǎng) in a short dialogue.",
+          "text_ja": "'推广'（tuī guǎng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0069",
+      "term": "广告",
+      "display_term": "广告",
+      "pronunciation_ipa": "guǎng gào",
+      "pos": "noun",
+      "meaning_en": "advertisement",
+      "meaning_ja": "広告",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '广告' (guǎng gào) in a short dialogue.",
+          "text_ja": "'广告'（guǎng gào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0070",
+      "term": "渠道",
+      "display_term": "渠道",
+      "pronunciation_ipa": "qú dào",
+      "pos": "noun",
+      "meaning_en": "channel",
+      "meaning_ja": "販売チャネル",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '渠道' (qú dào) in a short dialogue.",
+          "text_ja": "'渠道'（qú dào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0071",
+      "term": "竞争",
+      "display_term": "竞争",
+      "pronunciation_ipa": "jìng zhēng",
+      "pos": "noun",
+      "meaning_en": "competition",
+      "meaning_ja": "競争",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '竞争' (jìng zhēng) in a short dialogue.",
+          "text_ja": "'竞争'（jìng zhēng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0072",
+      "term": "优势",
+      "display_term": "优势",
+      "pronunciation_ipa": "yōu shì",
+      "pos": "noun",
+      "meaning_en": "advantage",
+      "meaning_ja": "強み",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '优势' (yōu shì) in a short dialogue.",
+          "text_ja": "'优势'（yōu shì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0073",
+      "term": "劣势",
+      "display_term": "劣势",
+      "pronunciation_ipa": "liè shì",
+      "pos": "noun",
+      "meaning_en": "disadvantage",
+      "meaning_ja": "弱み",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '劣势' (liè shì) in a short dialogue.",
+          "text_ja": "'劣势'（liè shì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0074",
+      "term": "合作",
+      "display_term": "合作",
+      "pronunciation_ipa": "hé zuò",
+      "pos": "verb",
+      "meaning_en": "to cooperate",
+      "meaning_ja": "協力する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '合作' (hé zuò) in a short dialogue.",
+          "text_ja": "'合作'（hé zuò）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0075",
+      "term": "伙伴",
+      "display_term": "伙伴",
+      "pronunciation_ipa": "huǒ bàn",
+      "pos": "noun",
+      "meaning_en": "partner",
+      "meaning_ja": "パートナー",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '伙伴' (huǒ bàn) in a short dialogue.",
+          "text_ja": "'伙伴'（huǒ bàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0076",
+      "term": "沟通",
+      "display_term": "沟通",
+      "pronunciation_ipa": "gōu tōng",
+      "pos": "verb",
+      "meaning_en": "to communicate",
+      "meaning_ja": "コミュニケーションする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '沟通' (gōu tōng) in a short dialogue.",
+          "text_ja": "'沟通'（gōu tōng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0077",
+      "term": "确认",
+      "display_term": "确认",
+      "pronunciation_ipa": "què rèn",
+      "pos": "verb",
+      "meaning_en": "to confirm",
+      "meaning_ja": "確認する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '确认' (què rèn) in a short dialogue.",
+          "text_ja": "'确认'（què rèn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0078",
+      "term": "提醒",
+      "display_term": "提醒",
+      "pronunciation_ipa": "tí xǐng",
+      "pos": "verb",
+      "meaning_en": "to remind",
+      "meaning_ja": "リマインドする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '提醒' (tí xǐng) in a short dialogue.",
+          "text_ja": "'提醒'（tí xǐng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0079",
+      "term": "通知",
+      "display_term": "通知",
+      "pronunciation_ipa": "tōng zhī",
+      "pos": "noun",
+      "meaning_en": "notice",
+      "meaning_ja": "通知",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '通知' (tōng zhī) in a short dialogue.",
+          "text_ja": "'通知'（tōng zhī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0080",
+      "term": "附件",
+      "display_term": "附件",
+      "pronunciation_ipa": "fù jiàn",
+      "pos": "noun",
+      "meaning_en": "attachment",
+      "meaning_ja": "添付ファイル",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '附件' (fù jiàn) in a short dialogue.",
+          "text_ja": "'附件'（fù jiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0081",
+      "term": "邮件",
+      "display_term": "邮件",
+      "pronunciation_ipa": "yóu jiàn",
+      "pos": "noun",
+      "meaning_en": "email",
+      "meaning_ja": "メール",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '邮件' (yóu jiàn) in a short dialogue.",
+          "text_ja": "'邮件'（yóu jiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0082",
+      "term": "抄送",
+      "display_term": "抄送",
+      "pronunciation_ipa": "chāo sòng",
+      "pos": "verb",
+      "meaning_en": "to CC (email)",
+      "meaning_ja": "CCする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '抄送' (chāo sòng) in a short dialogue.",
+          "text_ja": "'抄送'（chāo sòng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0083",
+      "term": "回复",
+      "display_term": "回复",
+      "pronunciation_ipa": "huí fù",
+      "pos": "verb",
+      "meaning_en": "to reply",
+      "meaning_ja": "返信する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '回复' (huí fù) in a short dialogue.",
+          "text_ja": "'回复'（huí fù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0084",
+      "term": "打印",
+      "display_term": "打印",
+      "pronunciation_ipa": "dǎ yìn",
+      "pos": "verb",
+      "meaning_en": "to print",
+      "meaning_ja": "印刷する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '打印' (dǎ yìn) in a short dialogue.",
+          "text_ja": "'打印'（dǎ yìn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0085",
+      "term": "文档",
+      "display_term": "文档",
+      "pronunciation_ipa": "wén dàng",
+      "pos": "noun",
+      "meaning_en": "document",
+      "meaning_ja": "文書",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '文档' (wén dàng) in a short dialogue.",
+          "text_ja": "'文档'（wén dàng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0086",
+      "term": "版本",
+      "display_term": "版本",
+      "pronunciation_ipa": "bǎn běn",
+      "pos": "noun",
+      "meaning_en": "version",
+      "meaning_ja": "版／バージョン",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '版本' (bǎn běn) in a short dialogue.",
+          "text_ja": "'版本'（bǎn běn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0087",
+      "term": "更新",
+      "display_term": "更新",
+      "pronunciation_ipa": "gēng xīn",
+      "pos": "verb",
+      "meaning_en": "to update",
+      "meaning_ja": "更新する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '更新' (gēng xīn) in a short dialogue.",
+          "text_ja": "'更新'（gēng xīn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0088",
+      "term": "系统",
+      "display_term": "系统",
+      "pronunciation_ipa": "xì tǒng",
+      "pos": "noun",
+      "meaning_en": "system",
+      "meaning_ja": "システム",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '系统' (xì tǒng) in a short dialogue.",
+          "text_ja": "'系统'（xì tǒng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0089",
+      "term": "账号",
+      "display_term": "账号",
+      "pronunciation_ipa": "zhàng hào",
+      "pos": "noun",
+      "meaning_en": "account",
+      "meaning_ja": "アカウント",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '账号' (zhàng hào) in a short dialogue.",
+          "text_ja": "'账号'（zhàng hào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0090",
+      "term": "密码",
+      "display_term": "密码",
+      "pronunciation_ipa": "mì mǎ",
+      "pos": "noun",
+      "meaning_en": "password",
+      "meaning_ja": "パスワード",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk5"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '密码' (mì mǎ) in a short dialogue.",
+          "text_ja": "'密码'（mì mǎ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0091",
+      "term": "权限",
+      "display_term": "权限",
+      "pronunciation_ipa": "quán xiàn",
+      "pos": "noun",
+      "meaning_en": "permission",
+      "meaning_ja": "権限",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '权限' (quán xiàn) in a short dialogue.",
+          "text_ja": "'权限'（quán xiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0092",
+      "term": "安全",
+      "display_term": "安全",
+      "pronunciation_ipa": "ān quán",
+      "pos": "noun",
+      "meaning_en": "security",
+      "meaning_ja": "セキュリティ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '安全' (ān quán) in a short dialogue.",
+          "text_ja": "'安全'（ān quán）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0093",
+      "term": "故障",
+      "display_term": "故障",
+      "pronunciation_ipa": "gù zhàng",
+      "pos": "noun",
+      "meaning_en": "malfunction",
+      "meaning_ja": "障害",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '故障' (gù zhàng) in a short dialogue.",
+          "text_ja": "'故障'（gù zhàng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0094",
+      "term": "维修",
+      "display_term": "维修",
+      "pronunciation_ipa": "wéi xiū",
+      "pos": "verb",
+      "meaning_en": "to repair; maintenance",
+      "meaning_ja": "修理する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '维修' (wéi xiū) in a short dialogue.",
+          "text_ja": "'维修'（wéi xiū）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0095",
+      "term": "支持",
+      "display_term": "支持",
+      "pronunciation_ipa": "zhī chí",
+      "pos": "verb",
+      "meaning_en": "to support",
+      "meaning_ja": "サポートする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '支持' (zhī chí) in a short dialogue.",
+          "text_ja": "'支持'（zhī chí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0096",
+      "term": "上线",
+      "display_term": "上线",
+      "pronunciation_ipa": "shàng xiàn",
+      "pos": "verb",
+      "meaning_en": "to go live",
+      "meaning_ja": "本番リリースする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '上线' (shàng xiàn) in a short dialogue.",
+          "text_ja": "'上线'（shàng xiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0097",
+      "term": "下线",
+      "display_term": "下线",
+      "pronunciation_ipa": "xià xiàn",
+      "pos": "verb",
+      "meaning_en": "to take offline",
+      "meaning_ja": "停止する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '下线' (xià xiàn) in a short dialogue.",
+          "text_ja": "'下线'（xià xiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0098",
+      "term": "验收",
+      "display_term": "验收",
+      "pronunciation_ipa": "yàn shōu",
+      "pos": "verb",
+      "meaning_en": "to accept after inspection",
+      "meaning_ja": "検収する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '验收' (yàn shōu) in a short dialogue.",
+          "text_ja": "'验收'（yàn shōu）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0099",
+      "term": "合规",
+      "display_term": "合规",
+      "pronunciation_ipa": "hé guī",
+      "pos": "noun",
+      "meaning_en": "compliance",
+      "meaning_ja": "コンプライアンス",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '合规' (hé guī) in a short dialogue.",
+          "text_ja": "'合规'（hé guī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0100",
+      "term": "审计",
+      "display_term": "审计",
+      "pronunciation_ipa": "shěn jì",
+      "pos": "noun",
+      "meaning_en": "audit",
+      "meaning_ja": "監査",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '审计' (shěn jì) in a short dialogue.",
+          "text_ja": "'审计'（shěn jì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0101",
+      "term": "法律",
+      "display_term": "法律",
+      "pronunciation_ipa": "fǎ lǜ",
+      "pos": "noun",
+      "meaning_en": "law",
+      "meaning_ja": "法律",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '法律' (fǎ lǜ) in a short dialogue.",
+          "text_ja": "'法律'（fǎ lǜ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0102",
+      "term": "法规",
+      "display_term": "法规",
+      "pronunciation_ipa": "fǎ guī",
+      "pos": "noun",
+      "meaning_en": "regulation",
+      "meaning_ja": "法規",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '法规' (fǎ guī) in a short dialogue.",
+          "text_ja": "'法规'（fǎ guī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0103",
+      "term": "谈判",
+      "display_term": "谈判",
+      "pronunciation_ipa": "tán pàn",
+      "pos": "verb",
+      "meaning_en": "to negotiate",
+      "meaning_ja": "交渉する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '谈判' (tán pàn) in a short dialogue.",
+          "text_ja": "'谈判'（tán pàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0104",
+      "term": "签约",
+      "display_term": "签约",
+      "pronunciation_ipa": "qiān yuē",
+      "pos": "verb",
+      "meaning_en": "to sign agreement",
+      "meaning_ja": "契約締結する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '签约' (qiān yuē) in a short dialogue.",
+          "text_ja": "'签约'（qiān yuē）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0105",
+      "term": "拜访",
+      "display_term": "拜访",
+      "pronunciation_ipa": "bài fǎng",
+      "pos": "verb",
+      "meaning_en": "to visit (client)",
+      "meaning_ja": "訪問する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '拜访' (bài fǎng) in a short dialogue.",
+          "text_ja": "'拜访'（bài fǎng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0106",
+      "term": "演示",
+      "display_term": "演示",
+      "pronunciation_ipa": "yǎn shì",
+      "pos": "noun",
+      "meaning_en": "demonstration",
+      "meaning_ja": "デモ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '演示' (yǎn shì) in a short dialogue.",
+          "text_ja": "'演示'（yǎn shì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0107",
+      "term": "提案",
+      "display_term": "提案",
+      "pronunciation_ipa": "tí àn",
+      "pos": "noun",
+      "meaning_en": "proposal",
+      "meaning_ja": "提案",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '提案' (tí àn) in a short dialogue.",
+          "text_ja": "'提案'（tí àn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0108",
+      "term": "预算案",
+      "display_term": "预算案",
+      "pronunciation_ipa": "yù suàn àn",
+      "pos": "noun",
+      "meaning_en": "budget proposal",
+      "meaning_ja": "予算案",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '预算案' (yù suàn àn) in a short dialogue.",
+          "text_ja": "'预算案'（yù suàn àn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0109",
+      "term": "会议纪要",
+      "display_term": "会议纪要",
+      "pronunciation_ipa": "huì yì jì yào",
+      "pos": "noun",
+      "meaning_en": "meeting minutes",
+      "meaning_ja": "議事録",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '会议纪要' (huì yì jì yào) in a short dialogue.",
+          "text_ja": "'会议纪要'（huì yì jì yào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0110",
+      "term": "执行",
+      "display_term": "执行",
+      "pronunciation_ipa": "zhí xíng",
+      "pos": "verb",
+      "meaning_en": "to execute",
+      "meaning_ja": "実行する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '执行' (zhí xíng) in a short dialogue.",
+          "text_ja": "'执行'（zhí xíng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0111",
+      "term": "跟进",
+      "display_term": "跟进",
+      "pronunciation_ipa": "gēn jìn",
+      "pos": "verb",
+      "meaning_en": "to follow up",
+      "meaning_ja": "フォローする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '跟进' (gēn jìn) in a short dialogue.",
+          "text_ja": "'跟进'（gēn jìn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhb-0112",
+      "term": "截止日期",
+      "display_term": "截止日期",
+      "pronunciation_ipa": "jié zhǐ rì qī",
+      "pos": "noun",
+      "meaning_en": "deadline",
+      "meaning_ja": "締め切り",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "advanced",
+        "hsk6"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '截止日期' (jié zhǐ rì qī) in a short dialogue.",
+          "text_ja": "'截止日期'（jié zhǐ rì qī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    }
+  ]
+}

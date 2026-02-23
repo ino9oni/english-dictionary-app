@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-02-11T00:00:00Z",
+  "decks": [
+    {
+      "deck_id": "mtg_story",
+      "name": "MTG Story Terms",
+      "language_primary": "en",
+      "language_support": [
+        "ja"
+      ],
+      "version": 1,
+      "path": "assets/decks/mtg_story.v1.json",
+      "description": "MTG lore/story vocabulary",
+      "tags": [
+        "mtg",
+        "lore"
+      ],
+      "image_name": "deck_mtg_fantasy"
+    },
+    {
+      "deck_id": "toeic_business",
+      "name": "TOEIC Business 700-900",
+      "language_primary": "en",
+      "language_support": [
+        "ja"
+      ],
+      "version": 1,
+      "path": "assets/decks/toeic_business.v1.json",
+      "description": "Business vocabulary from TOEIC 700 to 900 level",
+      "tags": [
+        "toeic",
+        "business",
+        "700",
+        "900"
+      ],
+      "image_name": "deck_toeic_business"
+    },
+    {
+      "deck_id": "eiken_pre2",
+      "name": "EIKEN Pre-2 Frequent Words",
+      "language_primary": "en",
+      "language_support": [
+        "ja"
+      ],
+      "version": 1,
+      "path": "assets/decks/eiken_pre2.v1.json",
+      "description": "High-frequency vocabulary for EIKEN Grade Pre-2",
+      "tags": [
+        "eiken",
+        "pre2",
+        "exam",
+        "general"
+      ],
+      "image_name": "deck_eiken_pre2"
+    },
+    {
+      "deck_id": "chinese_daily_hsk3_4",
+      "name": "Chinese Daily HSK 3-4",
+      "language_primary": "zh",
+      "language_support": [
+        "ja",
+        "en"
+      ],
+      "version": 1,
+      "path": "assets/decks/chinese_daily_hsk3_4.v1.json",
+      "description": "Daily conversation Chinese vocabulary around HSK 3-4",
+      "tags": [
+        "chinese",
+        "daily",
+        "hsk3",
+        "hsk4",
+        "frequent"
+      ],
+      "image_name": "deck_chinese_daily"
+    },
+    {
+      "deck_id": "chinese_business_bct",
+      "name": "Chinese Business BCT",
+      "language_primary": "zh",
+      "language_support": [
+        "ja",
+        "en"
+      ],
+      "version": 1,
+      "path": "assets/decks/chinese_business_bct.v1.json",
+      "description": "Business Chinese vocabulary around BCT / HSK5+",
+      "tags": [
+        "chinese",
+        "business",
+        "bct",
+        "hsk5",
+        "advanced"
+      ],
+      "image_name": "deck_chinese_business"
+    }
+  ]
+}

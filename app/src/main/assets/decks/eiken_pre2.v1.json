@@ -1,0 +1,4325 @@
+{
+  "schema_version": "1.0",
+  "deck": {
+    "deck_id": "eiken_pre2",
+    "name": "EIKEN Pre-2 Frequent Words",
+    "version": 1
+  },
+  "entries": [
+    {
+      "entry_id": "eiken2-0001",
+      "term": "accept",
+      "display_term": "accept",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to say yes to an offer or idea",
+      "meaning_ja": "受け入れる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'accept' in today's study session.",
+          "text_ja": "今日の学習で 'accept' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0002",
+      "term": "achieve",
+      "display_term": "achieve",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to reach a goal by effort",
+      "meaning_ja": "達成する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'achieve' in today's study session.",
+          "text_ja": "今日の学習で 'achieve' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0003",
+      "term": "activity",
+      "display_term": "activity",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "something you do",
+      "meaning_ja": "活動",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'activity' in today's study session.",
+          "text_ja": "今日の学習で 'activity' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0004",
+      "term": "active",
+      "display_term": "active",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "doing many things",
+      "meaning_ja": "活動的な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'active' in today's study session.",
+          "text_ja": "今日の学習で 'active' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0005",
+      "term": "advantage",
+      "display_term": "advantage",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a good point",
+      "meaning_ja": "利点",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'advantage' in today's study session.",
+          "text_ja": "今日の学習で 'advantage' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0006",
+      "term": "advise",
+      "display_term": "advise",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give helpful suggestions",
+      "meaning_ja": "助言する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'advise' in today's study session.",
+          "text_ja": "今日の学習で 'advise' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0007",
+      "term": "advice",
+      "display_term": "advice",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "helpful suggestions",
+      "meaning_ja": "助言",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'advice' in today's study session.",
+          "text_ja": "今日の学習で 'advice' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0008",
+      "term": "afford",
+      "display_term": "afford",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to have enough money or time for something",
+      "meaning_ja": "余裕がある",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'afford' in today's study session.",
+          "text_ja": "今日の学習で 'afford' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0009",
+      "term": "agree",
+      "display_term": "agree",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to have the same opinion",
+      "meaning_ja": "同意する",
+      "preposition_usages": [
+        "agree with",
+        "agree on",
+        "agree to"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "agree with",
+          "meaning": "（人）に同意する"
+        },
+        {
+          "expression": "agree on",
+          "meaning": "（内容）について合意する"
+        },
+        {
+          "expression": "agree to",
+          "meaning": "（提案）を受け入れる"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "agree with",
+          "meaning_en": "to have the same opinion as someone",
+          "meaning_ja": "（人）に同意する",
+          "example_en": "I agree with your idea.",
+          "example_ja": "私はあなたの考えに同意します。"
+        },
+        {
+          "expression": "agree on",
+          "meaning_en": "to decide something together",
+          "meaning_ja": "（内容）について合意する",
+          "example_en": "We agreed on the date.",
+          "example_ja": "私たちは日程について合意しました。"
+        },
+        {
+          "expression": "agree to",
+          "meaning_en": "to accept a plan or suggestion",
+          "meaning_ja": "（提案）を受け入れる",
+          "example_en": "She agreed to the proposal.",
+          "example_ja": "彼女は提案を受け入れました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'agree' in today's study session.",
+          "text_ja": "今日の学習で 'agree' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0010",
+      "term": "allow",
+      "display_term": "allow",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to let someone do something",
+      "meaning_ja": "許可する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'allow' in today's study session.",
+          "text_ja": "今日の学習で 'allow' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0011",
+      "term": "ancient",
+      "display_term": "ancient",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "very old",
+      "meaning_ja": "古代の",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'ancient' in today's study session.",
+          "text_ja": "今日の学習で 'ancient' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0012",
+      "term": "anxious",
+      "display_term": "anxious",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "worried and nervous",
+      "meaning_ja": "心配している",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'anxious' in today's study session.",
+          "text_ja": "今日の学習で 'anxious' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0013",
+      "term": "apply",
+      "display_term": "apply",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to make a formal request",
+      "meaning_ja": "申し込む",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'apply' in today's study session.",
+          "text_ja": "今日の学習で 'apply' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0014",
+      "term": "arrive",
+      "display_term": "arrive",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to reach a place",
+      "meaning_ja": "到着する",
+      "preposition_usages": [
+        "arrive at",
+        "arrive in"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "arrive at",
+          "meaning": "（場所・結論）に到達する"
+        },
+        {
+          "expression": "arrive in",
+          "meaning": "（都市・国）に到着する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "arrive at",
+          "meaning_en": "to reach a place or decision",
+          "meaning_ja": "（場所・結論）に到達する",
+          "example_en": "They arrived at the station early.",
+          "example_ja": "彼らは早く駅に到着しました。"
+        },
+        {
+          "expression": "arrive in",
+          "meaning_en": "to reach a city or country",
+          "meaning_ja": "（都市・国）に到着する",
+          "example_en": "We arrived in Tokyo at night.",
+          "example_ja": "私たちは夜に東京へ到着しました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'arrive' in today's study session.",
+          "text_ja": "今日の学習で 'arrive' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0015",
+      "term": "attention",
+      "display_term": "attention",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "careful thought or notice",
+      "meaning_ja": "注意",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'attention' in today's study session.",
+          "text_ja": "今日の学習で 'attention' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0016",
+      "term": "audience",
+      "display_term": "audience",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the people watching or listening",
+      "meaning_ja": "聴衆",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'audience' in today's study session.",
+          "text_ja": "今日の学習で 'audience' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0017",
+      "term": "available",
+      "display_term": "available",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "able to be used or obtained",
+      "meaning_ja": "利用できる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'available' in today's study session.",
+          "text_ja": "今日の学習で 'available' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0018",
+      "term": "avoid",
+      "display_term": "avoid",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to stay away from something",
+      "meaning_ja": "避ける",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'avoid' in today's study session.",
+          "text_ja": "今日の学習で 'avoid' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0019",
+      "term": "behavior",
+      "display_term": "behavior",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the way someone acts",
+      "meaning_ja": "行動",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'behavior' in today's study session.",
+          "text_ja": "今日の学習で 'behavior' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0020",
+      "term": "belong",
+      "display_term": "belong",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to be owned by someone",
+      "meaning_ja": "所属する",
+      "preposition_usages": [
+        "belong to"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "belong to",
+          "meaning": "〜に属する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "belong to",
+          "meaning_en": "to be owned by or connected with",
+          "meaning_ja": "〜に属する",
+          "example_en": "This bag belongs to Ken.",
+          "example_ja": "このかばんはケンのものです。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'belong' in today's study session.",
+          "text_ja": "今日の学習で 'belong' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0021",
+      "term": "borrow",
+      "display_term": "borrow",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to take and use something temporarily",
+      "meaning_ja": "借りる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'borrow' in today's study session.",
+          "text_ja": "今日の学習で 'borrow' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0022",
+      "term": "breathe",
+      "display_term": "breathe",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to take air into your body",
+      "meaning_ja": "呼吸する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'breathe' in today's study session.",
+          "text_ja": "今日の学習で 'breathe' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0023",
+      "term": "care",
+      "display_term": "care",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to feel concern",
+      "meaning_ja": "気にかける",
+      "preposition_usages": [
+        "care about",
+        "care for"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "care about",
+          "meaning": "〜を気にかける"
+        },
+        {
+          "expression": "care for",
+          "meaning": "〜の世話をする"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "care about",
+          "meaning_en": "to think something is important",
+          "meaning_ja": "〜を気にかける",
+          "example_en": "She cares about the environment.",
+          "example_ja": "彼女は環境を気にかけています。"
+        },
+        {
+          "expression": "care for",
+          "meaning_en": "to look after someone",
+          "meaning_ja": "〜の世話をする",
+          "example_en": "He cares for his grandfather.",
+          "example_ja": "彼は祖父の世話をしています。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'care' in today's study session.",
+          "text_ja": "今日の学習で 'care' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0024",
+      "term": "careful",
+      "display_term": "careful",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "paying attention and avoiding mistakes",
+      "meaning_ja": "注意深い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'careful' in today's study session.",
+          "text_ja": "今日の学習で 'careful' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0025",
+      "term": "carry",
+      "display_term": "carry",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to take something from one place to another",
+      "meaning_ja": "運ぶ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'carry' in today's study session.",
+          "text_ja": "今日の学習で 'carry' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0026",
+      "term": "catch",
+      "display_term": "catch",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to stop and hold something moving",
+      "meaning_ja": "捕まえる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'catch' in today's study session.",
+          "text_ja": "今日の学習で 'catch' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0027",
+      "term": "celebrate",
+      "display_term": "celebrate",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to do something special for an event",
+      "meaning_ja": "祝う",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'celebrate' in today's study session.",
+          "text_ja": "今日の学習で 'celebrate' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0028",
+      "term": "certain",
+      "display_term": "certain",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "sure and without doubt",
+      "meaning_ja": "確かな",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'certain' in today's study session.",
+          "text_ja": "今日の学習で 'certain' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0029",
+      "term": "challenge",
+      "display_term": "challenge",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "something difficult that tests ability",
+      "meaning_ja": "課題",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'challenge' in today's study session.",
+          "text_ja": "今日の学習で 'challenge' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0030",
+      "term": "chance",
+      "display_term": "chance",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a possibility that something will happen",
+      "meaning_ja": "機会",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'chance' in today's study session.",
+          "text_ja": "今日の学習で 'chance' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0031",
+      "term": "choose",
+      "display_term": "choose",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to decide which one you want",
+      "meaning_ja": "選ぶ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'choose' in today's study session.",
+          "text_ja": "今日の学習で 'choose' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0032",
+      "term": "common",
+      "display_term": "common",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "happening often",
+      "meaning_ja": "一般的な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'common' in today's study session.",
+          "text_ja": "今日の学習で 'common' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0033",
+      "term": "communicate",
+      "display_term": "communicate",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to share information with others",
+      "meaning_ja": "意思疎通する",
+      "preposition_usages": [
+        "communicate with"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "communicate with",
+          "meaning": "（人）と連絡を取る"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "communicate with",
+          "meaning_en": "to exchange information with someone",
+          "meaning_ja": "（人）と連絡を取る",
+          "example_en": "Please communicate with the team daily.",
+          "example_ja": "毎日チームと連絡を取ってください。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'communicate' in today's study session.",
+          "text_ja": "今日の学習で 'communicate' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0034",
+      "term": "community",
+      "display_term": "community",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "people living in the same area",
+      "meaning_ja": "地域社会",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'community' in today's study session.",
+          "text_ja": "今日の学習で 'community' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0035",
+      "term": "compare",
+      "display_term": "compare",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to examine differences and similarities",
+      "meaning_ja": "比較する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'compare' in today's study session.",
+          "text_ja": "今日の学習で 'compare' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0036",
+      "term": "complain",
+      "display_term": "complain",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to say that you are not satisfied",
+      "meaning_ja": "不満を言う",
+      "preposition_usages": [
+        "complain about",
+        "complain to"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "complain about",
+          "meaning": "〜について不満を言う"
+        },
+        {
+          "expression": "complain to",
+          "meaning": "（人）に苦情を言う"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "complain about",
+          "meaning_en": "to express dissatisfaction about something",
+          "meaning_ja": "〜について不満を言う",
+          "example_en": "Customers complained about the delay.",
+          "example_ja": "顧客は遅延について不満を言いました。"
+        },
+        {
+          "expression": "complain to",
+          "meaning_en": "to express dissatisfaction to a person",
+          "meaning_ja": "（人）に苦情を言う",
+          "example_en": "He complained to the manager.",
+          "example_ja": "彼はマネージャーに苦情を言いました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'complain' in today's study session.",
+          "text_ja": "今日の学習で 'complain' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0037",
+      "term": "confidence",
+      "display_term": "confidence",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the feeling that you can do something",
+      "meaning_ja": "自信",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'confidence' in today's study session.",
+          "text_ja": "今日の学習で 'confidence' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0038",
+      "term": "continue",
+      "display_term": "continue",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to keep doing something",
+      "meaning_ja": "続ける",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'continue' in today's study session.",
+          "text_ja": "今日の学習で 'continue' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0039",
+      "term": "contribute",
+      "display_term": "contribute",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give something to help",
+      "meaning_ja": "貢献する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'contribute' in today's study session.",
+          "text_ja": "今日の学習で 'contribute' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0040",
+      "term": "convince",
+      "display_term": "convince",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to make someone believe something",
+      "meaning_ja": "納得させる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'convince' in today's study session.",
+          "text_ja": "今日の学習で 'convince' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0041",
+      "term": "create",
+      "display_term": "create",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to make something new",
+      "meaning_ja": "作り出す",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'create' in today's study session.",
+          "text_ja": "今日の学習で 'create' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0042",
+      "term": "culture",
+      "display_term": "culture",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the ideas and customs of a society",
+      "meaning_ja": "文化",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'culture' in today's study session.",
+          "text_ja": "今日の学習で 'culture' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0043",
+      "term": "dangerous",
+      "display_term": "dangerous",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "likely to cause harm",
+      "meaning_ja": "危険な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'dangerous' in today's study session.",
+          "text_ja": "今日の学習で 'dangerous' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0044",
+      "term": "decide",
+      "display_term": "decide",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to choose after thinking",
+      "meaning_ja": "決定する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'decide' in today's study session.",
+          "text_ja": "今日の学習で 'decide' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0045",
+      "term": "decision",
+      "display_term": "decision",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a choice made after thinking",
+      "meaning_ja": "決定",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'decision' in today's study session.",
+          "text_ja": "今日の学習で 'decision' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0046",
+      "term": "deliver",
+      "display_term": "deliver",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to take something to a place",
+      "meaning_ja": "配達する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'deliver' in today's study session.",
+          "text_ja": "今日の学習で 'deliver' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0047",
+      "term": "depend",
+      "display_term": "depend",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to need someone or something for support",
+      "meaning_ja": "頼る",
+      "preposition_usages": [
+        "depend on"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "depend on",
+          "meaning": "〜に頼る"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "depend on",
+          "meaning_en": "to need someone or something",
+          "meaning_ja": "〜に頼る",
+          "example_en": "Children depend on their parents.",
+          "example_ja": "子どもは親に頼ります。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'depend' in today's study session.",
+          "text_ja": "今日の学習で 'depend' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0048",
+      "term": "describe",
+      "display_term": "describe",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to say what someone or something is like",
+      "meaning_ja": "説明する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'describe' in today's study session.",
+          "text_ja": "今日の学習で 'describe' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0049",
+      "term": "develop",
+      "display_term": "develop",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to grow or improve",
+      "meaning_ja": "発展させる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'develop' in today's study session.",
+          "text_ja": "今日の学習で 'develop' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0050",
+      "term": "different",
+      "display_term": "different",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "not the same",
+      "meaning_ja": "異なる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'different' in today's study session.",
+          "text_ja": "今日の学習で 'different' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0051",
+      "term": "discover",
+      "display_term": "discover",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to find something for the first time",
+      "meaning_ja": "発見する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'discover' in today's study session.",
+          "text_ja": "今日の学習で 'discover' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0052",
+      "term": "discuss",
+      "display_term": "discuss",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to talk about something",
+      "meaning_ja": "議論する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'discuss' in today's study session.",
+          "text_ja": "今日の学習で 'discuss' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0053",
+      "term": "dream",
+      "display_term": "dream",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to imagine something you want",
+      "meaning_ja": "夢見る",
+      "preposition_usages": [
+        "dream of",
+        "dream about"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "dream of",
+          "meaning": "〜を夢見る"
+        },
+        {
+          "expression": "dream about",
+          "meaning": "〜の夢を見る"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "dream of",
+          "meaning_en": "to strongly hope for something",
+          "meaning_ja": "〜を夢見る",
+          "example_en": "She dreams of becoming a doctor.",
+          "example_ja": "彼女は医者になることを夢見ています。"
+        },
+        {
+          "expression": "dream about",
+          "meaning_en": "to imagine in sleep or thought",
+          "meaning_ja": "〜の夢を見る",
+          "example_en": "I dreamed about my school days.",
+          "example_ja": "私は学生時代の夢を見ました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'dream' in today's study session.",
+          "text_ja": "今日の学習で 'dream' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0054",
+      "term": "earn",
+      "display_term": "earn",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to get money for work",
+      "meaning_ja": "稼ぐ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'earn' in today's study session.",
+          "text_ja": "今日の学習で 'earn' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0055",
+      "term": "effort",
+      "display_term": "effort",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "hard work to do something",
+      "meaning_ja": "努力",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'effort' in today's study session.",
+          "text_ja": "今日の学習で 'effort' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0056",
+      "term": "encourage",
+      "display_term": "encourage",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give someone hope or confidence",
+      "meaning_ja": "励ます",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'encourage' in today's study session.",
+          "text_ja": "今日の学習で 'encourage' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0057",
+      "term": "enjoy",
+      "display_term": "enjoy",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to get pleasure from something",
+      "meaning_ja": "楽しむ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'enjoy' in today's study session.",
+          "text_ja": "今日の学習で 'enjoy' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0058",
+      "term": "enter",
+      "display_term": "enter",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to go into a place",
+      "meaning_ja": "入る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'enter' in today's study session.",
+          "text_ja": "今日の学習で 'enter' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0059",
+      "term": "environment",
+      "display_term": "environment",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the natural world around us",
+      "meaning_ja": "環境",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'environment' in today's study session.",
+          "text_ja": "今日の学習で 'environment' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0060",
+      "term": "excited",
+      "display_term": "excited",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "very happy and interested",
+      "meaning_ja": "わくわくした",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'excited' in today's study session.",
+          "text_ja": "今日の学習で 'excited' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0061",
+      "term": "experience",
+      "display_term": "experience",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "knowledge gained by doing something",
+      "meaning_ja": "経験",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'experience' in today's study session.",
+          "text_ja": "今日の学習で 'experience' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0062",
+      "term": "explain",
+      "display_term": "explain",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to make something clear",
+      "meaning_ja": "説明する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'explain' in today's study session.",
+          "text_ja": "今日の学習で 'explain' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0063",
+      "term": "fail",
+      "display_term": "fail",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to not succeed",
+      "meaning_ja": "失敗する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'fail' in today's study session.",
+          "text_ja": "今日の学習で 'fail' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0064",
+      "term": "famous",
+      "display_term": "famous",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "known by many people",
+      "meaning_ja": "有名な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'famous' in today's study session.",
+          "text_ja": "今日の学習で 'famous' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0065",
+      "term": "finish",
+      "display_term": "finish",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to complete something",
+      "meaning_ja": "終える",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'finish' in today's study session.",
+          "text_ja": "今日の学習で 'finish' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0066",
+      "term": "focus",
+      "display_term": "focus",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give full attention to something",
+      "meaning_ja": "集中する",
+      "preposition_usages": [
+        "focus on"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "focus on",
+          "meaning": "〜に集中する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "focus on",
+          "meaning_en": "to give special attention to",
+          "meaning_ja": "〜に集中する",
+          "example_en": "Focus on the key points.",
+          "example_ja": "重要点に集中してください。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'focus' in today's study session.",
+          "text_ja": "今日の学習で 'focus' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0067",
+      "term": "follow",
+      "display_term": "follow",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to go after or obey",
+      "meaning_ja": "従う",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'follow' in today's study session.",
+          "text_ja": "今日の学習で 'follow' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0068",
+      "term": "forgive",
+      "display_term": "forgive",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to stop feeling angry at someone",
+      "meaning_ja": "許す",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'forgive' in today's study session.",
+          "text_ja": "今日の学習で 'forgive' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0069",
+      "term": "friendly",
+      "display_term": "friendly",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "kind and pleasant",
+      "meaning_ja": "親しみやすい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'friendly' in today's study session.",
+          "text_ja": "今日の学習で 'friendly' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0070",
+      "term": "future",
+      "display_term": "future",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the time that is coming",
+      "meaning_ja": "未来",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'future' in today's study session.",
+          "text_ja": "今日の学習で 'future' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0071",
+      "term": "gather",
+      "display_term": "gather",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to collect things or people",
+      "meaning_ja": "集める",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'gather' in today's study session.",
+          "text_ja": "今日の学習で 'gather' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0072",
+      "term": "graduate",
+      "display_term": "graduate",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to complete school or college",
+      "meaning_ja": "卒業する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'graduate' in today's study session.",
+          "text_ja": "今日の学習で 'graduate' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0073",
+      "term": "habit",
+      "display_term": "habit",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "something you do regularly",
+      "meaning_ja": "習慣",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'habit' in today's study session.",
+          "text_ja": "今日の学習で 'habit' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0074",
+      "term": "happen",
+      "display_term": "happen",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to take place",
+      "meaning_ja": "起こる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'happen' in today's study session.",
+          "text_ja": "今日の学習で 'happen' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0075",
+      "term": "health",
+      "display_term": "health",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the condition of your body",
+      "meaning_ja": "健康",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'health' in today's study session.",
+          "text_ja": "今日の学習で 'health' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0076",
+      "term": "hear",
+      "display_term": "hear",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to get sound with your ears",
+      "meaning_ja": "聞く",
+      "preposition_usages": [
+        "hear from",
+        "hear about"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "hear from",
+          "meaning": "（人）から連絡をもらう"
+        },
+        {
+          "expression": "hear about",
+          "meaning": "〜について耳にする"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "hear from",
+          "meaning_en": "to receive news from someone",
+          "meaning_ja": "（人）から連絡をもらう",
+          "example_en": "I heard from my friend yesterday.",
+          "example_ja": "昨日友人から連絡がありました。"
+        },
+        {
+          "expression": "hear about",
+          "meaning_en": "to get information about something",
+          "meaning_ja": "〜について耳にする",
+          "example_en": "Did you hear about the event?",
+          "example_ja": "そのイベントについて聞きましたか。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'hear' in today's study session.",
+          "text_ja": "今日の学習で 'hear' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0077",
+      "term": "honest",
+      "display_term": "honest",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "telling the truth",
+      "meaning_ja": "正直な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'honest' in today's study session.",
+          "text_ja": "今日の学習で 'honest' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0078",
+      "term": "improve",
+      "display_term": "improve",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to become better",
+      "meaning_ja": "改善する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'improve' in today's study session.",
+          "text_ja": "今日の学習で 'improve' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0079",
+      "term": "include",
+      "display_term": "include",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to have something as part of a group",
+      "meaning_ja": "含む",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'include' in today's study session.",
+          "text_ja": "今日の学習で 'include' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0080",
+      "term": "increase",
+      "display_term": "increase",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to become larger in amount",
+      "meaning_ja": "増加する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'increase' in today's study session.",
+          "text_ja": "今日の学習で 'increase' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0081",
+      "term": "independent",
+      "display_term": "independent",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "not controlled by others",
+      "meaning_ja": "自立した",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'independent' in today's study session.",
+          "text_ja": "今日の学習で 'independent' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0082",
+      "term": "information",
+      "display_term": "information",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "facts or knowledge",
+      "meaning_ja": "情報",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'information' in today's study session.",
+          "text_ja": "今日の学習で 'information' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0083",
+      "term": "introduce",
+      "display_term": "introduce",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to present someone or something",
+      "meaning_ja": "紹介する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'introduce' in today's study session.",
+          "text_ja": "今日の学習で 'introduce' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0084",
+      "term": "international",
+      "display_term": "international",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "between different countries",
+      "meaning_ja": "国際的な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'international' in today's study session.",
+          "text_ja": "今日の学習で 'international' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0085",
+      "term": "invite",
+      "display_term": "invite",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to ask someone to come",
+      "meaning_ja": "招待する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'invite' in today's study session.",
+          "text_ja": "今日の学習で 'invite' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0086",
+      "term": "join",
+      "display_term": "join",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to become part of a group",
+      "meaning_ja": "参加する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'join' in today's study session.",
+          "text_ja": "今日の学習で 'join' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0087",
+      "term": "knowledge",
+      "display_term": "knowledge",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "what you know",
+      "meaning_ja": "知識",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'knowledge' in today's study session.",
+          "text_ja": "今日の学習で 'knowledge' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0088",
+      "term": "language",
+      "display_term": "language",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a system of words used by people",
+      "meaning_ja": "言語",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'language' in today's study session.",
+          "text_ja": "今日の学習で 'language' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0089",
+      "term": "laugh",
+      "display_term": "laugh",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to make sounds because something is funny",
+      "meaning_ja": "笑う",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'laugh' in today's study session.",
+          "text_ja": "今日の学習で 'laugh' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0090",
+      "term": "learn",
+      "display_term": "learn",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to get knowledge or skill",
+      "meaning_ja": "学ぶ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'learn' in today's study session.",
+          "text_ja": "今日の学習で 'learn' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0091",
+      "term": "leave",
+      "display_term": "leave",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to go away from a place",
+      "meaning_ja": "去る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'leave' in today's study session.",
+          "text_ja": "今日の学習で 'leave' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0092",
+      "term": "lend",
+      "display_term": "lend",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give something for a short time",
+      "meaning_ja": "貸す",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'lend' in today's study session.",
+          "text_ja": "今日の学習で 'lend' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0093",
+      "term": "local",
+      "display_term": "local",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "in or from the area nearby",
+      "meaning_ja": "地元の",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'local' in today's study session.",
+          "text_ja": "今日の学習で 'local' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0094",
+      "term": "look",
+      "display_term": "look",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to direct your eyes toward something",
+      "meaning_ja": "見る",
+      "preposition_usages": [
+        "look at",
+        "look for",
+        "look after",
+        "look into",
+        "look up to"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "look at",
+          "meaning": "〜を見る"
+        },
+        {
+          "expression": "look for",
+          "meaning": "〜を探す"
+        },
+        {
+          "expression": "look after",
+          "meaning": "〜の世話をする"
+        },
+        {
+          "expression": "look into",
+          "meaning": "〜を調査する"
+        },
+        {
+          "expression": "look up to",
+          "meaning": "〜を尊敬する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "look at",
+          "meaning_en": "to direct your eyes to",
+          "meaning_ja": "〜を見る",
+          "example_en": "Look at this chart.",
+          "example_ja": "この表を見てください。"
+        },
+        {
+          "expression": "look for",
+          "meaning_en": "to try to find",
+          "meaning_ja": "〜を探す",
+          "example_en": "I am looking for my keys.",
+          "example_ja": "私は鍵を探しています。"
+        },
+        {
+          "expression": "look after",
+          "meaning_en": "to take care of",
+          "meaning_ja": "〜の世話をする",
+          "example_en": "She looks after her younger brother.",
+          "example_ja": "彼女は弟の世話をしています。"
+        },
+        {
+          "expression": "look into",
+          "meaning_en": "to investigate",
+          "meaning_ja": "〜を調査する",
+          "example_en": "We will look into the issue.",
+          "example_ja": "私たちはその問題を調査します。"
+        },
+        {
+          "expression": "look up to",
+          "meaning_en": "to respect someone",
+          "meaning_ja": "〜を尊敬する",
+          "example_en": "Many students look up to her.",
+          "example_ja": "多くの生徒が彼女を尊敬しています。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'look' in today's study session.",
+          "text_ja": "今日の学習で 'look' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0095",
+      "term": "message",
+      "display_term": "message",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "information sent to someone",
+      "meaning_ja": "メッセージ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'message' in today's study session.",
+          "text_ja": "今日の学習で 'message' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0096",
+      "term": "natural",
+      "display_term": "natural",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "from nature; not artificial",
+      "meaning_ja": "自然の",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'natural' in today's study session.",
+          "text_ja": "今日の学習で 'natural' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0097",
+      "term": "necessary",
+      "display_term": "necessary",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "needed",
+      "meaning_ja": "必要な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'necessary' in today's study session.",
+          "text_ja": "今日の学習で 'necessary' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0098",
+      "term": "neighbor",
+      "display_term": "neighbor",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a person living near you",
+      "meaning_ja": "近所の人",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'neighbor' in today's study session.",
+          "text_ja": "今日の学習で 'neighbor' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0099",
+      "term": "opportunity",
+      "display_term": "opportunity",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a good chance to do something",
+      "meaning_ja": "機会",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'opportunity' in today's study session.",
+          "text_ja": "今日の学習で 'opportunity' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0100",
+      "term": "passenger",
+      "display_term": "passenger",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a person traveling in a vehicle",
+      "meaning_ja": "乗客",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'passenger' in today's study session.",
+          "text_ja": "今日の学習で 'passenger' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0101",
+      "term": "pay",
+      "display_term": "pay",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give money for something",
+      "meaning_ja": "支払う",
+      "preposition_usages": [
+        "pay for"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "pay for",
+          "meaning": "〜の代金を払う"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "pay for",
+          "meaning_en": "to give money for something",
+          "meaning_ja": "〜の代金を払う",
+          "example_en": "I paid for lunch.",
+          "example_ja": "私は昼食代を払いました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'pay' in today's study session.",
+          "text_ja": "今日の学習で 'pay' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0102",
+      "term": "plan",
+      "display_term": "plan",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "an idea of what you will do",
+      "meaning_ja": "計画",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'plan' in today's study session.",
+          "text_ja": "今日の学習で 'plan' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0103",
+      "term": "pollution",
+      "display_term": "pollution",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "damage to the environment",
+      "meaning_ja": "汚染",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'pollution' in today's study session.",
+          "text_ja": "今日の学習で 'pollution' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0104",
+      "term": "popular",
+      "display_term": "popular",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "liked by many people",
+      "meaning_ja": "人気のある",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'popular' in today's study session.",
+          "text_ja": "今日の学習で 'popular' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0105",
+      "term": "population",
+      "display_term": "population",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the number of people in a place",
+      "meaning_ja": "人口",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'population' in today's study session.",
+          "text_ja": "今日の学習で 'population' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0106",
+      "term": "possible",
+      "display_term": "possible",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "able to be done",
+      "meaning_ja": "可能な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'possible' in today's study session.",
+          "text_ja": "今日の学習で 'possible' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0107",
+      "term": "practice",
+      "display_term": "practice",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "repeated exercise to improve skill",
+      "meaning_ja": "練習",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'practice' in today's study session.",
+          "text_ja": "今日の学習で 'practice' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0108",
+      "term": "prepare",
+      "display_term": "prepare",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to get ready",
+      "meaning_ja": "準備する",
+      "preposition_usages": [
+        "prepare for"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "prepare for",
+          "meaning": "〜に備える"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "prepare for",
+          "meaning_en": "to get ready for something",
+          "meaning_ja": "〜に備える",
+          "example_en": "We are preparing for the exam.",
+          "example_ja": "私たちは試験に備えています。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'prepare' in today's study session.",
+          "text_ja": "今日の学習で 'prepare' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0109",
+      "term": "private",
+      "display_term": "private",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "for one person or group only",
+      "meaning_ja": "私的な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'private' in today's study session.",
+          "text_ja": "今日の学習で 'private' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0110",
+      "term": "product",
+      "display_term": "product",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "something made to be sold",
+      "meaning_ja": "製品",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'product' in today's study session.",
+          "text_ja": "今日の学習で 'product' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0111",
+      "term": "provide",
+      "display_term": "provide",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to give what is needed",
+      "meaning_ja": "提供する",
+      "preposition_usages": [
+        "provide with"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "provide with",
+          "meaning": "（人）に〜を提供する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "provide with",
+          "meaning_en": "to supply someone with something",
+          "meaning_ja": "（人）に〜を提供する",
+          "example_en": "The school provides students with tablets.",
+          "example_ja": "学校は生徒にタブレットを提供します。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'provide' in today's study session.",
+          "text_ja": "今日の学習で 'provide' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0112",
+      "term": "reason",
+      "display_term": "reason",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a cause or explanation",
+      "meaning_ja": "理由",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'reason' in today's study session.",
+          "text_ja": "今日の学習で 'reason' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0113",
+      "term": "recover",
+      "display_term": "recover",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to return to normal health or condition",
+      "meaning_ja": "回復する",
+      "preposition_usages": [
+        "recover from"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "recover from",
+          "meaning": "〜から回復する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "recover from",
+          "meaning_en": "to get better after illness or damage",
+          "meaning_ja": "〜から回復する",
+          "example_en": "He recovered from the flu quickly.",
+          "example_ja": "彼はインフルエンザから早く回復しました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'recover' in today's study session.",
+          "text_ja": "今日の学習で 'recover' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0114",
+      "term": "relationship",
+      "display_term": "relationship",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the way people are connected",
+      "meaning_ja": "関係",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'relationship' in today's study session.",
+          "text_ja": "今日の学習で 'relationship' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0115",
+      "term": "rely",
+      "display_term": "rely",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to trust and depend on",
+      "meaning_ja": "頼る",
+      "preposition_usages": [
+        "rely on"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "rely on",
+          "meaning": "〜に頼る"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "rely on",
+          "meaning_en": "to trust and depend on",
+          "meaning_ja": "〜に頼る",
+          "example_en": "You can rely on me.",
+          "example_ja": "私を頼ってください。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'rely' in today's study session.",
+          "text_ja": "今日の学習で 'rely' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0116",
+      "term": "research",
+      "display_term": "research",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "careful study to discover facts",
+      "meaning_ja": "研究",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'research' in today's study session.",
+          "text_ja": "今日の学習で 'research' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0117",
+      "term": "result",
+      "display_term": "result",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "what happens because of something",
+      "meaning_ja": "結果",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'result' in today's study session.",
+          "text_ja": "今日の学習で 'result' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0118",
+      "term": "safe",
+      "display_term": "safe",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "free from danger",
+      "meaning_ja": "安全な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'safe' in today's study session.",
+          "text_ja": "今日の学習で 'safe' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0119",
+      "term": "serious",
+      "display_term": "serious",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "important and needing attention",
+      "meaning_ja": "深刻な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'serious' in today's study session.",
+          "text_ja": "今日の学習で 'serious' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0120",
+      "term": "service",
+      "display_term": "service",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "work done for others",
+      "meaning_ja": "サービス",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'service' in today's study session.",
+          "text_ja": "今日の学習で 'service' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0121",
+      "term": "simple",
+      "display_term": "simple",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "easy to understand",
+      "meaning_ja": "簡単な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'simple' in today's study session.",
+          "text_ja": "今日の学習で 'simple' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0122",
+      "term": "situation",
+      "display_term": "situation",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the set of conditions at a time",
+      "meaning_ja": "状況",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'situation' in today's study session.",
+          "text_ja": "今日の学習で 'situation' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0123",
+      "term": "skill",
+      "display_term": "skill",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "the ability to do something well",
+      "meaning_ja": "技能",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'skill' in today's study session.",
+          "text_ja": "今日の学習で 'skill' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0124",
+      "term": "society",
+      "display_term": "society",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "people living together in an organized way",
+      "meaning_ja": "社会",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'society' in today's study session.",
+          "text_ja": "今日の学習で 'society' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0125",
+      "term": "special",
+      "display_term": "special",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "different from what is usual",
+      "meaning_ja": "特別な",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'special' in today's study session.",
+          "text_ja": "今日の学習で 'special' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0126",
+      "term": "succeed",
+      "display_term": "succeed",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to do what you tried to do",
+      "meaning_ja": "成功する",
+      "preposition_usages": [
+        "succeed in"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "succeed in",
+          "meaning": "〜に成功する"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "succeed in",
+          "meaning_en": "to achieve something",
+          "meaning_ja": "〜に成功する",
+          "example_en": "She succeeded in passing the test.",
+          "example_ja": "彼女は試験に合格することに成功しました。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'succeed' in today's study session.",
+          "text_ja": "今日の学習で 'succeed' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0127",
+      "term": "successful",
+      "display_term": "successful",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "achieving the result you wanted",
+      "meaning_ja": "成功した",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'successful' in today's study session.",
+          "text_ja": "今日の学習で 'successful' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0128",
+      "term": "surprised",
+      "display_term": "surprised",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "feeling unexpected shock",
+      "meaning_ja": "驚いた",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'surprised' in today's study session.",
+          "text_ja": "今日の学習で 'surprised' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0129",
+      "term": "think",
+      "display_term": "think",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to use your mind",
+      "meaning_ja": "考える",
+      "preposition_usages": [
+        "think about",
+        "think of"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "think about",
+          "meaning": "〜について考える"
+        },
+        {
+          "expression": "think of",
+          "meaning": "〜を思いつく"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "think about",
+          "meaning_en": "to consider",
+          "meaning_ja": "〜について考える",
+          "example_en": "Think about your future.",
+          "example_ja": "自分の将来について考えてください。"
+        },
+        {
+          "expression": "think of",
+          "meaning_en": "to have an idea about",
+          "meaning_ja": "〜を思いつく",
+          "example_en": "Can you think of another plan?",
+          "example_ja": "別の案を思いつけますか。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'think' in today's study session.",
+          "text_ja": "今日の学習で 'think' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0130",
+      "term": "traffic",
+      "display_term": "traffic",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "vehicles moving on roads",
+      "meaning_ja": "交通",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'traffic' in today's study session.",
+          "text_ja": "今日の学習で 'traffic' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0131",
+      "term": "tradition",
+      "display_term": "tradition",
+      "pronunciation_ipa": "",
+      "pos": "noun",
+      "meaning_en": "a custom passed down over time",
+      "meaning_ja": "伝統",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'tradition' in today's study session.",
+          "text_ja": "今日の学習で 'tradition' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0132",
+      "term": "useful",
+      "display_term": "useful",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "helpful and practical",
+      "meaning_ja": "役に立つ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'useful' in today's study session.",
+          "text_ja": "今日の学習で 'useful' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0133",
+      "term": "usual",
+      "display_term": "usual",
+      "pronunciation_ipa": "",
+      "pos": "adjective",
+      "meaning_en": "happening in the normal way",
+      "meaning_ja": "通常の",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'usual' in today's study session.",
+          "text_ja": "今日の学習で 'usual' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    },
+    {
+      "entry_id": "eiken2-0134",
+      "term": "wait",
+      "display_term": "wait",
+      "pronunciation_ipa": "",
+      "pos": "verb",
+      "meaning_en": "to stay until something happens",
+      "meaning_ja": "待つ",
+      "preposition_usages": [
+        "wait for"
+      ],
+      "verb_preposition_usages": [
+        {
+          "expression": "wait for",
+          "meaning": "〜を待つ"
+        }
+      ],
+      "verb_preposition_details": [
+        {
+          "expression": "wait for",
+          "meaning_en": "to stay until someone or something comes",
+          "meaning_ja": "〜を待つ",
+          "example_en": "Please wait for your turn.",
+          "example_ja": "順番を待ってください。"
+        }
+      ],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "eiken",
+        "pre2",
+        "frequent"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Let's review 'wait' in today's study session.",
+          "text_ja": "今日の学習で 'wait' を確認しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-22T00:00:00Z"
+    }
+  ]
+}

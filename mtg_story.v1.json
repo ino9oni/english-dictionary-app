@@ -1,0 +1,4710 @@
+{
+  "schema_version": "1.0",
+  "deck": {
+    "deck_id": "mtg_story",
+    "name": "MTG Story Terms",
+    "version": 1
+  },
+  "entries": [
+    {
+      "entry_id": "e15d162e-698c-53b1-8c79-ad6a8220c996",
+      "term": "a fit of rage",
+      "display_term": "a fit of rage",
+      "pos": "noun phrase",
+      "meaning_en": "a sudden burst of intense anger",
+      "meaning_ja": "激しい怒りの爆発",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "In a fit of rage, he struck first.",
+          "text_ja": "激怒のあまり、彼は先に手を出した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "8dde2c25-45f6-5aa3-adef-ba3cfefcc0ae",
+      "term": "abound",
+      "display_term": "abound",
+      "pos": "verb",
+      "meaning_en": "be plentiful",
+      "meaning_ja": "豊富にある／あふれる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Magic abounds in this city.",
+          "text_ja": "この都市には魔法があふれている。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "419b486d-2e9e-57fd-96f8-22d6949afb73",
+      "term": "abundance",
+      "display_term": "abundance",
+      "pos": "noun",
+      "meaning_en": "a large amount; plenty",
+      "meaning_ja": "豊富／大量",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An abundance of mana gathered here.",
+          "text_ja": "豊富なマナがここに集まった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "effe7bfc-e0b1-5775-a302-ada16804b04d",
+      "term": "abused",
+      "display_term": "abused",
+      "pos": "past participle/adjective",
+      "meaning_en": "misused; treated cruelly",
+      "meaning_ja": "虐待された／乱用された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Abused power breeds rebellion.",
+          "text_ja": "乱用された力は反乱を生む。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "67d3611a-d093-5d2c-b75c-52fb591d1b30",
+      "term": "accomplished",
+      "display_term": "accomplished",
+      "pos": "adj./past participle",
+      "meaning_en": "skilled; achieved",
+      "meaning_ja": "熟達した／成し遂げた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An accomplished mage read the sigils.",
+          "text_ja": "熟練の魔術師が紋章を読んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9aceae45-2fb2-5b20-8040-08630f1dde5f",
+      "term": "aether",
+      "display_term": "aether",
+      "pos": "noun",
+      "meaning_en": "magical ‘ether’; a medium/energy",
+      "meaning_ja": "エーテル／霊気",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Aether flowed through the streets.",
+          "text_ja": "霊気が街路を流れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a0ca7c31-52d5-5f5b-8aaf-b6c3ca23418f",
+      "term": "aid",
+      "display_term": "aid",
+      "pos": "noun/verb",
+      "meaning_en": "help; assistance",
+      "meaning_ja": "助け／援助",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They offered aid to their allies.",
+          "text_ja": "彼らは味方に援助を申し出た。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f108cb72-fb21-503e-9297-44ccb406feca",
+      "term": "aiding",
+      "display_term": "aiding",
+      "pos": "present participle",
+      "meaning_en": "helping",
+      "meaning_ja": "助けている／援助している",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Aiding their allies, they held the bridge.",
+          "text_ja": "味方を援助し、彼らは橋を守った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "38c07de5-ea13-55f1-b2f7-e78528389361",
+      "term": "albeit",
+      "display_term": "albeit",
+      "pos": "conjunction",
+      "meaning_en": "although",
+      "meaning_ja": "〜ではあるが",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Victorious, albeit wounded, they returned.",
+          "text_ja": "傷を負ってはいるが、彼らは勝って戻った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "7bf101ca-c3b1-5f80-85cb-71e32a1a90be",
+      "term": "all-out war",
+      "display_term": "all-out war",
+      "pos": "noun phrase",
+      "meaning_en": "total war; full-scale war",
+      "meaning_ja": "全面戦争／総力戦",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The dispute became all-out war.",
+          "text_ja": "争いは全面戦争になった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "295751bd-3759-5fbd-8225-91229c2c219a",
+      "term": "allies",
+      "display_term": "allies",
+      "pos": "noun (plural)",
+      "meaning_en": "friends who fight together",
+      "meaning_ja": "同盟者／味方",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Allies gathered at the gate.",
+          "text_ja": "味方が門に集結した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "c4549534-8826-5b80-a23b-28f4e9561788",
+      "term": "ambitions",
+      "display_term": "ambitions",
+      "pos": "noun (plural)",
+      "meaning_en": "strong desires for achievement/power",
+      "meaning_ja": "野望",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Dark ambitions consumed him.",
+          "text_ja": "闇の野望が彼を飲み込んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9bd61e32-ac2d-50d2-8aa3-cb98f737e2a2",
+      "term": "artistry",
+      "display_term": "artistry",
+      "pos": "noun",
+      "meaning_en": "artistic skill",
+      "meaning_ja": "芸術性／技巧",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Their artistry impressed even rivals.",
+          "text_ja": "その技巧は敵すら感心させた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1b87a01f-94a6-5e6e-80b1-966f05212009",
+      "term": "asunder",
+      "display_term": "asunder",
+      "pos": "adverb",
+      "meaning_en": "into pieces; apart",
+      "meaning_ja": "ばらばらに／引き裂かれて",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The gate was torn asunder.",
+          "text_ja": "門は引き裂かれた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9fe67318-16ef-5ab1-a614-62ce86868082",
+      "term": "attain",
+      "display_term": "attain",
+      "pos": "verb",
+      "meaning_en": "achieve; reach",
+      "meaning_ja": "達成する／到達する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He sought to attain ultimate power.",
+          "text_ja": "彼は究極の力に到達しようとした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "103f748c-ed0d-5ad2-8f6a-c00bcd746acc",
+      "term": "authoritarian",
+      "display_term": "authoritarian",
+      "pos": "adjective",
+      "meaning_en": "favoring strict obedience to authority",
+      "meaning_ja": "権威主義的な／独裁的な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An authoritarian regime tightened control.",
+          "text_ja": "独裁的な体制が統制を強めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e8f3d366-2e46-53c2-b06b-d85d4d0fc24f",
+      "term": "bearing",
+      "display_term": "bearing",
+      "pos": "noun/participle",
+      "meaning_en": "demeanor; manner; carrying",
+      "meaning_ja": "態度／様子／持っていること",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "His noble bearing inspired the troops.",
+          "text_ja": "彼の気高い立ち居振る舞いが兵を鼓舞した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "806315c0-a012-5ddf-b795-8eb5ba994e3f",
+      "term": "bearing down on",
+      "display_term": "bearing down on",
+      "pos": "phrasal verb",
+      "meaning_en": "closing in on; pressing toward",
+      "meaning_ja": "〜に迫る／押し寄せる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An army was bearing down on the city.",
+          "text_ja": "軍勢が都市に迫っていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "fc5a99b6-75e7-59b1-830a-0e7a59c9f26a",
+      "term": "begrudgingly",
+      "display_term": "begrudgingly",
+      "pos": "adverb",
+      "meaning_en": "reluctantly",
+      "meaning_ja": "しぶしぶ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He begrudgingly agreed to the truce.",
+          "text_ja": "彼はしぶしぶ休戦に同意した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2e94d31c-74ec-5e7f-bb51-7f681a70c445",
+      "term": "beneath",
+      "display_term": "beneath",
+      "pos": "preposition",
+      "meaning_en": "under; below",
+      "meaning_ja": "〜の下に",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Something stirred beneath the stones.",
+          "text_ja": "石の下で何かが動いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6257a5c5-b379-5e43-be65-cd635ca61d72",
+      "term": "bereft",
+      "display_term": "bereft",
+      "pos": "adjective",
+      "meaning_en": "deprived of; lacking",
+      "meaning_ja": "奪われた／失った",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Bereft of hope, they fled.",
+          "text_ja": "希望を失い、彼らは逃げた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "c44f2fcb-f81e-5876-b40b-1e52a70a3864",
+      "term": "bountiful",
+      "display_term": "bountiful",
+      "pos": "adjective",
+      "meaning_en": "generous; plentiful",
+      "meaning_ja": "豊かな／恵み多い",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A bountiful harvest fed the city.",
+          "text_ja": "豊かな収穫が都市を養った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e136b6e9-77a0-5b8c-be02-e8a7faa80d02",
+      "term": "bow",
+      "display_term": "bow",
+      "pos": "noun/verb",
+      "meaning_en": "a weapon for shooting arrows; to bend/bow",
+      "meaning_ja": "弓／お辞儀する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An elven bow sang as it fired.",
+          "text_ja": "エルフの弓が音を立てて放たれた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9fd23714-85ed-5ddb-9932-cf24d0ae394e",
+      "term": "bureaucratic",
+      "display_term": "bureaucratic",
+      "pos": "adjective",
+      "meaning_en": "related to bureaucracy; administrative",
+      "meaning_ja": "官僚的な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A bureaucratic council delayed action.",
+          "text_ja": "官僚的な評議会が対応を遅らせた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2d92704f-f121-53a0-85ea-cfa6857a2779",
+      "term": "canopy-toppling",
+      "display_term": "canopy-toppling",
+      "pos": "compound adjective",
+      "meaning_en": "toppling the forest canopy",
+      "meaning_ja": "樹冠をなぎ倒すほどの",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Canopy-toppling blows shook the forest.",
+          "text_ja": "樹冠をなぎ倒す一撃が森を揺らした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ff3d2c74-4d90-520e-bfd8-bbacc1106d4d",
+      "term": "cast out",
+      "display_term": "cast out",
+      "pos": "phrasal verb",
+      "meaning_en": "expel; banish",
+      "meaning_ja": "追放する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He was cast out from the order.",
+          "text_ja": "彼は教団から追放された。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0357a636-6b95-5af5-b75e-0dcb961b164a",
+      "term": "ceased",
+      "display_term": "ceased",
+      "pos": "verb (past)",
+      "meaning_en": "stopped; ended",
+      "meaning_ja": "終わった／止んだ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The fighting ceased at dawn.",
+          "text_ja": "戦闘は夜明けに止んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e7ecd284-56a2-561a-adae-3007b25613a8",
+      "term": "chafe",
+      "display_term": "chafe",
+      "pos": "verb",
+      "meaning_en": "feel irritated; resent restrictions",
+      "meaning_ja": "いら立つ／不満を募らせる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They chafed under strict rule.",
+          "text_ja": "彼らは厳しい支配に不満を募らせた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e5200f8e-8ca0-52ee-9172-1cc908167878",
+      "term": "chamber",
+      "display_term": "chamber",
+      "pos": "noun",
+      "meaning_en": "a room; inner room",
+      "meaning_ja": "部屋／奥の間",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They entered a hidden chamber.",
+          "text_ja": "彼らは隠し部屋に入った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "bffb5738-69eb-5576-a269-d618da899364",
+      "term": "clans",
+      "display_term": "clans",
+      "pos": "noun (plural)",
+      "meaning_en": "extended families; factions",
+      "meaning_ja": "氏族／一族",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The clans fought for the pass.",
+          "text_ja": "氏族が峠を巡って争った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "b5e6332c-73e9-5f7a-adac-3f8125542fc1",
+      "term": "cling",
+      "display_term": "cling",
+      "pos": "verb",
+      "meaning_en": "hold tightly; stick to",
+      "meaning_ja": "しがみつく",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They clung to hope.",
+          "text_ja": "彼らは希望にすがった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "5014429f-fc76-5f3c-80e7-90a4c09a8759",
+      "term": "clutches",
+      "display_term": "clutches",
+      "pos": "noun (plural)/verb",
+      "meaning_en": "a tight grasp; holds",
+      "meaning_ja": "支配下（〜の支配下で）",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They fell into the clutches of darkness.",
+          "text_ja": "彼らは闇の支配下に落ちた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "958ca414-1502-5646-b2b8-91fd4080ed62",
+      "term": "cocooned",
+      "display_term": "cocooned",
+      "pos": "past participle/adjective",
+      "meaning_en": "wrapped or enclosed",
+      "meaning_ja": "包み込まれた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Cocooned in magic, he slept.",
+          "text_ja": "魔法に包まれ、彼は眠った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2adc193e-7159-58a4-8a94-f920e9522f5a",
+      "term": "colossal",
+      "display_term": "colossal",
+      "pos": "adjective",
+      "meaning_en": "enormous; gigantic",
+      "meaning_ja": "巨大な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A colossal creature emerged.",
+          "text_ja": "巨大なクリーチャーが現れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "403716c3-1ce3-5a95-a43a-3852b19dc75f",
+      "term": "compassion",
+      "display_term": "compassion",
+      "pos": "noun",
+      "meaning_en": "sympathy; mercy",
+      "meaning_ja": "思いやり／慈悲",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Compassion stayed her hand.",
+          "text_ja": "慈悲が彼女の手を止めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a47a35f9-79ed-55b2-81c8-54decf2838ac",
+      "term": "consume",
+      "display_term": "consume",
+      "pos": "verb",
+      "meaning_en": "eat up; devour; overwhelm",
+      "meaning_ja": "消費する／飲み込む",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Darkness threatened to consume the land.",
+          "text_ja": "闇が土地を飲み込もうとしていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "621ac0c3-d07f-5554-bdab-da231debef4e",
+      "term": "consumed by",
+      "display_term": "consumed by",
+      "pos": "verb phrase (passive)",
+      "meaning_en": "overwhelmed by; taken over by",
+      "meaning_ja": "〜に支配される／飲み込まれる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Consumed by hatred, he forgot mercy.",
+          "text_ja": "憎しみに支配され、彼は慈悲を忘れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "46a09fe5-9d3d-5a2f-9e33-ba167db4c8be",
+      "term": "convalescence",
+      "display_term": "convalescence",
+      "pos": "noun",
+      "meaning_en": "recovery period after illness/injury",
+      "meaning_ja": "回復期／療養",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Her convalescence took months.",
+          "text_ja": "彼女の療養は数か月に及んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "06655e83-4673-5262-b6b8-62df15b06c17",
+      "term": "coup",
+      "display_term": "coup",
+      "pos": "noun",
+      "meaning_en": "a sudden seizure of power",
+      "meaning_ja": "クーデター／政変",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A coup toppled the old ruler.",
+          "text_ja": "クーデターが旧支配者を倒した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2a6ec2f8-871d-5b0d-9c1f-20e18151cf9f",
+      "term": "crocodilian",
+      "display_term": "crocodilian",
+      "pos": "adjective",
+      "meaning_en": "crocodile-like",
+      "meaning_ja": "ワニのような",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A crocodilian beast lurked in water.",
+          "text_ja": "ワニのような獣が水に潜んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ee39057a-7b0c-5621-942c-98e45955e4b9",
+      "term": "cruel",
+      "display_term": "cruel",
+      "pos": "adjective",
+      "meaning_en": "mean; causing suffering",
+      "meaning_ja": "残酷な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A cruel tyrant ruled.",
+          "text_ja": "残酷な暴君が支配した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2faea58f-4d5a-5cb1-a19e-344a1ad4097d",
+      "term": "culminated",
+      "display_term": "culminated",
+      "pos": "verb (past)",
+      "meaning_en": "reached a climax; ended in",
+      "meaning_ja": "最高潮に達した／最終的に〜となった",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The feud culminated in war.",
+          "text_ja": "確執は戦争に行き着いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1214d578-419d-5de3-84e0-783bf4971dd6",
+      "term": "cults",
+      "display_term": "cults",
+      "pos": "noun (plural)",
+      "meaning_en": "secretive religious groups",
+      "meaning_ja": "カルト集団／秘密結社",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Dark cults gathered in silence.",
+          "text_ja": "闇のカルトが静かに集まった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0482f417-7148-5fab-b131-2d47d86cabdc",
+      "term": "decay",
+      "display_term": "decay",
+      "pos": "noun/verb",
+      "meaning_en": "rot; deterioration",
+      "meaning_ja": "腐敗／衰退",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Decay spread through the forest.",
+          "text_ja": "腐敗が森に広がった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e1688c03-63bd-5943-854d-854538a4fa5c",
+      "term": "deed",
+      "display_term": "deed",
+      "pos": "noun",
+      "meaning_en": "an act (often notable)",
+      "meaning_ja": "行為／行い",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A heroic deed earned respect.",
+          "text_ja": "英雄的行いが敬意を得た。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f19bbc29-a52d-51f2-8fba-100ef8263b56",
+      "term": "denizens",
+      "display_term": "denizens",
+      "pos": "noun (plural)",
+      "meaning_en": "inhabitants; residents",
+      "meaning_ja": "住人たち",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The denizens of the plane watched in fear.",
+          "text_ja": "その次元の住人たちは恐れながら見守った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "043b95a2-1d0c-5561-bc96-551a6085086c",
+      "term": "designated",
+      "display_term": "designated",
+      "pos": "adj./past participle",
+      "meaning_en": "appointed; officially chosen",
+      "meaning_ja": "指定された／任命された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The designated heir took the throne.",
+          "text_ja": "指名された後継者が即位した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f76c93e4-3015-5d93-a9a3-17753a315aae",
+      "term": "deterring",
+      "display_term": "deterring",
+      "pos": "present participle",
+      "meaning_en": "discouraging; preventing",
+      "meaning_ja": "抑止する／思いとどまらせる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Deterring wards protected the vault.",
+          "text_ja": "抑止の結界が宝物庫を守った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6a0bd54e-e1c4-52dc-a2e8-e3fcd8049f9a",
+      "term": "devotion",
+      "display_term": "devotion",
+      "pos": "noun",
+      "meaning_en": "deep loyalty or religious worship",
+      "meaning_ja": "献身／信仰",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Her devotion to the god was absolute.",
+          "text_ja": "彼女の神への信仰は絶対だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "12fbfb01-eb95-58b2-8e4b-26e7f28476ac",
+      "term": "disappeared",
+      "display_term": "disappeared",
+      "pos": "verb (past)",
+      "meaning_en": "vanished",
+      "meaning_ja": "姿を消した／消失した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The city disappeared overnight.",
+          "text_ja": "都市は一夜にして消えた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f476b457-4dea-5ec2-8857-dc361d301ed3",
+      "term": "disgrace",
+      "display_term": "disgrace",
+      "pos": "noun/verb",
+      "meaning_en": "shame; loss of honor",
+      "meaning_ja": "不名誉／恥",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "It was a mark of disgrace.",
+          "text_ja": "それは不名誉の印だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "b105538d-b597-52e9-b7ea-e691a4fa4cce",
+      "term": "dishonored bones",
+      "display_term": "dishonored bones",
+      "pos": "noun phrase",
+      "meaning_en": "bones stripped of honor; disgraced remains",
+      "meaning_ja": "辱められた遺骨",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They raised the dishonored bones.",
+          "text_ja": "彼らは辱められた遺骨を起こした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "78f14532-3171-5084-b9bb-fb0b440960a7",
+      "term": "dismissed",
+      "display_term": "dismissed",
+      "pos": "verb (past/pp)",
+      "meaning_en": "rejected; sent away",
+      "meaning_ja": "却下された／退けられた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Their warnings were dismissed.",
+          "text_ja": "彼らの警告は退けられた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "b43dbfe5-87b1-50bc-89ff-3ce73bece5b1",
+      "term": "divergent",
+      "display_term": "divergent",
+      "pos": "adjective",
+      "meaning_en": "separating; different",
+      "meaning_ja": "分岐した／食い違う",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Divergent paths led to rival destinies.",
+          "text_ja": "分かれた道が対立する運命へ続いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "025eef70-e0e6-5e7c-ae15-dcc8ed6f3ca5",
+      "term": "dominated",
+      "display_term": "dominated",
+      "pos": "verb (past)",
+      "meaning_en": "controlled; overwhelmed",
+      "meaning_ja": "支配した／圧倒した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They dominated the battlefield.",
+          "text_ja": "彼らは戦場を支配した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e9fa3be6-5784-5e00-bbfc-15de915fdf0b",
+      "term": "double-dealing",
+      "display_term": "double-dealing",
+      "pos": "adjective",
+      "meaning_en": "deceitful; two-faced",
+      "meaning_ja": "二枚舌の／裏切りの",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A double-dealing envoy betrayed both sides.",
+          "text_ja": "二枚舌の使者が両陣営を裏切った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "262ccc4f-c10b-5186-a696-df806570d0f5",
+      "term": "draconic",
+      "display_term": "draconic",
+      "pos": "adjective",
+      "meaning_en": "dragon-like; of dragons",
+      "meaning_ja": "竜のような",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Draconic power surged within her.",
+          "text_ja": "竜の力が彼女の内に満ちた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a928972b-76be-5237-9301-f6ab0f2955ea",
+      "term": "dragonbrood",
+      "display_term": "dragonbrood",
+      "pos": "noun",
+      "meaning_en": "dragon kin; dragon lineage",
+      "meaning_ja": "ドラゴンの眷属／竜の血族",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The dragonbrood rallied to its sire.",
+          "text_ja": "竜の眷属が主のもとに集った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ae9a9505-d315-5af0-aefa-e147f49282b9",
+      "term": "drained",
+      "display_term": "drained",
+      "pos": "past participle/adjective",
+      "meaning_en": "emptied; exhausted",
+      "meaning_ja": "吸い尽くされた／消耗した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Mana drained from the soil.",
+          "text_ja": "土からマナが吸い尽くされた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2cd8ac5d-5a73-5319-900c-b538879009fe",
+      "term": "dubious honor",
+      "display_term": "dubious honor",
+      "pos": "noun phrase",
+      "meaning_en": "a questionable ‘honor’ (almost a disgrace)",
+      "meaning_ja": "疑わしい名誉／不名誉に近い名声",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "It was a dubious honor to be chosen.",
+          "text_ja": "選ばれるのは疑わしい名誉だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "7e5ec2b6-df2f-5c61-8f55-3f8dd3cbbf20",
+      "term": "eking out",
+      "display_term": "eking out",
+      "pos": "phrasal verb (present participle)",
+      "meaning_en": "managing with difficulty; barely obtaining",
+      "meaning_ja": "かろうじて得る／やりくりする",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Eking out a living, they hid in ruins.",
+          "text_ja": "かろうじて生き延び、彼らは廃墟に隠れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "3f0fb666-d1b2-535a-8178-98a47ff1e932",
+      "term": "encasing",
+      "display_term": "encasing",
+      "pos": "present participle",
+      "meaning_en": "enclosing; covering",
+      "meaning_ja": "包み込む／覆う",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Encasing the relic in ice, they sealed it.",
+          "text_ja": "聖遺物を氷で覆い、彼らは封じた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "c6aa9174-e8c6-5eab-b7c1-16af22982209",
+      "term": "endgame",
+      "display_term": "endgame",
+      "pos": "noun",
+      "meaning_en": "final stage; decisive phase",
+      "meaning_ja": "最終局面",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The war entered its endgame.",
+          "text_ja": "戦争は最終局面に入った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d7613953-161b-538b-9f7e-969c0fd80558",
+      "term": "endurance",
+      "display_term": "endurance",
+      "pos": "noun",
+      "meaning_en": "the ability to continue despite hardship",
+      "meaning_ja": "忍耐力／持久力",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The march tested their endurance.",
+          "text_ja": "行軍は彼らの忍耐を試した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2b4e5ea7-7ed3-5e49-96ba-d39d63f6f6c1",
+      "term": "enlightenment",
+      "display_term": "enlightenment",
+      "pos": "noun",
+      "meaning_en": "awakening; realization",
+      "meaning_ja": "悟り／啓示",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "She found enlightenment in silence.",
+          "text_ja": "彼女は静けさの中で悟りを得た。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "395c6ef9-51dd-57b4-87b7-26d118ca5669",
+      "term": "enraged",
+      "display_term": "enraged",
+      "pos": "adjective",
+      "meaning_en": "very angry; furious",
+      "meaning_ja": "激怒した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An enraged beast charged forward.",
+          "text_ja": "激怒した獣が突進した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "3bf412f7-891b-5b3f-acbb-32565ae8ee52",
+      "term": "eradicate",
+      "display_term": "eradicate",
+      "pos": "verb",
+      "meaning_en": "remove completely",
+      "meaning_ja": "根絶する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They vowed to eradicate the plague.",
+          "text_ja": "彼らは疫病を根絶すると誓った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6a818f27-c7cd-574a-8682-70fae633c22f",
+      "term": "erupted",
+      "display_term": "erupted",
+      "pos": "verb (past)",
+      "meaning_en": "broke out suddenly",
+      "meaning_ja": "勃発した／噴き出した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "War erupted across the realm.",
+          "text_ja": "戦争が領域全体で勃発した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ec963a5d-d0f8-5a36-8b90-8f14bee075a1",
+      "term": "essence",
+      "display_term": "essence",
+      "pos": "noun",
+      "meaning_en": "core nature; fundamental quality",
+      "meaning_ja": "本質／精髄",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The essence of magic pulsed.",
+          "text_ja": "魔法の精髄が脈打った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "47b63701-6118-504c-9f00-d78708c9b631",
+      "term": "etherium",
+      "display_term": "etherium",
+      "pos": "noun",
+      "meaning_en": "a magical metal/material in MTG lore",
+      "meaning_ja": "エーテリウム（魔力を帯びた金属・物質）",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Etherium constructs guarded the vault.",
+          "text_ja": "エーテリウムの構築体が宝庫を守った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "fb88a3c7-dbec-5715-976a-cba1aa8b56eb",
+      "term": "even among",
+      "display_term": "even among",
+      "pos": "adverb + prep phrase",
+      "meaning_en": "even within; even in the group of",
+      "meaning_ja": "〜の中ですら",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Feared even among demons, it endured.",
+          "text_ja": "悪魔の中ですら恐れられ、それは生き延びた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "98926c7a-3ff2-5b9a-9f9a-59993951814d",
+      "term": "exquisitely",
+      "display_term": "exquisitely",
+      "pos": "adverb",
+      "meaning_en": "extremely finely; beautifully",
+      "meaning_ja": "この上なく／非常に精巧に",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An exquisitely crafted artifact gleamed.",
+          "text_ja": "非常に精巧なアーティファクトが輝いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "4591aa82-7c7f-51a5-b820-0f05543a6c70",
+      "term": "fearsome",
+      "display_term": "fearsome",
+      "pos": "adjective",
+      "meaning_en": "causing fear; terrifying",
+      "meaning_ja": "恐ろしい／畏怖すべき",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A fearsome creature rose from the pit.",
+          "text_ja": "恐ろしいクリーチャーが穴から現れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2a19539f-4f70-57fd-8570-646498bc25c4",
+      "term": "ferocious",
+      "display_term": "ferocious",
+      "pos": "adjective",
+      "meaning_en": "savagely fierce; violent",
+      "meaning_ja": "凶暴な／猛烈な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A ferocious assault shattered the line.",
+          "text_ja": "猛烈な襲撃が戦線を破った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "082e3b76-d4c8-5cd1-a02b-31d2707c7046",
+      "term": "fierce",
+      "display_term": "fierce",
+      "pos": "adjective",
+      "meaning_en": "intensely strong; violent",
+      "meaning_ja": "激しい／獰猛な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A fierce battle raged all night.",
+          "text_ja": "激しい戦いが一晩続いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ff4dec2e-4ed6-5799-a86a-5988cba150b8",
+      "term": "filigree",
+      "display_term": "filigree",
+      "pos": "noun",
+      "meaning_en": "delicate ornamental work",
+      "meaning_ja": "金線細工／繊細な装飾",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Filigree traced the metal’s edge.",
+          "text_ja": "繊細な装飾が金属の縁をなぞった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "55d890dc-abf4-553d-ad43-172736da6b09",
+      "term": "foes",
+      "display_term": "foes",
+      "pos": "noun (plural)",
+      "meaning_en": "enemies",
+      "meaning_ja": "敵",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They faced their foes at the bridge.",
+          "text_ja": "彼らは橋で敵と対峙した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0876669e-557f-56d8-a825-db232b4c095b",
+      "term": "foremost",
+      "display_term": "foremost",
+      "pos": "adj./adverb",
+      "meaning_en": "most important; leading",
+      "meaning_ja": "最も重要な／第一の",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "She was the foremost mage of the realm.",
+          "text_ja": "彼女は王国随一の魔術師だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d23f5ded-c899-5af1-906d-21718ab41fd9",
+      "term": "fostered",
+      "display_term": "fostered",
+      "pos": "verb (past)",
+      "meaning_en": "encouraged; promoted; nurtured",
+      "meaning_ja": "育てた／助長した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He fostered resentment in secret.",
+          "text_ja": "彼は密かに憎悪を助長した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f5a8701b-02b7-5a76-9fc3-998d2c5fc413",
+      "term": "gargantuans",
+      "display_term": "gargantuans",
+      "pos": "noun (plural)/adjective",
+      "meaning_en": "gigantic beings; enormous",
+      "meaning_ja": "巨大な存在／超巨大",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Ancient gargantuans once roamed here.",
+          "text_ja": "太古の巨人たちがかつてここを闊歩した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "07e66640-358d-5876-b44d-c9df6965d4d0",
+      "term": "governing body",
+      "display_term": "governing body",
+      "pos": "noun phrase",
+      "meaning_en": "an organization that governs",
+      "meaning_ja": "統治機関／統治組織",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The governing body imposed new laws.",
+          "text_ja": "統治機関が新たな法を課した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "baeb26a0-6123-5c75-81fe-0e8f1e1a8c00",
+      "term": "grotesque",
+      "display_term": "grotesque",
+      "pos": "adjective",
+      "meaning_en": "disturbingly ugly or strange",
+      "meaning_ja": "異様な／グロテスクな",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A grotesque transformation followed.",
+          "text_ja": "異様な変異が起きた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a8c88e8d-4dfe-56d9-8e77-b58d19882568",
+      "term": "hallowed sigils",
+      "display_term": "hallowed sigils",
+      "pos": "noun phrase",
+      "meaning_en": "holy symbols; sacred seals",
+      "meaning_ja": "聖なる紋章／印章",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Hallowed sigils glowed on the door.",
+          "text_ja": "聖なる紋章が扉で光った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a209fc78-0e4e-52a1-8096-b39eac72921d",
+      "term": "harsh",
+      "display_term": "harsh",
+      "pos": "adjective",
+      "meaning_en": "severe; unforgiving",
+      "meaning_ja": "過酷な／厳しい",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Harsh winds battered the camp.",
+          "text_ja": "過酷な風が野営地を叩いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "01d545a2-c1e7-5c9a-bd66-34318c968b8f",
+      "term": "harvest",
+      "display_term": "harvest",
+      "pos": "noun/verb",
+      "meaning_en": "gather crops; collect",
+      "meaning_ja": "収穫／刈り取る",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They harvest aether for fuel.",
+          "text_ja": "彼らは燃料として霊気を収穫する。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a8b5a56c-ab2f-51f2-a646-ce85e78d6dd4",
+      "term": "hellish",
+      "display_term": "hellish",
+      "pos": "adjective",
+      "meaning_en": "like hell; extremely unpleasant",
+      "meaning_ja": "地獄のような",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A hellish landscape burned red.",
+          "text_ja": "地獄のような大地が赤く燃えた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "473bea26-9506-5529-9f2c-acd6ec64c681",
+      "term": "holdfast",
+      "display_term": "holdfast",
+      "pos": "noun",
+      "meaning_en": "stronghold; last refuge",
+      "meaning_ja": "要塞／拠点",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The last holdfast stood firm.",
+          "text_ja": "最後の要塞が踏みとどまった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "46a0fa10-978a-52be-bba1-0f13e565748b",
+      "term": "honorable",
+      "display_term": "honorable",
+      "pos": "adjective",
+      "meaning_en": "worthy of honor; noble",
+      "meaning_ja": "名誉ある／高潔な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An honorable warrior kept his oath.",
+          "text_ja": "名誉ある戦士は誓いを守った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a650266e-ec13-5f28-b49c-9d714e922b3a",
+      "term": "horde",
+      "display_term": "horde",
+      "pos": "noun",
+      "meaning_en": "a large crowd; swarm",
+      "meaning_ja": "大群",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A horde of undead advanced.",
+          "text_ja": "アンデッドの大群が進軍した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "fd57a7a9-0bf1-5fb2-83db-3504bb9e6de2",
+      "term": "hordes",
+      "display_term": "hordes",
+      "pos": "noun (plural)",
+      "meaning_en": "large swarms; masses",
+      "meaning_ja": "大群",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Hordes of undead surged forward.",
+          "text_ja": "アンデッドの大群が押し寄せた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e66b3100-2b92-5fc7-9cea-8bfe27c2fbab",
+      "term": "horseback",
+      "display_term": "horseback",
+      "pos": "adverb/noun",
+      "meaning_en": "on a horse; riding",
+      "meaning_ja": "馬上で／馬に乗って",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Warriors arrived on horseback.",
+          "text_ja": "戦士たちが馬に乗って到着した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "4c8d9d6f-1192-5fc0-87c7-7e2985d09f0f",
+      "term": "humid",
+      "display_term": "humid",
+      "pos": "adjective",
+      "meaning_en": "moist; damp; muggy",
+      "meaning_ja": "湿気の多い",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A humid jungle closed around them.",
+          "text_ja": "蒸し暑い密林が彼らを包んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "fb662be8-e7b9-53a6-8ae8-fd8f9561c071",
+      "term": "idealistic",
+      "display_term": "idealistic",
+      "pos": "adjective",
+      "meaning_en": "guided by ideals rather than practical concerns",
+      "meaning_ja": "理想主義的な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An idealistic hero refused the bargain.",
+          "text_ja": "理想主義の英雄は取引を拒んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "44c1725b-574c-5ce1-8468-b8693d790f6c",
+      "term": "imbalance",
+      "display_term": "imbalance",
+      "pos": "noun",
+      "meaning_en": "lack of balance; unevenness",
+      "meaning_ja": "不均衡",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A magical imbalance warped the air.",
+          "text_ja": "魔力の不均衡が空気を歪めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "47f73c65-fe96-50b5-b69e-586d649488f4",
+      "term": "infighting",
+      "display_term": "infighting",
+      "pos": "noun",
+      "meaning_en": "conflict within a group",
+      "meaning_ja": "内紛／仲間割れ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Infighting weakened the clans.",
+          "text_ja": "内紛が氏族を弱体化させた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "269adf16-3ea2-5849-94ee-5c85a1e40450",
+      "term": "innocent",
+      "display_term": "innocent",
+      "pos": "adj./noun",
+      "meaning_en": "not guilty; harmless",
+      "meaning_ja": "無実の／罪のない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Innocent villagers fled the flames.",
+          "text_ja": "罪なき村人が炎から逃げた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "36512814-7a33-583e-96aa-1e8c850206ac",
+      "term": "intellect",
+      "display_term": "intellect",
+      "pos": "noun",
+      "meaning_en": "the ability to think and understand",
+      "meaning_ja": "知性",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A being of vast intellect watched.",
+          "text_ja": "計り知れない知性の存在が見ていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "10a1cfd8-ca1c-56e0-bd52-f3a8ad43eafb",
+      "term": "intermingle with",
+      "display_term": "intermingle with",
+      "pos": "phrasal verb",
+      "meaning_en": "mix together with",
+      "meaning_ja": "〜と混ざり合う",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Magic intermingle with reality here.",
+          "text_ja": "ここでは魔法が現実と入り交じる。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "705863c1-d4d9-5229-a256-d5ade1e2f9eb",
+      "term": "introspection",
+      "display_term": "introspection",
+      "pos": "noun",
+      "meaning_en": "self-examination",
+      "meaning_ja": "内省／自己省察",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He sought introspection after the war.",
+          "text_ja": "戦後、彼は内省を求めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ae43a14e-661b-56c7-b647-bf549b45d7d3",
+      "term": "inventions",
+      "display_term": "inventions",
+      "pos": "noun (plural)",
+      "meaning_en": "things invented",
+      "meaning_ja": "発明品／創作物",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Inventions of etherium filled the halls.",
+          "text_ja": "エーテリウムの発明品が広間に満ちた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "bd97230d-83c1-5475-9460-71a2bf878c48",
+      "term": "leaderless",
+      "display_term": "leaderless",
+      "pos": "adjective",
+      "meaning_en": "without a leader",
+      "meaning_ja": "指導者のいない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A leaderless horde scattered.",
+          "text_ja": "指導者不在の大群が散った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "5da00024-28b7-5478-94df-515a48faa1cf",
+      "term": "lightning-fast raids",
+      "display_term": "lightning-fast raids",
+      "pos": "noun phrase",
+      "meaning_en": "very quick surprise attacks",
+      "meaning_ja": "電光石火の襲撃",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They launched lightning-fast raids at night.",
+          "text_ja": "彼らは夜に電光石火の奇襲を仕掛けた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d14d8313-4ba3-5cfa-aa14-5fd95d896f94",
+      "term": "long for",
+      "display_term": "long for",
+      "pos": "phrasal verb",
+      "meaning_en": "yearn for",
+      "meaning_ja": "〜を切望する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They longed for peace.",
+          "text_ja": "彼らは平和を切望した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "3c32d93c-d4dd-5326-9956-67eaddca00a6",
+      "term": "longing",
+      "display_term": "longing",
+      "pos": "noun/adj.",
+      "meaning_en": "a strong desire; yearning",
+      "meaning_ja": "切望／強い憧れ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Longing for home, she pressed on.",
+          "text_ja": "故郷を恋い慕い、彼女は進んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "04fe7b8d-f254-5462-856c-dd01e4b46ab0",
+      "term": "look out over",
+      "display_term": "look out over",
+      "pos": "phrasal verb",
+      "meaning_en": "look across; gaze over",
+      "meaning_ja": "〜を見渡す",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "She looked out over the battlefield.",
+          "text_ja": "彼女は戦場を見渡した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "3e465891-5dac-56ff-9245-a633653b57c9",
+      "term": "lore",
+      "display_term": "lore",
+      "pos": "noun",
+      "meaning_en": "traditional knowledge; legends",
+      "meaning_ja": "伝承／秘伝の知識",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Ancient lore spoke of the gate.",
+          "text_ja": "古い伝承がその門を語った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "753d95cb-cb98-548a-b678-2cb48202d044",
+      "term": "lowly",
+      "display_term": "lowly",
+      "pos": "adjective",
+      "meaning_en": "humble; of low rank",
+      "meaning_ja": "身分の低い／取るに足らない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A lowly servant carried the message.",
+          "text_ja": "身分の低い従者が伝言を運んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "024d20cc-c402-58ec-ba29-6e2db19a33aa",
+      "term": "lurking",
+      "display_term": "lurking",
+      "pos": "adj./present participle",
+      "meaning_en": "hiding and waiting to strike",
+      "meaning_ja": "潜んでいる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A lurking threat followed them through the ruins.",
+          "text_ja": "潜む脅威が廃墟で彼らを追った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "35770d15-582e-537f-b819-8b678bbeef86",
+      "term": "malcontents",
+      "display_term": "malcontents",
+      "pos": "noun (plural)",
+      "meaning_en": "discontented people",
+      "meaning_ja": "不満分子",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Malcontents plotted in secret.",
+          "text_ja": "不満分子が密かに策謀した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "27fc31f5-f5f4-5178-946d-8ef0371a3287",
+      "term": "malevolent",
+      "display_term": "malevolent",
+      "pos": "adjective",
+      "meaning_en": "showing ill will; evil",
+      "meaning_ja": "悪意のある／邪悪な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A malevolent entity whispered.",
+          "text_ja": "邪悪な存在が囁いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "94b4336c-ea63-506e-aee8-49456e285286",
+      "term": "marauding",
+      "display_term": "marauding",
+      "pos": "present participle/adjective",
+      "meaning_en": "roaming to raid and plunder",
+      "meaning_ja": "略奪する／暴れ回る",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Marauding hordes swept the plains.",
+          "text_ja": "略奪する大群が平原を席巻した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "525e6f53-bcfb-532e-be68-eb656279245a",
+      "term": "mere",
+      "display_term": "mere",
+      "pos": "adjective",
+      "meaning_en": "only; nothing more than",
+      "meaning_ja": "単なる／ほんの",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A mere mortal cannot withstand it.",
+          "text_ja": "単なる人間には耐えられない。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "edd38068-80e0-5612-a64c-c37f63010427",
+      "term": "merely",
+      "display_term": "merely",
+      "pos": "adverb",
+      "meaning_en": "only; just",
+      "meaning_ja": "単に／ただ〜にすぎない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He was merely a pawn.",
+          "text_ja": "彼は単なる駒にすぎなかった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "37f142d3-556c-5765-998b-cccc3e7e7bc6",
+      "term": "minion",
+      "display_term": "minion",
+      "pos": "noun",
+      "meaning_en": "a servant or follower of a powerful master",
+      "meaning_ja": "手下／従者",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The demon’s minions swarmed.",
+          "text_ja": "悪魔の手下が群がった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0a0ebb68-7740-56cd-bc98-fad180cb6a7b",
+      "term": "mistrust",
+      "display_term": "mistrust",
+      "pos": "noun/verb",
+      "meaning_en": "lack of trust; suspicion",
+      "meaning_ja": "不信／疑念",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Mistrust spread among allies.",
+          "text_ja": "不信が味方の間に広がった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "12c01a4b-cee2-5c3a-82d5-62fb759ce255",
+      "term": "murderous",
+      "display_term": "murderous",
+      "pos": "adjective",
+      "meaning_en": "intending to kill; deadly",
+      "meaning_ja": "殺意に満ちた／殺人的な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Murderous intent flashed in his eyes.",
+          "text_ja": "殺意が彼の目に宿った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d098552a-8298-5018-925e-ea49f293e149",
+      "term": "narcissism",
+      "display_term": "narcissism",
+      "pos": "noun",
+      "meaning_en": "excessive self-love",
+      "meaning_ja": "自己愛",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Narcissism blinded him to danger.",
+          "text_ja": "自己愛が彼の目を曇らせた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "b24b7e2b-4ed9-5370-b25d-4245846c3cfa",
+      "term": "noble",
+      "display_term": "noble",
+      "pos": "adj./noun",
+      "meaning_en": "aristocratic; honorable person",
+      "meaning_ja": "高貴な／貴族",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A noble lineage traced back to legends.",
+          "text_ja": "高貴な血統が伝説へ遡った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "743f0053-2dcb-574b-9523-6117eef7db54",
+      "term": "obsessed with",
+      "display_term": "obsessed with",
+      "pos": "adjective phrase",
+      "meaning_en": "preoccupied with",
+      "meaning_ja": "〜に取り憑かれた／執着している",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Obsessed with power, he betrayed them.",
+          "text_ja": "力に執着し、彼は裏切った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "df9c8d1c-fff5-54e4-b505-4c3bd8339d9b",
+      "term": "onslaught",
+      "display_term": "onslaught",
+      "pos": "noun",
+      "meaning_en": "a fierce attack",
+      "meaning_ja": "猛攻／総攻撃",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They withstood the onslaught.",
+          "text_ja": "彼らは猛攻を耐えしのいだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "b5ba95ef-0de2-5a1b-a2e5-d2003f900f36",
+      "term": "ostracized",
+      "display_term": "ostracized",
+      "pos": "past participle/adjective",
+      "meaning_en": "excluded; cast out",
+      "meaning_ja": "追放された／仲間外れにされた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Ostracized from the clan, he wandered.",
+          "text_ja": "氏族から追放され、彼は放浪した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0cd9b211-c807-57b3-9295-50b304df569a",
+      "term": "pawn",
+      "display_term": "pawn",
+      "pos": "noun",
+      "meaning_en": "a tool used by others; chess pawn",
+      "meaning_ja": "手先／駒",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He was a pawn in a greater scheme.",
+          "text_ja": "彼は大きな計画の駒だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "88c4fd1d-cec9-536c-b739-8da31e8416db",
+      "term": "pilgrimage",
+      "display_term": "pilgrimage",
+      "pos": "noun",
+      "meaning_en": "a sacred journey",
+      "meaning_ja": "巡礼／聖なる旅",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They began a pilgrimage to the holy site.",
+          "text_ja": "彼らは聖地への巡礼を始めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e4a701a5-1404-5428-b2e3-bf694e28e93e",
+      "term": "plane-ravaging",
+      "display_term": "plane-ravaging",
+      "pos": "compound adjective",
+      "meaning_en": "devastating an entire plane",
+      "meaning_ja": "次元を荒廃させる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A plane-ravaging invasion began.",
+          "text_ja": "次元を荒廃させる侵攻が始まった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1013d6d6-dbd9-506f-bdc0-e329f63508c7",
+      "term": "prestige",
+      "display_term": "prestige",
+      "pos": "noun",
+      "meaning_en": "status; reputation",
+      "meaning_ja": "名声／威信",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Prestige mattered to the clans.",
+          "text_ja": "威信が氏族には重要だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2b73ee73-a91e-5e15-a3c7-1af5819933f9",
+      "term": "prospect",
+      "display_term": "prospect",
+      "pos": "noun",
+      "meaning_en": "chance; possibility",
+      "meaning_ja": "見込み／可能性",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The prospect of victory faded.",
+          "text_ja": "勝利の見込みが薄れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "7837eef6-f661-58fb-8e58-f6db77dc3ad3",
+      "term": "purify",
+      "display_term": "purify",
+      "pos": "verb",
+      "meaning_en": "make pure; cleanse",
+      "meaning_ja": "浄化する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They purify the corrupted land.",
+          "text_ja": "彼らは汚染された土地を浄化する。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "caf5fca4-76d8-5894-9264-997f5313e8f4",
+      "term": "ragged hills",
+      "display_term": "ragged hills",
+      "pos": "noun phrase",
+      "meaning_en": "rough, jagged hills",
+      "meaning_ja": "ごつごつした丘陵",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Ragged hills rose beyond the road.",
+          "text_ja": "道の向こうに荒れた丘が連なった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "fc73cfd0-928a-5638-9d0a-fff58a7b084c",
+      "term": "rags of thought",
+      "display_term": "rags of thought",
+      "pos": "noun phrase",
+      "meaning_en": "tattered fragments of thinking",
+      "meaning_ja": "ぼろ切れのような思考／断片化した思考",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Only rags of thought remained.",
+          "text_ja": "思考の断片だけが残った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "e437c062-2db6-5b84-9296-93ccb41036a9",
+      "term": "ran afoul of",
+      "display_term": "ran afoul of",
+      "pos": "phrasal verb (past)",
+      "meaning_en": "came into conflict with; violated",
+      "meaning_ja": "〜に抵触した／〜と衝突した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They ran afoul of ancient laws.",
+          "text_ja": "彼らは古代の掟に触れてしまった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "86a961b2-ebb9-538b-be69-d177045044d5",
+      "term": "ravenous",
+      "display_term": "ravenous",
+      "pos": "adjective",
+      "meaning_en": "extremely hungry; greedy",
+      "meaning_ja": "貪欲な／飢えた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Ravenous undead hunted at night.",
+          "text_ja": "飢えたアンデッドが夜に狩りをした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "af453848-ac1f-5671-b0eb-19d25bfe60e1",
+      "term": "realm",
+      "display_term": "realm",
+      "pos": "noun",
+      "meaning_en": "kingdom; domain; plane",
+      "meaning_ja": "王国／領域／次元",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A fallen realm lay beyond the mist.",
+          "text_ja": "霧の向こうに滅びた領域があった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6310d8ad-1cfc-5b94-925e-148fcd3ddc05",
+      "term": "refine",
+      "display_term": "refine",
+      "pos": "verb",
+      "meaning_en": "purify; improve",
+      "meaning_ja": "精製する／洗練する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They refine raw aether into etherium.",
+          "text_ja": "彼らは霊気を精製してエーテリウムにした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "8ddd7d5b-4005-546e-a0b1-0c624a306370",
+      "term": "remote mountains",
+      "display_term": "remote mountains",
+      "pos": "noun phrase",
+      "meaning_en": "mountains far from towns; isolated highlands",
+      "meaning_ja": "人里離れた山々",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They crossed the remote mountains at dusk.",
+          "text_ja": "彼らは夕暮れに人里離れた山々を越えた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "34e7cd0d-1a29-590b-89ec-cd677590d214",
+      "term": "retribution",
+      "display_term": "retribution",
+      "pos": "noun",
+      "meaning_en": "punishment; payback",
+      "meaning_ja": "報復／天罰",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They sought retribution for the dead.",
+          "text_ja": "彼らは死者の報復を求めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "35b8ba52-2fe7-59f0-a219-441eefa0c46d",
+      "term": "revered",
+      "display_term": "revered",
+      "pos": "adj./past participle",
+      "meaning_en": "deeply respected",
+      "meaning_ja": "崇敬された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A revered elder spoke softly.",
+          "text_ja": "崇敬される長老が静かに語った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9f949dcc-8609-5eb5-9270-52282dae0735",
+      "term": "ritualized",
+      "display_term": "ritualized",
+      "pos": "adj./past participle",
+      "meaning_en": "made into a ritual; formalized",
+      "meaning_ja": "儀式化された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A ritualized sacrifice began at midnight.",
+          "text_ja": "儀式化された生贄が真夜中に始まった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "da5681f7-e959-58be-9c90-10e1edcf9201",
+      "term": "rivalry",
+      "display_term": "rivalry",
+      "pos": "noun",
+      "meaning_en": "competition or hostility between rivals",
+      "meaning_ja": "対立／ライバル関係",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Their rivalry lasted for centuries.",
+          "text_ja": "彼らの対立は数世紀続いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "0fa9b480-4e68-5ce8-96ae-ead5b4d02fb4",
+      "term": "rule supreme",
+      "display_term": "rule supreme",
+      "pos": "verb phrase",
+      "meaning_en": "to dominate completely",
+      "meaning_ja": "絶対的に支配する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Dark forces ruled supreme here.",
+          "text_ja": "ここでは闇の勢力が絶対的に支配していた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "f2d503d0-9ed7-5cfc-80d1-55012e4c752e",
+      "term": "rung",
+      "display_term": "rung",
+      "pos": "noun",
+      "meaning_en": "a level on a ladder; step",
+      "meaning_ja": "段／梯子の横木",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He stood on the lowest rung of society.",
+          "text_ja": "彼は社会の最下層にいた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "27fe22ac-2846-5ac1-9e4b-9e6ea8ed5f4f",
+      "term": "ruthlessly",
+      "display_term": "ruthlessly",
+      "pos": "adverb",
+      "meaning_en": "without mercy",
+      "meaning_ja": "容赦なく／冷酷に",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They were ruthlessly destroyed.",
+          "text_ja": "彼らは容赦なく破壊された。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ba071d6b-f16a-5492-8110-84e81659d657",
+      "term": "ruthlessness",
+      "display_term": "ruthlessness",
+      "pos": "noun",
+      "meaning_en": "cruelty; lack of pity",
+      "meaning_ja": "冷酷さ／無慈悲",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "His ruthlessness terrified them.",
+          "text_ja": "彼の冷酷さが彼らを震え上がらせた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9c860ce7-cc57-535d-b1f7-7efd366bc478",
+      "term": "savage",
+      "display_term": "savage",
+      "pos": "adj./noun/verb",
+      "meaning_en": "brutal; fierce",
+      "meaning_ja": "野蛮な／凶暴な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A savage assault broke the shieldwall.",
+          "text_ja": "凶暴な襲撃が防壁を破った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "eecbf0ad-01f6-5cec-b195-861a28708088",
+      "term": "scarce",
+      "display_term": "scarce",
+      "pos": "adjective",
+      "meaning_en": "rare; in short supply",
+      "meaning_ja": "乏しい／不足している",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Food was scarce after the siege.",
+          "text_ja": "包囲の後、食料は乏しかった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "7b640993-5694-55d9-825f-2a577009135f",
+      "term": "scoured",
+      "display_term": "scoured",
+      "pos": "verb (past)",
+      "meaning_en": "searched thoroughly; ravaged",
+      "meaning_ja": "徹底的に捜索した／荒らし尽くした",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The plains were scoured by war.",
+          "text_ja": "平原は戦で荒らし尽くされた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "66c01bb3-fc30-52bd-bf98-c2e333a46706",
+      "term": "scouring",
+      "display_term": "scouring",
+      "pos": "verb (present participle)",
+      "meaning_en": "searching thoroughly; ravaging",
+      "meaning_ja": "徹底的に探し回る／荒らし尽くす",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Scouring the land, they found the relic.",
+          "text_ja": "土地をくまなく探し、彼らは聖遺物を見つけた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "4c7bdd7b-925f-5257-b076-b598c4e01909",
+      "term": "seemingly",
+      "display_term": "seemingly",
+      "pos": "adverb",
+      "meaning_en": "apparently",
+      "meaning_ja": "一見すると",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Seemingly endless war raged on.",
+          "text_ja": "一見終わりのない戦争が続いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "df758e1b-acdf-533c-af9a-770c7f90e533",
+      "term": "servant",
+      "display_term": "servant",
+      "pos": "noun",
+      "meaning_en": "one who serves; attendant",
+      "meaning_ja": "召使い／従者",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A loyal servant opened the door.",
+          "text_ja": "忠実な従者が扉を開けた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "13711e16-db8b-54af-a9f1-7cbf92d5bced",
+      "term": "set out",
+      "display_term": "set out",
+      "pos": "phrasal verb",
+      "meaning_en": "depart; begin a journey",
+      "meaning_ja": "出発する／着手する",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They set out on a quest.",
+          "text_ja": "彼らは探索の旅に出た。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6cb9f1f2-b07f-5427-82ba-05e0b4920938",
+      "term": "shards",
+      "display_term": "shards",
+      "pos": "noun (plural)",
+      "meaning_en": "fragments; pieces",
+      "meaning_ja": "破片／欠片",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Shards of crystal littered the floor.",
+          "text_ja": "水晶の欠片が床に散らばっていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1a037912-6d01-57fd-a23a-5cb79ec25037",
+      "term": "shrewd",
+      "display_term": "shrewd",
+      "pos": "adjective",
+      "meaning_en": "clever; sharp in judgment",
+      "meaning_ja": "抜け目のない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A shrewd tactician anticipated the trap.",
+          "text_ja": "抜け目のない戦術家が罠を見抜いた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a911cd1e-c8f6-5c92-ac27-ed08a5d143cc",
+      "term": "simply",
+      "display_term": "simply",
+      "pos": "adverb",
+      "meaning_en": "just; only; plainly",
+      "meaning_ja": "単に／ただ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "It was simply impossible.",
+          "text_ja": "それは単に不可能だった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d404b602-05b7-52bc-bc6a-7a498564ab62",
+      "term": "sinister",
+      "display_term": "sinister",
+      "pos": "adjective",
+      "meaning_en": "suggesting evil or harm",
+      "meaning_ja": "不吉な／邪悪な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A sinister aura filled the chamber.",
+          "text_ja": "不吉な気配が部屋を満たした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1b3ef23f-9a98-52d9-a82f-0f0f1afb52e6",
+      "term": "slain",
+      "display_term": "slain",
+      "pos": "past participle/adjective",
+      "meaning_en": "killed (past participle of slay)",
+      "meaning_ja": "殺された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The slain king was mourned.",
+          "text_ja": "討たれた王は悼まれた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a6bf2f66-f4ec-55b0-878e-d417ed2d8d8f",
+      "term": "slaughter",
+      "display_term": "slaughter",
+      "pos": "noun/verb",
+      "meaning_en": "mass killing; to kill brutally",
+      "meaning_ja": "虐殺／皆殺し",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The slaughter left the village silent.",
+          "text_ja": "虐殺の後、村は静まり返った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1bffca1f-5376-5b39-b857-ec28165789f0",
+      "term": "slew",
+      "display_term": "slew",
+      "pos": "verb (past)",
+      "meaning_en": "killed (past of slay)",
+      "meaning_ja": "殺した（slayの過去形）",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "She slew the monster with one spell.",
+          "text_ja": "彼女は一つの呪文で怪物を討った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "600a9990-f3c3-532b-b77f-33677ac99c4e",
+      "term": "sought",
+      "display_term": "sought",
+      "pos": "verb (past/pp)",
+      "meaning_en": "looked for; tried to obtain",
+      "meaning_ja": "探し求めた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He sought forbidden knowledge.",
+          "text_ja": "彼は禁じられた知識を求めた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "c4e819bf-d5ac-5fe9-8709-208e5e21fe91",
+      "term": "sought out",
+      "display_term": "sought out",
+      "pos": "phrasal verb (past)",
+      "meaning_en": "searched for and found",
+      "meaning_ja": "探し出した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They sought out ancient lore.",
+          "text_ja": "彼らは古代の伝承を探し出した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "52621457-11c7-5859-8ebf-d714f2503576",
+      "term": "spawning",
+      "display_term": "spawning",
+      "pos": "present participle/noun",
+      "meaning_en": "producing; creating (often monsters)",
+      "meaning_ja": "生み出す／発生させる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The rift kept spawning horrors.",
+          "text_ja": "裂け目は恐怖を生み出し続けた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "18da5a9d-e43d-5345-892d-be52a69e51de",
+      "term": "stoked",
+      "display_term": "stoked",
+      "pos": "verb (past)",
+      "meaning_en": "fanned; intensified",
+      "meaning_ja": "煽られた／かき立てられた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Hatred stoked the flames of war.",
+          "text_ja": "憎しみが戦火を煽った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "de72f795-c0ce-566a-8b94-e9fc7ef1311d",
+      "term": "streak",
+      "display_term": "streak",
+      "pos": "noun",
+      "meaning_en": "a tendency; a trait",
+      "meaning_ja": "傾向／一面",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He had a ruthless streak.",
+          "text_ja": "彼には冷酷な一面があった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "486bc7c2-77a1-56d3-9be4-55f3292030c7",
+      "term": "stymied",
+      "display_term": "stymied",
+      "pos": "verb (past)",
+      "meaning_en": "blocked; prevented from progressing",
+      "meaning_ja": "妨害された／行き詰まった",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They were stymied by ancient wards.",
+          "text_ja": "彼らは古代の結界に阻まれた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "5556533e-25f8-5a75-a487-58634920e6c3",
+      "term": "sundered",
+      "display_term": "sundered",
+      "pos": "past participle/adjective",
+      "meaning_en": "torn apart; split",
+      "meaning_ja": "引き裂かれた／分断された",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A sundered realm drifted in silence.",
+          "text_ja": "分断された次元が静寂に漂った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "1a5e5e4c-e017-53ba-a5d3-c0a0893c2c62",
+      "term": "supreme",
+      "display_term": "supreme",
+      "pos": "adjective",
+      "meaning_en": "highest; ultimate",
+      "meaning_ja": "至高の／最高位の",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Supreme authority rested with the council.",
+          "text_ja": "至高の権威は評議会にあった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a10fdcf2-a8dc-5d6e-b9f5-c7e87d7e598f",
+      "term": "tempered",
+      "display_term": "tempered",
+      "pos": "adj./past participle",
+      "meaning_en": "softened; moderated",
+      "meaning_ja": "和らげられた／抑えられた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Anger was tempered by wisdom.",
+          "text_ja": "怒りは知恵で抑えられた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "a5e471f7-ae80-5b1f-a620-9b7abb7e2d1c",
+      "term": "tempest",
+      "display_term": "tempest",
+      "pos": "noun",
+      "meaning_en": "a violent storm",
+      "meaning_ja": "大嵐",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A magical tempest rose overnight.",
+          "text_ja": "魔力の嵐が一夜にして起きた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "459f5735-4b55-5dcf-997d-54c8eb1b242d",
+      "term": "tenacious",
+      "display_term": "tenacious",
+      "pos": "adjective",
+      "meaning_en": "persistent; not giving up",
+      "meaning_ja": "粘り強い／執念深い",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A tenacious defender held the line.",
+          "text_ja": "粘り強い守り手が戦線を保った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "8aab7016-3038-5383-916f-88aa2f55f368",
+      "term": "torn apart by constant fighting",
+      "display_term": "torn apart by constant fighting",
+      "pos": "adjective phrase",
+      "meaning_en": "destroyed/split by continual battles",
+      "meaning_ja": "絶え間ない戦闘によって引き裂かれた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A realm torn apart by constant fighting fell.",
+          "text_ja": "絶え間ない戦いで引き裂かれた次元が崩れた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "51f1b6ec-3569-5750-94a6-c984a231e37a",
+      "term": "tossed aside and useless",
+      "display_term": "tossed aside and useless",
+      "pos": "adjective phrase",
+      "meaning_en": "discarded and of no use",
+      "meaning_ja": "捨てられて役に立たない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Tossed aside and useless, it lay in dust.",
+          "text_ja": "捨てられ無用となり、それは埃の中にあった。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "2f1eec8f-1787-5962-80f3-0f08412583cb",
+      "term": "tranquil",
+      "display_term": "tranquil",
+      "pos": "adjective",
+      "meaning_en": "calm; peaceful",
+      "meaning_ja": "静かな／穏やかな",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A tranquil grove hid the shrine.",
+          "text_ja": "穏やかな林が聖堂を隠していた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6a3e248c-0773-53e4-9455-932969b7fd63",
+      "term": "trash-shifting",
+      "display_term": "trash-shifting",
+      "pos": "compound adjective",
+      "meaning_en": "moving/sifting through trash",
+      "meaning_ja": "廃棄物をかき分けるような",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Trash-shifting scavengers prowled.",
+          "text_ja": "屑を漁るスカベンジャーがうろついた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9f9cd5cb-39be-5503-b08e-a0590768a2df",
+      "term": "tremendous",
+      "display_term": "tremendous",
+      "pos": "adjective",
+      "meaning_en": "very large; enormous",
+      "meaning_ja": "とても大きい／ものすごい",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A tremendous force shook the valley.",
+          "text_ja": "ものすごい力が谷を揺らした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9b8154ed-5cb6-5af0-820a-02fbbe57ece7",
+      "term": "tribe",
+      "display_term": "tribe",
+      "pos": "noun",
+      "meaning_en": "a group of people/creatures with shared identity",
+      "meaning_ja": "部族／種族",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An ancient tribe guarded the shrine.",
+          "text_ja": "古代の部族が聖堂を守っていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "edefc7b9-011d-5ada-b523-55955b1a7446",
+      "term": "trinket",
+      "display_term": "trinket",
+      "pos": "noun",
+      "meaning_en": "a small ornament or item",
+      "meaning_ja": "小物／装身具",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A strange trinket hummed softly.",
+          "text_ja": "奇妙な小物がかすかに唸った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "cf9d26eb-7dcd-5c97-8a3e-46c0cebb9bd7",
+      "term": "undead",
+      "display_term": "undead",
+      "pos": "adj./noun",
+      "meaning_en": "dead but animated; not truly alive",
+      "meaning_ja": "アンデッドの／不死の存在",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An undead army marched in silence.",
+          "text_ja": "アンデッドの軍勢が静かに進軍した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d03ff696-de0a-5bee-9348-d0b0b1367e89",
+      "term": "unfettered",
+      "display_term": "unfettered",
+      "pos": "adjective",
+      "meaning_en": "unrestrained; free",
+      "meaning_ja": "束縛されない",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Unfettered power is dangerous.",
+          "text_ja": "束縛なき力は危険だ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "08e8db2f-e3e3-50e2-b378-8e383883a354",
+      "term": "unleash",
+      "display_term": "unleash",
+      "pos": "verb",
+      "meaning_en": "release; let loose",
+      "meaning_ja": "解き放つ",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They unleashed devastating magic.",
+          "text_ja": "彼らは破壊的な魔法を解き放った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "d9291e8b-89e5-50d0-a30e-3d3fffe4e1eb",
+      "term": "unleashed",
+      "display_term": "unleashed",
+      "pos": "past participle/adjective",
+      "meaning_en": "released; let loose",
+      "meaning_ja": "解き放たれた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Unleashed fury shook the hall.",
+          "text_ja": "解き放たれた怒りが広間を揺らした。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "6eda17ee-1c34-5de1-ae91-6fe09b7ceea7",
+      "term": "unraveling",
+      "display_term": "unraveling",
+      "pos": "present participle/noun",
+      "meaning_en": "coming apart; collapsing; being undone",
+      "meaning_ja": "崩壊していく／解きほぐされる",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The unraveling of reality had begun.",
+          "text_ja": "現実の崩壊が始まっていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "9cff9efa-6191-5425-aca1-914b7be044e2",
+      "term": "unwilling",
+      "display_term": "unwilling",
+      "pos": "adjective",
+      "meaning_en": "not wanting to do something",
+      "meaning_ja": "気が進まない／嫌々の",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "An unwilling sacrifice was chosen.",
+          "text_ja": "望まぬ生贄が選ばれた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "311ac6c6-4622-5c37-8580-439e458b367b",
+      "term": "unwittingly",
+      "display_term": "unwittingly",
+      "pos": "adverb",
+      "meaning_en": "without realizing; unknowingly",
+      "meaning_ja": "知らず知らずのうちに",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "He unwittingly aided the enemy.",
+          "text_ja": "彼は知らぬ間に敵を助けた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "93522456-719d-5f50-9a28-dfde8545d2e1",
+      "term": "valor",
+      "display_term": "valor",
+      "pos": "noun",
+      "meaning_en": "bravery; courage",
+      "meaning_ja": "勇気／武勇",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Her valor saved the village.",
+          "text_ja": "彼女の武勇が村を救った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "c20f1d98-a6e5-5c40-afcc-ab96d6c0a11d",
+      "term": "Viashino",
+      "display_term": "Viashino",
+      "pos": "proper noun",
+      "meaning_en": "a reptilian humanoid race in MTG",
+      "meaning_ja": "ヴィーアシーノ（爬虫類型の人型種族）",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A Viashino warrior raised his spear.",
+          "text_ja": "ヴィーアシーノの戦士が槍を掲げた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "ec0b24bb-e18d-5c84-987a-eb2029e0af5e",
+      "term": "virtuous",
+      "display_term": "virtuous",
+      "pos": "adjective",
+      "meaning_en": "morally good; righteous",
+      "meaning_ja": "徳の高い／高潔な",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A virtuous knight refused cruelty.",
+          "text_ja": "高潔な騎士は残虐を拒んだ。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "cac44e02-8169-556f-824a-61f9f99cb390",
+      "term": "war-torn",
+      "display_term": "war-torn",
+      "pos": "adjective",
+      "meaning_en": "devastated by war",
+      "meaning_ja": "戦争で荒廃した",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A war-torn realm struggled to heal.",
+          "text_ja": "戦乱の次元が癒えようとしていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "51c351fa-e74a-5267-8e18-4ef5be777f94",
+      "term": "white-furred",
+      "display_term": "white-furred",
+      "pos": "compound adjective",
+      "meaning_en": "covered in white fur",
+      "meaning_ja": "白い毛皮の",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "A white-furred beast watched from afar.",
+          "text_ja": "白い毛皮の獣が遠くから見ていた。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "01beab33-cf7a-582a-9628-8ab2d5146b94",
+      "term": "windswept",
+      "display_term": "windswept",
+      "pos": "adjective",
+      "meaning_en": "swept by strong winds",
+      "meaning_ja": "風にさらされた",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "They camped on a windswept ridge.",
+          "text_ja": "彼らは風にさらされた尾根で野営した。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    },
+    {
+      "entry_id": "03c15c62-2e9d-5c7c-8a32-5f6282c469df",
+      "term": "writhed",
+      "display_term": "writhed",
+      "pos": "verb (past)",
+      "meaning_en": "twisted in pain",
+      "meaning_ja": "のたうち回った",
+      "lore_note": "MTG story prose vocabulary.",
+      "canonical_translation": "",
+      "tags": [
+        "mtg",
+        "story",
+        "vocab"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "The creature writhed in pain.",
+          "text_ja": "その獣は苦痛にのたうち回った。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-15T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,3920 @@
+{
+  "schema_version": "1.0",
+  "deck": {
+    "deck_id": "chinese_daily_hsk3_4",
+    "name": "Chinese Daily HSK 3-4",
+    "version": 1
+  },
+  "entries": [
+    {
+      "entry_id": "zhd-0001",
+      "term": "你好",
+      "display_term": "你好",
+      "pronunciation_ipa": "nǐ hǎo",
+      "pos": "greeting",
+      "meaning_en": "hello",
+      "meaning_ja": "こんにちは",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '你好' (nǐ hǎo) in a short dialogue.",
+          "text_ja": "'你好'（nǐ hǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0002",
+      "term": "谢谢",
+      "display_term": "谢谢",
+      "pronunciation_ipa": "xiè xie",
+      "pos": "expression",
+      "meaning_en": "thank you",
+      "meaning_ja": "ありがとう",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '谢谢' (xiè xie) in a short dialogue.",
+          "text_ja": "'谢谢'（xiè xie）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0003",
+      "term": "不客气",
+      "display_term": "不客气",
+      "pronunciation_ipa": "bú kè qi",
+      "pos": "expression",
+      "meaning_en": "you are welcome",
+      "meaning_ja": "どういたしまして",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '不客气' (bú kè qi) in a short dialogue.",
+          "text_ja": "'不客气'（bú kè qi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0004",
+      "term": "对不起",
+      "display_term": "对不起",
+      "pronunciation_ipa": "duì bu qǐ",
+      "pos": "expression",
+      "meaning_en": "sorry",
+      "meaning_ja": "すみません",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '对不起' (duì bu qǐ) in a short dialogue.",
+          "text_ja": "'对不起'（duì bu qǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0005",
+      "term": "没关系",
+      "display_term": "没关系",
+      "pronunciation_ipa": "méi guān xi",
+      "pos": "expression",
+      "meaning_en": "it is okay",
+      "meaning_ja": "大丈夫です",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '没关系' (méi guān xi) in a short dialogue.",
+          "text_ja": "'没关系'（méi guān xi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0006",
+      "term": "请",
+      "display_term": "请",
+      "pronunciation_ipa": "qǐng",
+      "pos": "verb",
+      "meaning_en": "please; to invite",
+      "meaning_ja": "どうぞ／招く",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '请' (qǐng) in a short dialogue.",
+          "text_ja": "'请'（qǐng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0007",
+      "term": "再见",
+      "display_term": "再见",
+      "pronunciation_ipa": "zài jiàn",
+      "pos": "expression",
+      "meaning_en": "goodbye",
+      "meaning_ja": "さようなら",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '再见' (zài jiàn) in a short dialogue.",
+          "text_ja": "'再见'（zài jiàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0008",
+      "term": "早上好",
+      "display_term": "早上好",
+      "pronunciation_ipa": "zǎo shang hǎo",
+      "pos": "expression",
+      "meaning_en": "good morning",
+      "meaning_ja": "おはよう",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '早上好' (zǎo shang hǎo) in a short dialogue.",
+          "text_ja": "'早上好'（zǎo shang hǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0009",
+      "term": "晚上好",
+      "display_term": "晚上好",
+      "pronunciation_ipa": "wǎn shang hǎo",
+      "pos": "expression",
+      "meaning_en": "good evening",
+      "meaning_ja": "こんばんは",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '晚上好' (wǎn shang hǎo) in a short dialogue.",
+          "text_ja": "'晚上好'（wǎn shang hǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0010",
+      "term": "你",
+      "display_term": "你",
+      "pronunciation_ipa": "nǐ",
+      "pos": "pronoun",
+      "meaning_en": "you",
+      "meaning_ja": "あなた",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '你' (nǐ) in a short dialogue.",
+          "text_ja": "'你'（nǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0011",
+      "term": "我",
+      "display_term": "我",
+      "pronunciation_ipa": "wǒ",
+      "pos": "pronoun",
+      "meaning_en": "I; me",
+      "meaning_ja": "私",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '我' (wǒ) in a short dialogue.",
+          "text_ja": "'我'（wǒ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0012",
+      "term": "他",
+      "display_term": "他",
+      "pronunciation_ipa": "tā",
+      "pos": "pronoun",
+      "meaning_en": "he; him",
+      "meaning_ja": "彼",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '他' (tā) in a short dialogue.",
+          "text_ja": "'他'（tā）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0013",
+      "term": "她",
+      "display_term": "她",
+      "pronunciation_ipa": "tā",
+      "pos": "pronoun",
+      "meaning_en": "she; her",
+      "meaning_ja": "彼女",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '她' (tā) in a short dialogue.",
+          "text_ja": "'她'（tā）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0014",
+      "term": "我们",
+      "display_term": "我们",
+      "pronunciation_ipa": "wǒ men",
+      "pos": "pronoun",
+      "meaning_en": "we; us",
+      "meaning_ja": "私たち",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '我们' (wǒ men) in a short dialogue.",
+          "text_ja": "'我们'（wǒ men）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0015",
+      "term": "他们",
+      "display_term": "他们",
+      "pronunciation_ipa": "tā men",
+      "pos": "pronoun",
+      "meaning_en": "they; them",
+      "meaning_ja": "彼ら",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '他们' (tā men) in a short dialogue.",
+          "text_ja": "'他们'（tā men）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0016",
+      "term": "这",
+      "display_term": "这",
+      "pronunciation_ipa": "zhè",
+      "pos": "pronoun",
+      "meaning_en": "this",
+      "meaning_ja": "これ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '这' (zhè) in a short dialogue.",
+          "text_ja": "'这'（zhè）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0017",
+      "term": "那",
+      "display_term": "那",
+      "pronunciation_ipa": "nà",
+      "pos": "pronoun",
+      "meaning_en": "that",
+      "meaning_ja": "あれ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '那' (nà) in a short dialogue.",
+          "text_ja": "'那'（nà）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0018",
+      "term": "哪",
+      "display_term": "哪",
+      "pronunciation_ipa": "nǎ",
+      "pos": "pronoun",
+      "meaning_en": "which; where",
+      "meaning_ja": "どの／どこ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '哪' (nǎ) in a short dialogue.",
+          "text_ja": "'哪'（nǎ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0019",
+      "term": "什么",
+      "display_term": "什么",
+      "pronunciation_ipa": "shén me",
+      "pos": "pronoun",
+      "meaning_en": "what",
+      "meaning_ja": "何",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '什么' (shén me) in a short dialogue.",
+          "text_ja": "'什么'（shén me）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0020",
+      "term": "谁",
+      "display_term": "谁",
+      "pronunciation_ipa": "shéi",
+      "pos": "pronoun",
+      "meaning_en": "who",
+      "meaning_ja": "誰",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '谁' (shéi) in a short dialogue.",
+          "text_ja": "'谁'（shéi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0021",
+      "term": "哪里",
+      "display_term": "哪里",
+      "pronunciation_ipa": "nǎ lǐ",
+      "pos": "pronoun",
+      "meaning_en": "where",
+      "meaning_ja": "どこ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '哪里' (nǎ lǐ) in a short dialogue.",
+          "text_ja": "'哪里'（nǎ lǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0022",
+      "term": "为什么",
+      "display_term": "为什么",
+      "pronunciation_ipa": "wèi shén me",
+      "pos": "phrase",
+      "meaning_en": "why",
+      "meaning_ja": "なぜ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '为什么' (wèi shén me) in a short dialogue.",
+          "text_ja": "'为什么'（wèi shén me）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0023",
+      "term": "怎么",
+      "display_term": "怎么",
+      "pronunciation_ipa": "zěn me",
+      "pos": "phrase",
+      "meaning_en": "how",
+      "meaning_ja": "どうやって",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '怎么' (zěn me) in a short dialogue.",
+          "text_ja": "'怎么'（zěn me）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0024",
+      "term": "多少",
+      "display_term": "多少",
+      "pronunciation_ipa": "duō shao",
+      "pos": "phrase",
+      "meaning_en": "how many; how much",
+      "meaning_ja": "いくつ／いくら",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '多少' (duō shao) in a short dialogue.",
+          "text_ja": "'多少'（duō shao）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0025",
+      "term": "现在",
+      "display_term": "现在",
+      "pronunciation_ipa": "xiàn zài",
+      "pos": "noun",
+      "meaning_en": "now",
+      "meaning_ja": "今",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '现在' (xiàn zài) in a short dialogue.",
+          "text_ja": "'现在'（xiàn zài）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0026",
+      "term": "今天",
+      "display_term": "今天",
+      "pronunciation_ipa": "jīn tiān",
+      "pos": "noun",
+      "meaning_en": "today",
+      "meaning_ja": "今日",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '今天' (jīn tiān) in a short dialogue.",
+          "text_ja": "'今天'（jīn tiān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0027",
+      "term": "明天",
+      "display_term": "明天",
+      "pronunciation_ipa": "míng tiān",
+      "pos": "noun",
+      "meaning_en": "tomorrow",
+      "meaning_ja": "明日",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '明天' (míng tiān) in a short dialogue.",
+          "text_ja": "'明天'（míng tiān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0028",
+      "term": "昨天",
+      "display_term": "昨天",
+      "pronunciation_ipa": "zuó tiān",
+      "pos": "noun",
+      "meaning_en": "yesterday",
+      "meaning_ja": "昨日",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '昨天' (zuó tiān) in a short dialogue.",
+          "text_ja": "'昨天'（zuó tiān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0029",
+      "term": "上午",
+      "display_term": "上午",
+      "pronunciation_ipa": "shàng wǔ",
+      "pos": "noun",
+      "meaning_en": "morning",
+      "meaning_ja": "午前",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '上午' (shàng wǔ) in a short dialogue.",
+          "text_ja": "'上午'（shàng wǔ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0030",
+      "term": "下午",
+      "display_term": "下午",
+      "pronunciation_ipa": "xià wǔ",
+      "pos": "noun",
+      "meaning_en": "afternoon",
+      "meaning_ja": "午後",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '下午' (xià wǔ) in a short dialogue.",
+          "text_ja": "'下午'（xià wǔ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0031",
+      "term": "晚上",
+      "display_term": "晚上",
+      "pronunciation_ipa": "wǎn shang",
+      "pos": "noun",
+      "meaning_en": "evening; night",
+      "meaning_ja": "夜",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '晚上' (wǎn shang) in a short dialogue.",
+          "text_ja": "'晚上'（wǎn shang）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0032",
+      "term": "点",
+      "display_term": "点",
+      "pronunciation_ipa": "diǎn",
+      "pos": "measure word",
+      "meaning_en": "o’clock",
+      "meaning_ja": "〜時",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '点' (diǎn) in a short dialogue.",
+          "text_ja": "'点'（diǎn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0033",
+      "term": "分钟",
+      "display_term": "分钟",
+      "pronunciation_ipa": "fēn zhōng",
+      "pos": "noun",
+      "meaning_en": "minute",
+      "meaning_ja": "分",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '分钟' (fēn zhōng) in a short dialogue.",
+          "text_ja": "'分钟'（fēn zhōng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0034",
+      "term": "小时",
+      "display_term": "小时",
+      "pronunciation_ipa": "xiǎo shí",
+      "pos": "noun",
+      "meaning_en": "hour",
+      "meaning_ja": "時間",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '小时' (xiǎo shí) in a short dialogue.",
+          "text_ja": "'小时'（xiǎo shí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0035",
+      "term": "家",
+      "display_term": "家",
+      "pronunciation_ipa": "jiā",
+      "pos": "noun",
+      "meaning_en": "home; family",
+      "meaning_ja": "家",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '家' (jiā) in a short dialogue.",
+          "text_ja": "'家'（jiā）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0036",
+      "term": "学校",
+      "display_term": "学校",
+      "pronunciation_ipa": "xué xiào",
+      "pos": "noun",
+      "meaning_en": "school",
+      "meaning_ja": "学校",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '学校' (xué xiào) in a short dialogue.",
+          "text_ja": "'学校'（xué xiào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0037",
+      "term": "公司",
+      "display_term": "公司",
+      "pronunciation_ipa": "gōng sī",
+      "pos": "noun",
+      "meaning_en": "company",
+      "meaning_ja": "会社",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '公司' (gōng sī) in a short dialogue.",
+          "text_ja": "'公司'（gōng sī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0038",
+      "term": "朋友",
+      "display_term": "朋友",
+      "pronunciation_ipa": "péng you",
+      "pos": "noun",
+      "meaning_en": "friend",
+      "meaning_ja": "友達",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '朋友' (péng you) in a short dialogue.",
+          "text_ja": "'朋友'（péng you）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0039",
+      "term": "同学",
+      "display_term": "同学",
+      "pronunciation_ipa": "tóng xué",
+      "pos": "noun",
+      "meaning_en": "classmate",
+      "meaning_ja": "クラスメート",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '同学' (tóng xué) in a short dialogue.",
+          "text_ja": "'同学'（tóng xué）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0040",
+      "term": "老师",
+      "display_term": "老师",
+      "pronunciation_ipa": "lǎo shī",
+      "pos": "noun",
+      "meaning_en": "teacher",
+      "meaning_ja": "先生",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '老师' (lǎo shī) in a short dialogue.",
+          "text_ja": "'老师'（lǎo shī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0041",
+      "term": "学生",
+      "display_term": "学生",
+      "pronunciation_ipa": "xué sheng",
+      "pos": "noun",
+      "meaning_en": "student",
+      "meaning_ja": "学生",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '学生' (xué sheng) in a short dialogue.",
+          "text_ja": "'学生'（xué sheng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0042",
+      "term": "医生",
+      "display_term": "医生",
+      "pronunciation_ipa": "yī shēng",
+      "pos": "noun",
+      "meaning_en": "doctor",
+      "meaning_ja": "医者",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '医生' (yī shēng) in a short dialogue.",
+          "text_ja": "'医生'（yī shēng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0043",
+      "term": "护士",
+      "display_term": "护士",
+      "pronunciation_ipa": "hù shi",
+      "pos": "noun",
+      "meaning_en": "nurse",
+      "meaning_ja": "看護師",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '护士' (hù shi) in a short dialogue.",
+          "text_ja": "'护士'（hù shi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0044",
+      "term": "名字",
+      "display_term": "名字",
+      "pronunciation_ipa": "míng zi",
+      "pos": "noun",
+      "meaning_en": "name",
+      "meaning_ja": "名前",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '名字' (míng zi) in a short dialogue.",
+          "text_ja": "'名字'（míng zi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0045",
+      "term": "电话",
+      "display_term": "电话",
+      "pronunciation_ipa": "diàn huà",
+      "pos": "noun",
+      "meaning_en": "telephone",
+      "meaning_ja": "電話",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '电话' (diàn huà) in a short dialogue.",
+          "text_ja": "'电话'（diàn huà）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0046",
+      "term": "手机",
+      "display_term": "手机",
+      "pronunciation_ipa": "shǒu jī",
+      "pos": "noun",
+      "meaning_en": "mobile phone",
+      "meaning_ja": "携帯電話",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '手机' (shǒu jī) in a short dialogue.",
+          "text_ja": "'手机'（shǒu jī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0047",
+      "term": "地址",
+      "display_term": "地址",
+      "pronunciation_ipa": "dì zhǐ",
+      "pos": "noun",
+      "meaning_en": "address",
+      "meaning_ja": "住所",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '地址' (dì zhǐ) in a short dialogue.",
+          "text_ja": "'地址'（dì zhǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0048",
+      "term": "房间",
+      "display_term": "房间",
+      "pronunciation_ipa": "fáng jiān",
+      "pos": "noun",
+      "meaning_en": "room",
+      "meaning_ja": "部屋",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '房间' (fáng jiān) in a short dialogue.",
+          "text_ja": "'房间'（fáng jiān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0049",
+      "term": "门",
+      "display_term": "门",
+      "pronunciation_ipa": "mén",
+      "pos": "noun",
+      "meaning_en": "door",
+      "meaning_ja": "ドア",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '门' (mén) in a short dialogue.",
+          "text_ja": "'门'（mén）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0050",
+      "term": "桌子",
+      "display_term": "桌子",
+      "pronunciation_ipa": "zhuō zi",
+      "pos": "noun",
+      "meaning_en": "table",
+      "meaning_ja": "机",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '桌子' (zhuō zi) in a short dialogue.",
+          "text_ja": "'桌子'（zhuō zi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0051",
+      "term": "椅子",
+      "display_term": "椅子",
+      "pronunciation_ipa": "yǐ zi",
+      "pos": "noun",
+      "meaning_en": "chair",
+      "meaning_ja": "椅子",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '椅子' (yǐ zi) in a short dialogue.",
+          "text_ja": "'椅子'（yǐ zi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0052",
+      "term": "电脑",
+      "display_term": "电脑",
+      "pronunciation_ipa": "diàn nǎo",
+      "pos": "noun",
+      "meaning_en": "computer",
+      "meaning_ja": "パソコン",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '电脑' (diàn nǎo) in a short dialogue.",
+          "text_ja": "'电脑'（diàn nǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0053",
+      "term": "书",
+      "display_term": "书",
+      "pronunciation_ipa": "shū",
+      "pos": "noun",
+      "meaning_en": "book",
+      "meaning_ja": "本",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '书' (shū) in a short dialogue.",
+          "text_ja": "'书'（shū）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0054",
+      "term": "水",
+      "display_term": "水",
+      "pronunciation_ipa": "shuǐ",
+      "pos": "noun",
+      "meaning_en": "water",
+      "meaning_ja": "水",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '水' (shuǐ) in a short dialogue.",
+          "text_ja": "'水'（shuǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0055",
+      "term": "茶",
+      "display_term": "茶",
+      "pronunciation_ipa": "chá",
+      "pos": "noun",
+      "meaning_en": "tea",
+      "meaning_ja": "お茶",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '茶' (chá) in a short dialogue.",
+          "text_ja": "'茶'（chá）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0056",
+      "term": "咖啡",
+      "display_term": "咖啡",
+      "pronunciation_ipa": "kā fēi",
+      "pos": "noun",
+      "meaning_en": "coffee",
+      "meaning_ja": "コーヒー",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '咖啡' (kā fēi) in a short dialogue.",
+          "text_ja": "'咖啡'（kā fēi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0057",
+      "term": "米饭",
+      "display_term": "米饭",
+      "pronunciation_ipa": "mǐ fàn",
+      "pos": "noun",
+      "meaning_en": "cooked rice",
+      "meaning_ja": "ご飯",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '米饭' (mǐ fàn) in a short dialogue.",
+          "text_ja": "'米饭'（mǐ fàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0058",
+      "term": "面条",
+      "display_term": "面条",
+      "pronunciation_ipa": "miàn tiáo",
+      "pos": "noun",
+      "meaning_en": "noodles",
+      "meaning_ja": "麺",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '面条' (miàn tiáo) in a short dialogue.",
+          "text_ja": "'面条'（miàn tiáo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0059",
+      "term": "菜",
+      "display_term": "菜",
+      "pronunciation_ipa": "cài",
+      "pos": "noun",
+      "meaning_en": "dish; vegetable",
+      "meaning_ja": "料理／野菜",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '菜' (cài) in a short dialogue.",
+          "text_ja": "'菜'（cài）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0060",
+      "term": "水果",
+      "display_term": "水果",
+      "pronunciation_ipa": "shuǐ guǒ",
+      "pos": "noun",
+      "meaning_en": "fruit",
+      "meaning_ja": "果物",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '水果' (shuǐ guǒ) in a short dialogue.",
+          "text_ja": "'水果'（shuǐ guǒ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0061",
+      "term": "苹果",
+      "display_term": "苹果",
+      "pronunciation_ipa": "píng guǒ",
+      "pos": "noun",
+      "meaning_en": "apple",
+      "meaning_ja": "りんご",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '苹果' (píng guǒ) in a short dialogue.",
+          "text_ja": "'苹果'（píng guǒ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0062",
+      "term": "天气",
+      "display_term": "天气",
+      "pronunciation_ipa": "tiān qì",
+      "pos": "noun",
+      "meaning_en": "weather",
+      "meaning_ja": "天気",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '天气' (tiān qì) in a short dialogue.",
+          "text_ja": "'天气'（tiān qì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0063",
+      "term": "热",
+      "display_term": "热",
+      "pronunciation_ipa": "rè",
+      "pos": "adjective",
+      "meaning_en": "hot",
+      "meaning_ja": "暑い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '热' (rè) in a short dialogue.",
+          "text_ja": "'热'（rè）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0064",
+      "term": "冷",
+      "display_term": "冷",
+      "pronunciation_ipa": "lěng",
+      "pos": "adjective",
+      "meaning_en": "cold",
+      "meaning_ja": "寒い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '冷' (lěng) in a short dialogue.",
+          "text_ja": "'冷'（lěng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0065",
+      "term": "高兴",
+      "display_term": "高兴",
+      "pronunciation_ipa": "gāo xìng",
+      "pos": "adjective",
+      "meaning_en": "happy",
+      "meaning_ja": "嬉しい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '高兴' (gāo xìng) in a short dialogue.",
+          "text_ja": "'高兴'（gāo xìng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0066",
+      "term": "忙",
+      "display_term": "忙",
+      "pronunciation_ipa": "máng",
+      "pos": "adjective",
+      "meaning_en": "busy",
+      "meaning_ja": "忙しい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '忙' (máng) in a short dialogue.",
+          "text_ja": "'忙'（máng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0067",
+      "term": "累",
+      "display_term": "累",
+      "pronunciation_ipa": "lèi",
+      "pos": "adjective",
+      "meaning_en": "tired",
+      "meaning_ja": "疲れた",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '累' (lèi) in a short dialogue.",
+          "text_ja": "'累'（lèi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0068",
+      "term": "大",
+      "display_term": "大",
+      "pronunciation_ipa": "dà",
+      "pos": "adjective",
+      "meaning_en": "big",
+      "meaning_ja": "大きい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '大' (dà) in a short dialogue.",
+          "text_ja": "'大'（dà）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0069",
+      "term": "小",
+      "display_term": "小",
+      "pronunciation_ipa": "xiǎo",
+      "pos": "adjective",
+      "meaning_en": "small",
+      "meaning_ja": "小さい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '小' (xiǎo) in a short dialogue.",
+          "text_ja": "'小'（xiǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0070",
+      "term": "多",
+      "display_term": "多",
+      "pronunciation_ipa": "duō",
+      "pos": "adjective",
+      "meaning_en": "many; much",
+      "meaning_ja": "多い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk3"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '多' (duō) in a short dialogue.",
+          "text_ja": "'多'（duō）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0071",
+      "term": "少",
+      "display_term": "少",
+      "pronunciation_ipa": "shǎo",
+      "pos": "adjective",
+      "meaning_en": "few; little",
+      "meaning_ja": "少ない",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '少' (shǎo) in a short dialogue.",
+          "text_ja": "'少'（shǎo）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0072",
+      "term": "快",
+      "display_term": "快",
+      "pronunciation_ipa": "kuài",
+      "pos": "adjective",
+      "meaning_en": "fast; quick",
+      "meaning_ja": "速い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '快' (kuài) in a short dialogue.",
+          "text_ja": "'快'（kuài）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0073",
+      "term": "慢",
+      "display_term": "慢",
+      "pronunciation_ipa": "màn",
+      "pos": "adjective",
+      "meaning_en": "slow",
+      "meaning_ja": "遅い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '慢' (màn) in a short dialogue.",
+          "text_ja": "'慢'（màn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0074",
+      "term": "贵",
+      "display_term": "贵",
+      "pronunciation_ipa": "guì",
+      "pos": "adjective",
+      "meaning_en": "expensive",
+      "meaning_ja": "高い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '贵' (guì) in a short dialogue.",
+          "text_ja": "'贵'（guì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0075",
+      "term": "便宜",
+      "display_term": "便宜",
+      "pronunciation_ipa": "pián yi",
+      "pos": "adjective",
+      "meaning_en": "cheap",
+      "meaning_ja": "安い",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '便宜' (pián yi) in a short dialogue.",
+          "text_ja": "'便宜'（pián yi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0076",
+      "term": "漂亮",
+      "display_term": "漂亮",
+      "pronunciation_ipa": "piào liang",
+      "pos": "adjective",
+      "meaning_en": "beautiful",
+      "meaning_ja": "きれい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '漂亮' (piào liang) in a short dialogue.",
+          "text_ja": "'漂亮'（piào liang）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0077",
+      "term": "好吃",
+      "display_term": "好吃",
+      "pronunciation_ipa": "hǎo chī",
+      "pos": "adjective",
+      "meaning_en": "tasty",
+      "meaning_ja": "おいしい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '好吃' (hǎo chī) in a short dialogue.",
+          "text_ja": "'好吃'（hǎo chī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0078",
+      "term": "知道",
+      "display_term": "知道",
+      "pronunciation_ipa": "zhī dào",
+      "pos": "verb",
+      "meaning_en": "to know",
+      "meaning_ja": "知っている",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '知道' (zhī dào) in a short dialogue.",
+          "text_ja": "'知道'（zhī dào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0079",
+      "term": "认识",
+      "display_term": "认识",
+      "pronunciation_ipa": "rèn shi",
+      "pos": "verb",
+      "meaning_en": "to know; to recognize",
+      "meaning_ja": "知り合う／認識する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '认识' (rèn shi) in a short dialogue.",
+          "text_ja": "'认识'（rèn shi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0080",
+      "term": "喜欢",
+      "display_term": "喜欢",
+      "pronunciation_ipa": "xǐ huan",
+      "pos": "verb",
+      "meaning_en": "to like",
+      "meaning_ja": "好きである",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '喜欢' (xǐ huan) in a short dialogue.",
+          "text_ja": "'喜欢'（xǐ huan）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0081",
+      "term": "想",
+      "display_term": "想",
+      "pronunciation_ipa": "xiǎng",
+      "pos": "verb",
+      "meaning_en": "to think; to want",
+      "meaning_ja": "思う／〜したい",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '想' (xiǎng) in a short dialogue.",
+          "text_ja": "'想'（xiǎng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0082",
+      "term": "要",
+      "display_term": "要",
+      "pronunciation_ipa": "yào",
+      "pos": "verb",
+      "meaning_en": "to want; to need",
+      "meaning_ja": "欲しい／必要とする",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '要' (yào) in a short dialogue.",
+          "text_ja": "'要'（yào）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0083",
+      "term": "会",
+      "display_term": "会",
+      "pronunciation_ipa": "huì",
+      "pos": "verb",
+      "meaning_en": "can; know how to",
+      "meaning_ja": "できる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '会' (huì) in a short dialogue.",
+          "text_ja": "'会'（huì）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0084",
+      "term": "能",
+      "display_term": "能",
+      "pronunciation_ipa": "néng",
+      "pos": "verb",
+      "meaning_en": "to be able to",
+      "meaning_ja": "できる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '能' (néng) in a short dialogue.",
+          "text_ja": "'能'（néng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0085",
+      "term": "可以",
+      "display_term": "可以",
+      "pronunciation_ipa": "kě yǐ",
+      "pos": "verb",
+      "meaning_en": "may; can",
+      "meaning_ja": "〜してよい／できる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '可以' (kě yǐ) in a short dialogue.",
+          "text_ja": "'可以'（kě yǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0086",
+      "term": "去",
+      "display_term": "去",
+      "pronunciation_ipa": "qù",
+      "pos": "verb",
+      "meaning_en": "to go",
+      "meaning_ja": "行く",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '去' (qù) in a short dialogue.",
+          "text_ja": "'去'（qù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0087",
+      "term": "来",
+      "display_term": "来",
+      "pronunciation_ipa": "lái",
+      "pos": "verb",
+      "meaning_en": "to come",
+      "meaning_ja": "来る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '来' (lái) in a short dialogue.",
+          "text_ja": "'来'（lái）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0088",
+      "term": "回",
+      "display_term": "回",
+      "pronunciation_ipa": "huí",
+      "pos": "verb",
+      "meaning_en": "to return",
+      "meaning_ja": "戻る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '回' (huí) in a short dialogue.",
+          "text_ja": "'回'（huí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0089",
+      "term": "看",
+      "display_term": "看",
+      "pronunciation_ipa": "kàn",
+      "pos": "verb",
+      "meaning_en": "to look; to watch",
+      "meaning_ja": "見る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '看' (kàn) in a short dialogue.",
+          "text_ja": "'看'（kàn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0090",
+      "term": "听",
+      "display_term": "听",
+      "pronunciation_ipa": "tīng",
+      "pos": "verb",
+      "meaning_en": "to listen",
+      "meaning_ja": "聞く",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '听' (tīng) in a short dialogue.",
+          "text_ja": "'听'（tīng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0091",
+      "term": "说",
+      "display_term": "说",
+      "pronunciation_ipa": "shuō",
+      "pos": "verb",
+      "meaning_en": "to speak; to say",
+      "meaning_ja": "話す",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '说' (shuō) in a short dialogue.",
+          "text_ja": "'说'（shuō）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0092",
+      "term": "读",
+      "display_term": "读",
+      "pronunciation_ipa": "dú",
+      "pos": "verb",
+      "meaning_en": "to read",
+      "meaning_ja": "読む",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '读' (dú) in a short dialogue.",
+          "text_ja": "'读'（dú）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0093",
+      "term": "写",
+      "display_term": "写",
+      "pronunciation_ipa": "xiě",
+      "pos": "verb",
+      "meaning_en": "to write",
+      "meaning_ja": "書く",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '写' (xiě) in a short dialogue.",
+          "text_ja": "'写'（xiě）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0094",
+      "term": "买",
+      "display_term": "买",
+      "pronunciation_ipa": "mǎi",
+      "pos": "verb",
+      "meaning_en": "to buy",
+      "meaning_ja": "買う",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '买' (mǎi) in a short dialogue.",
+          "text_ja": "'买'（mǎi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0095",
+      "term": "卖",
+      "display_term": "卖",
+      "pronunciation_ipa": "mài",
+      "pos": "verb",
+      "meaning_en": "to sell",
+      "meaning_ja": "売る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '卖' (mài) in a short dialogue.",
+          "text_ja": "'卖'（mài）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0096",
+      "term": "吃",
+      "display_term": "吃",
+      "pronunciation_ipa": "chī",
+      "pos": "verb",
+      "meaning_en": "to eat",
+      "meaning_ja": "食べる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '吃' (chī) in a short dialogue.",
+          "text_ja": "'吃'（chī）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0097",
+      "term": "喝",
+      "display_term": "喝",
+      "pronunciation_ipa": "hē",
+      "pos": "verb",
+      "meaning_en": "to drink",
+      "meaning_ja": "飲む",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '喝' (hē) in a short dialogue.",
+          "text_ja": "'喝'（hē）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0098",
+      "term": "坐",
+      "display_term": "坐",
+      "pronunciation_ipa": "zuò",
+      "pos": "verb",
+      "meaning_en": "to sit",
+      "meaning_ja": "座る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '坐' (zuò) in a short dialogue.",
+          "text_ja": "'坐'（zuò）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0099",
+      "term": "走",
+      "display_term": "走",
+      "pronunciation_ipa": "zǒu",
+      "pos": "verb",
+      "meaning_en": "to walk; to leave",
+      "meaning_ja": "歩く／立ち去る",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '走' (zǒu) in a short dialogue.",
+          "text_ja": "'走'（zǒu）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0100",
+      "term": "开",
+      "display_term": "开",
+      "pronunciation_ipa": "kāi",
+      "pos": "verb",
+      "meaning_en": "to open; to drive",
+      "meaning_ja": "開ける／運転する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '开' (kāi) in a short dialogue.",
+          "text_ja": "'开'（kāi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0101",
+      "term": "关",
+      "display_term": "关",
+      "pronunciation_ipa": "guān",
+      "pos": "verb",
+      "meaning_en": "to close",
+      "meaning_ja": "閉める",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '关' (guān) in a short dialogue.",
+          "text_ja": "'关'（guān）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0102",
+      "term": "学习",
+      "display_term": "学习",
+      "pronunciation_ipa": "xué xí",
+      "pos": "verb",
+      "meaning_en": "to study",
+      "meaning_ja": "勉強する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '学习' (xué xí) in a short dialogue.",
+          "text_ja": "'学习'（xué xí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0103",
+      "term": "工作",
+      "display_term": "工作",
+      "pronunciation_ipa": "gōng zuò",
+      "pos": "verb",
+      "meaning_en": "to work",
+      "meaning_ja": "働く",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '工作' (gōng zuò) in a short dialogue.",
+          "text_ja": "'工作'（gōng zuò）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0104",
+      "term": "休息",
+      "display_term": "休息",
+      "pronunciation_ipa": "xiū xi",
+      "pos": "verb",
+      "meaning_en": "to rest",
+      "meaning_ja": "休む",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '休息' (xiū xi) in a short dialogue.",
+          "text_ja": "'休息'（xiū xi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0105",
+      "term": "帮助",
+      "display_term": "帮助",
+      "pronunciation_ipa": "bāng zhù",
+      "pos": "verb",
+      "meaning_en": "to help",
+      "meaning_ja": "助ける",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '帮助' (bāng zhù) in a short dialogue.",
+          "text_ja": "'帮助'（bāng zhù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0106",
+      "term": "问",
+      "display_term": "问",
+      "pronunciation_ipa": "wèn",
+      "pos": "verb",
+      "meaning_en": "to ask",
+      "meaning_ja": "尋ねる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '问' (wèn) in a short dialogue.",
+          "text_ja": "'问'（wèn）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0107",
+      "term": "回答",
+      "display_term": "回答",
+      "pronunciation_ipa": "huí dá",
+      "pos": "verb",
+      "meaning_en": "to answer",
+      "meaning_ja": "答える",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '回答' (huí dá) in a short dialogue.",
+          "text_ja": "'回答'（huí dá）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0108",
+      "term": "开始",
+      "display_term": "开始",
+      "pronunciation_ipa": "kāi shǐ",
+      "pos": "verb",
+      "meaning_en": "to start",
+      "meaning_ja": "始める",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '开始' (kāi shǐ) in a short dialogue.",
+          "text_ja": "'开始'（kāi shǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0109",
+      "term": "结束",
+      "display_term": "结束",
+      "pronunciation_ipa": "jié shù",
+      "pos": "verb",
+      "meaning_en": "to end",
+      "meaning_ja": "終わる",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '结束' (jié shù) in a short dialogue.",
+          "text_ja": "'结束'（jié shù）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0110",
+      "term": "准备",
+      "display_term": "准备",
+      "pronunciation_ipa": "zhǔn bèi",
+      "pos": "verb",
+      "meaning_en": "to prepare",
+      "meaning_ja": "準備する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '准备' (zhǔn bèi) in a short dialogue.",
+          "text_ja": "'准备'（zhǔn bèi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0111",
+      "term": "练习",
+      "display_term": "练习",
+      "pronunciation_ipa": "liàn xí",
+      "pos": "verb",
+      "meaning_en": "to practice",
+      "meaning_ja": "練習する",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '练习' (liàn xí) in a short dialogue.",
+          "text_ja": "'练习'（liàn xí）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0112",
+      "term": "一起",
+      "display_term": "一起",
+      "pronunciation_ipa": "yì qǐ",
+      "pos": "adverb",
+      "meaning_en": "together",
+      "meaning_ja": "一緒に",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '一起' (yì qǐ) in a short dialogue.",
+          "text_ja": "'一起'（yì qǐ）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0113",
+      "term": "马上",
+      "display_term": "马上",
+      "pronunciation_ipa": "mǎ shàng",
+      "pos": "adverb",
+      "meaning_en": "right away",
+      "meaning_ja": "すぐに",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '马上' (mǎ shàng) in a short dialogue.",
+          "text_ja": "'马上'（mǎ shàng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0114",
+      "term": "已经",
+      "display_term": "已经",
+      "pronunciation_ipa": "yǐ jīng",
+      "pos": "adverb",
+      "meaning_en": "already",
+      "meaning_ja": "すでに",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '已经' (yǐ jīng) in a short dialogue.",
+          "text_ja": "'已经'（yǐ jīng）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    },
+    {
+      "entry_id": "zhd-0115",
+      "term": "还是",
+      "display_term": "还是",
+      "pronunciation_ipa": "hái shi",
+      "pos": "conjunction",
+      "meaning_en": "or; still",
+      "meaning_ja": "それとも／まだ",
+      "preposition_usages": [],
+      "verb_preposition_usages": [],
+      "verb_preposition_details": [],
+      "common_collocations": [],
+      "idioms": [],
+      "latin_etymology": "",
+      "related_terms": [],
+      "lore_note": "",
+      "canonical_translation": "",
+      "tags": [
+        "chinese",
+        "daily",
+        "frequent",
+        "hsk4"
+      ],
+      "synonyms": [],
+      "confusables": [],
+      "examples": [
+        {
+          "text_en": "Please practice '还是' (hái shi) in a short dialogue.",
+          "text_ja": "'还是'（hái shi）を短い会話で練習しましょう。"
+        }
+      ],
+      "source_quotes": [],
+      "updated_at": "2026-02-23T00:00:00Z"
+    }
+  ]
+}
